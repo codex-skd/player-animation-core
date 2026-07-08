@@ -1,25 +1,25 @@
+# Player Animation Core
 
-Installation information
-=======
+A NeoForge library that allows mods to animate the player without conflicts between mods.
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+## Features
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+- **Non-conflicting player animations**: Multiple mods can animate the player simultaneously
+- **First-person model support**: THIRD_PERSON_MODEL mode for first-person animations
+- **Molang engine**: Full support for Molang expressions in animations
+- **Keyframe system**: Advanced keyframe-based animation system with easing support
+- **Layered animation stack**: Priority-based animation layering with fade modifiers
+- **Mod API**: Simple API for other mods to register and trigger animations
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
+## Version: 0.0.0-beta.1
 
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
+Initial beta release. Based on Player Animation Library, rebranded and fixed.
 
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+### Bug fixes
+- Fixed armor disappearing when using `FirstPersonMode.THIRD_PERSON_MODEL`
+
+## Links
+- GitLab: https://gitlab.com/stalking-dragons/minecraft/player-animation-core
+
+## License
+All Rights Reserved
