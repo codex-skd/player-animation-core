@@ -11,6 +11,7 @@
     "ElytraLayerMixin",
     "ItemInHandLayerMixin",
     "LivingEntityRendererMixin",
+    "LivingEntityTickMixin",
     "PlayerCapeModelMixin",
     "PlayerModelMixin",
     "firstPerson.HumanoidArmorLayerMixin",

@@ -13,6 +13,7 @@ import net.minecraft.world.item.ItemStack;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
+import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
 
 @Mixin({HumanoidArmorLayer.class})
@@ -31,6 +32,7 @@ public abstract class HumanoidArmorLayerMixin<T extends HumanoidRenderState, A e
       EquipmentSlot slot,
       int packedLight,
       HumanoidRenderState renderState,
+      CallbackInfo ci,
       @Local(ordinal = 0) HumanoidModel<?> humanoidModel
    ) {
       if (renderState instanceof IAvatarAnimationState state && state.playerAnimLib$isFirstPersonPass()) {

@@ -4,7 +4,6 @@ import com.skd.playeranimationcore.accessors.IAnimatedAvatar;
 import com.skd.playeranimationcore.animation.AvatarAnimManager;
 import com.skd.playeranimationcore.api.PlayerAnimationAccess;
 import com.skd.playeranimationcore.api.PlayerAnimationFactory;
-import com.skd.playeranimationcore.util.ClientUtil;
 import com.skd.playeranimationcore.animation.layered.IAnimation;
 import java.util.HashMap;
 import java.util.Map;
@@ -15,11 +14,8 @@ import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.level.Level;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Unique;
-import org.spongepowered.asm.mixin.injection.At;
-import org.spongepowered.asm.mixin.injection.Inject;
-import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
-@Mixin({LivingEntity.class})
+@Mixin({Avatar.class})
 public abstract class AvatarMixin extends LivingEntity implements IAnimatedAvatar {
    @Unique
    private final Map<Identifier, IAnimation> playerAnimLib$modAnimationData = new HashMap<>();
@@ -48,15 +44,5 @@ public abstract class AvatarMixin extends LivingEntity implements IAnimatedAvata
    @Override
    public IAnimation playerAnimLib$getAnimation(Identifier id) {
       return this.playerAnimLib$modAnimationData.containsKey(id) ? this.playerAnimLib$modAnimationData.get(id) : null;
-   }
-
-   @Inject(
-      method = {"tick"},
-      at = {@At("TAIL")}
-   )
-   private void onTick(CallbackInfo ci) {
-      if ((Object)this instanceof Avatar && this.level().isClientSide()) {
-         this.playerAnimLib$animationManager.handleAnimations(0.0F, true, ClientUtil.shouldBeFirstPersonPass());
-      }
    }
 }

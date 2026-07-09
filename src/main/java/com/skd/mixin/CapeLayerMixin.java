@@ -5,19 +5,16 @@ import com.skd.playeranimationcore.accessors.IAvatarAnimationState;
 import com.skd.playeranimationcore.animation.AvatarAnimManager;
 import net.minecraft.client.model.player.PlayerModel;
 import net.minecraft.client.renderer.SubmitNodeCollector;
+import net.minecraft.client.renderer.entity.RenderLayerParent;
 import net.minecraft.client.renderer.entity.layers.CapeLayer;
 import net.minecraft.client.renderer.entity.state.AvatarRenderState;
 import org.spongepowered.asm.mixin.Mixin;
-import org.spongepowered.asm.mixin.Shadow;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
 @Mixin({CapeLayer.class})
 public class CapeLayerMixin {
-   @Shadow
-   private PlayerModel getParentModel() { return null; }
-
    @Inject(
       method = {"submit(Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/SubmitNodeCollector;ILnet/minecraft/client/renderer/entity/state/AvatarRenderState;FF)V"},
       at = {@At(
@@ -30,7 +27,7 @@ public class CapeLayerMixin {
    ) {
       AvatarAnimManager emote = ((IAvatarAnimationState) avatarRenderState).playerAnimLib$getAnimManager();
       if (emote != null && emote.isActive()) {
-         this.getParentModel().body.translateAndRotate(poseStack);
+         ((PlayerModel)((RenderLayerParent<?, ?>)(Object)this).getModel()).body.translateAndRotate(poseStack);
       }
    }
 }
