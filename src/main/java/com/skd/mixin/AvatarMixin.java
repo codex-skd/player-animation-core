@@ -19,7 +19,7 @@ import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 
-@Mixin({Avatar.class})
+@Mixin({LivingEntity.class})
 public abstract class AvatarMixin extends LivingEntity implements IAnimatedAvatar {
    @Unique
    private final Map<Identifier, IAnimation> playerAnimLib$modAnimationData = new HashMap<>();
@@ -33,7 +33,7 @@ public abstract class AvatarMixin extends LivingEntity implements IAnimatedAvata
    @Unique
    @SuppressWarnings("unchecked")
    private AvatarAnimManager playerAnimLib$createAnimationStack() {
-      Avatar self = (Avatar)(Object)this;
+      if (!((Object)this instanceof Avatar self)) return null;
       AvatarAnimManager manager = new AvatarAnimManager(self);
       PlayerAnimationFactory.ANIMATION_DATA_FACTORY.prepareAnimations(self, manager, this.playerAnimLib$modAnimationData);
       PlayerAnimationAccess.REGISTER_ANIMATION_EVENT.invoker().registerAnimation(self, manager);
@@ -55,7 +55,7 @@ public abstract class AvatarMixin extends LivingEntity implements IAnimatedAvata
       at = {@At("TAIL")}
    )
    private void onTick(CallbackInfo ci) {
-      if (this.level().isClientSide()) {
+      if ((Object)this instanceof Avatar && this.level().isClientSide()) {
          this.playerAnimLib$animationManager.handleAnimations(0.0F, true, ClientUtil.shouldBeFirstPersonPass());
       }
    }
