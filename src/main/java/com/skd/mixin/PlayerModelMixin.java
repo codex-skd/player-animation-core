@@ -9,13 +9,11 @@ import com.skd.playeranimationcore.animation.AvatarAnimManager;
 import com.skd.playeranimationcore.util.RenderUtil;
 import com.skd.playeranimationcore.api.firstPerson.FirstPersonConfiguration;
 import com.skd.playeranimationcore.bones.PlayerAnimBone;
-import java.util.function.Function;
 import net.minecraft.client.model.HumanoidModel;
 import net.minecraft.client.model.geom.ModelPart;
 import net.minecraft.client.model.player.PlayerModel;
 import net.minecraft.client.renderer.entity.state.AvatarRenderState;
-import net.minecraft.client.renderer.rendertype.RenderType;
-import net.minecraft.resources.Identifier;
+import net.minecraft.client.renderer.rendertype.RenderTypes;
 import org.jetbrains.annotations.Nullable;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Unique;
@@ -41,9 +39,10 @@ public class PlayerModelMixin extends HumanoidModel<AvatarRenderState> implement
    @Unique
    private final PlayerAnimBone pal$leftLeg = new PlayerAnimBone("left_leg");
 
-   public PlayerModelMixin(ModelPart root, Function<Identifier, RenderType> renderType) {
-      super(root, renderType);
+   public PlayerModelMixin(ModelPart root, boolean slim) {
+      super(root, RenderTypes::entityTranslucent);
    }
+
 
    @Inject(
       method = {"setupAnim(Lnet/minecraft/client/renderer/entity/state/AvatarRenderState;)V"},
