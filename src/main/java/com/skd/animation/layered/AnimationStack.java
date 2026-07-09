@@ -70,37 +70,41 @@ public class AnimationStack implements IAnimation {
       return this.layers.removeIf(integerIAnimationPair -> (Integer)integerIAnimationPair.left() == layerLevel);
    }
 
-    @NotNull
-    @Override
-    public FirstPersonMode getFirstPersonMode() {
-       int i = this.layers.size();
+   @NotNull
+   @Override
+   public FirstPersonMode getFirstPersonMode() {
+      int i = this.layers.size();
 
-       while (i > 0) {
-          Pair<Integer, IAnimation> layer = this.layers.get(--i);
-          FirstPersonMode mode = ((IAnimation)layer.right()).getFirstPersonMode();
-          if (mode != FirstPersonMode.NONE) {
-             return mode;
-          }
-       }
+      while (i > 0) {
+         Pair<Integer, IAnimation> layer = this.layers.get(--i);
+         if (((IAnimation)layer.right()).isActive()) {
+            FirstPersonMode mode = ((IAnimation)layer.right()).getFirstPersonMode();
+            if (mode != FirstPersonMode.NONE) {
+               return mode;
+            }
+         }
+      }
 
-       return FirstPersonMode.NONE;
-    }
+      return FirstPersonMode.NONE;
+   }
 
-    @NotNull
-    @Override
-    public FirstPersonConfiguration getFirstPersonConfiguration() {
-       int i = this.layers.size();
+   @NotNull
+   @Override
+   public FirstPersonConfiguration getFirstPersonConfiguration() {
+      int i = this.layers.size();
 
-       while (i > 0) {
-          Pair<Integer, IAnimation> layer = this.layers.get(--i);
-          FirstPersonMode mode = ((IAnimation)layer.right()).getFirstPersonMode();
-          if (mode != FirstPersonMode.NONE) {
-             return ((IAnimation)layer.right()).getFirstPersonConfiguration();
-          }
-       }
+      while (i > 0) {
+         Pair<Integer, IAnimation> layer = this.layers.get(--i);
+         if (((IAnimation)layer.right()).isActive()) {
+            FirstPersonMode mode = ((IAnimation)layer.right()).getFirstPersonMode();
+            if (mode != FirstPersonMode.NONE) {
+               return ((IAnimation)layer.right()).getFirstPersonConfiguration();
+            }
+         }
+      }
 
-       return IAnimation.super.getFirstPersonConfiguration();
-    }
+      return IAnimation.super.getFirstPersonConfiguration();
+   }
 
    public int getPriority() {
       int priority = 0;
