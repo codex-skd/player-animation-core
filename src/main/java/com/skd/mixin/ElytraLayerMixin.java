@@ -7,7 +7,7 @@ import com.skd.playeranimationcore.util.RenderUtil;
 import com.skd.playeranimationcore.bones.PlayerAnimBone;
 import net.minecraft.client.model.player.PlayerModel;
 import net.minecraft.client.renderer.SubmitNodeCollector;
-import net.minecraft.client.renderer.entity.RenderLayerParent;
+import net.minecraft.client.renderer.entity.layers.RenderLayer;
 import net.minecraft.client.renderer.entity.layers.WingsLayer;
 import net.minecraft.client.renderer.entity.state.HumanoidRenderState;
 import org.spongepowered.asm.mixin.Mixin;
@@ -27,7 +27,7 @@ public class ElytraLayerMixin {
    private void inject(PoseStack poseStack, SubmitNodeCollector submitNodeCollector, int i, HumanoidRenderState humanoidRenderState, float f, float g, CallbackInfo ci) {
       if (humanoidRenderState instanceof IAvatarAnimationState animationState) {
          AvatarAnimManager emote = animationState.playerAnimLib$getAnimManager();
-          if (emote != null && emote.isActive() && ((RenderLayerParent<?, ?>)(Object)this).getModel() instanceof PlayerModel playerModel) {
+          if (emote != null && emote.isActive() && ((RenderLayer<?, ?>)(Object)this).getParentModel() instanceof PlayerModel playerModel) {
             playerModel.body.translateAndRotate(poseStack);
             poseStack.translate(0.0, 0.0, 0.125);
             PlayerAnimBone bone = emote.get3DTransform("elytra");

@@ -5,8 +5,8 @@ import com.skd.playeranimationcore.accessors.IAvatarAnimationState;
 import com.skd.playeranimationcore.animation.AvatarAnimManager;
 import net.minecraft.client.model.player.PlayerModel;
 import net.minecraft.client.renderer.SubmitNodeCollector;
-import net.minecraft.client.renderer.entity.RenderLayerParent;
 import net.minecraft.client.renderer.entity.layers.CapeLayer;
+import net.minecraft.client.renderer.entity.layers.RenderLayer;
 import net.minecraft.client.renderer.entity.state.AvatarRenderState;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;
@@ -27,7 +27,7 @@ public class CapeLayerMixin {
    ) {
       AvatarAnimManager emote = ((IAvatarAnimationState) avatarRenderState).playerAnimLib$getAnimManager();
       if (emote != null && emote.isActive()) {
-         ((PlayerModel)((RenderLayerParent<?, ?>)(Object)this).getModel()).body.translateAndRotate(poseStack);
+         ((PlayerModel)((RenderLayer<?, ?>)(Object)this).getParentModel()).body.translateAndRotate(poseStack);
       }
    }
 }
