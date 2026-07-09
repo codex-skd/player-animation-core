@@ -1,5 +1,10 @@
 # Player Animation Core - Changelog
 
+## 0.0.0-beta.13 (2026-07-09)
+- Fixed runtime ClassCastException en ElytraLayerMixin y CapeLayerMixin: `WingsLayer`/`CapeLayer` extienden `RenderLayer`, no implementan `RenderLayerParent`. Cambiado cast a `((RenderLayer<?, ?>)(Object)this).getParentModel()`
+- Removed `isActive()` check in `AnimationStack.getFirstPersonMode()` and `getFirstPersonConfiguration()` — now returns config from first applicable layer regardless of active state
+- Removed `isActive()` check in `ClientUtil.shouldBeFirstPersonPass()` — `getFirstPersonMode() == THIRD_PERSON_MODEL` is now sufficient
+
 ## 0.0.0-beta.12 (2026-07-09)
 - Fixed CapeLayerMixin: replaced `@Shadow getParentModel()` with cast to `RenderLayerParent` (mismo patrón que ElytraLayerMixin — el método está heredado de `RenderLayer`, no declarado en `CapeLayer`)
 
