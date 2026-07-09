@@ -8,9 +8,7 @@ import com.skd.playeranimationcore.bones.PlayerAnimBone;
 import net.minecraft.client.model.EntityModel;
 import net.minecraft.client.model.player.PlayerModel;
 import net.minecraft.client.renderer.SubmitNodeCollector;
-import net.minecraft.client.renderer.entity.RenderLayerParent;
 import net.minecraft.client.renderer.entity.layers.WingsLayer;
-import net.minecraft.client.renderer.entity.player.AvatarRenderer;
 import net.minecraft.client.renderer.entity.state.HumanoidRenderState;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Shadow;
@@ -21,8 +19,7 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 @Mixin({WingsLayer.class})
 public class ElytraLayerMixin {
    @Shadow
-   private RenderLayerParent<?, ?> renderer;
-
+   private EntityModel<?> getParentModel() { return null; }
    @Inject(
       method = {"submit(Lcom/mojang/blaze3d/vertex/PoseStack;Lnet/minecraft/client/renderer/SubmitNodeCollector;ILnet/minecraft/client/renderer/entity/state/HumanoidRenderState;FF)V"},
       at = {@At(
@@ -33,8 +30,8 @@ public class ElytraLayerMixin {
    private void inject(PoseStack poseStack, SubmitNodeCollector submitNodeCollector, int i, HumanoidRenderState humanoidRenderState, float f, float g, CallbackInfo ci) {
       if (humanoidRenderState instanceof IAvatarAnimationState animationState) {
          AvatarAnimManager emote = animationState.playerAnimLib$getAnimManager();
-         if (emote != null && emote.isActive() && this.renderer instanceof AvatarRenderer<?> playerRenderer) {
-            ((PlayerModel)playerRenderer.getModel()).body.translateAndRotate(poseStack);
+         if (emote != null && emote.isActive() && this.getParentModel() instanceof PlayerModel playerModel) {
+            playerModel.body.translateAndRotate(poseStack);
             poseStack.translate(0.0, 0.0, 0.125);
             PlayerAnimBone bone = emote.get3DTransform("elytra");
             bone.applyOtherBone(emote.get3DTransform("cape"));

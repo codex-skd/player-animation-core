@@ -21,10 +21,6 @@
   ],
   "mixins": [],
   "injectors": {
-    "defaultRequire": 0
-  },
-  "debug": {
-    "verbose": true,
-    "export": true
+    "defaultRequire": 1
   }
 }
