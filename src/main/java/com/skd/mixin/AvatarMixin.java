@@ -13,7 +13,6 @@ import net.minecraft.world.entity.Avatar;
 import net.minecraft.world.entity.EntityType;
 import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.level.Level;
-import org.spongepowered.asm.mixin.Intrinsic;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.Unique;
 import org.spongepowered.asm.mixin.injection.At;
@@ -51,17 +50,11 @@ public abstract class AvatarMixin extends LivingEntity implements IAnimatedAvata
       return this.playerAnimLib$modAnimationData.containsKey(id) ? this.playerAnimLib$modAnimationData.get(id) : null;
    }
 
-   @Intrinsic
-   public void tick() {
-      super.tick();
-   }
-
    @Inject(
-      method = {"tick", "method_5773"},
-      at = {@At("TAIL")},
-      remap = false
+      method = {"tick"},
+      at = {@At("TAIL")}
    )
-   private void tick(CallbackInfo ci) {
+   private void onTick(CallbackInfo ci) {
       if (this.level().isClientSide()) {
          this.playerAnimLib$animationManager.handleAnimations(0.0F, true, ClientUtil.shouldBeFirstPersonPass());
       }
