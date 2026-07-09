@@ -27,8 +27,7 @@ public final class ClientUtil {
    public static boolean shouldBeFirstPersonPass(Camera camera) {
       return !camera.isDetached()
          && camera.entity() instanceof IAnimatedAvatar player
-         && player.playerAnimLib$getAnimManager().isActive()
-         && player.playerAnimLib$getAnimManager().getFirstPersonMode() == FirstPersonMode.THIRD_PERSON_MODEL
+        && player.playerAnimLib$getAnimManager().getFirstPersonMode() == FirstPersonMode.THIRD_PERSON_MODEL
          && (!(camera.entity() instanceof LivingEntity) || !((LivingEntity)camera.entity()).isSleeping());
    }
 }
