@@ -4,6 +4,7 @@ public enum FirstPersonMode {
    NONE(false),
    VANILLA(true),
    THIRD_PERSON_MODEL(true),
+   HANDS_ONLY(true),
    DISABLED(false);
 
    private final boolean enabled;

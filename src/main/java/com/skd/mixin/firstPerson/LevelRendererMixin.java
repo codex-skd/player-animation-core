@@ -4,7 +4,9 @@ import com.llamalad7.mixinextras.injector.ModifyExpressionValue;
 import com.llamalad7.mixinextras.sugar.Local;
 import com.llamalad7.mixinextras.sugar.Share;
 import com.llamalad7.mixinextras.sugar.ref.LocalBooleanRef;
+import com.skd.playeranimationcore.accessors.IAnimatedAvatar;
 import com.skd.playeranimationcore.accessors.IAvatarAnimationState;
+import com.skd.playeranimationcore.api.firstPerson.FirstPersonMode;
 import com.skd.playeranimationcore.util.ClientUtil;
 import net.minecraft.client.Camera;
 import net.minecraft.client.DeltaTracker;
@@ -27,14 +29,16 @@ public class LevelRendererMixin {
          target = "Lnet/minecraft/client/Camera;isDetached()Z"
       )}
    )
-   private boolean fakeThirdPersonMode(boolean original, @Local(argsOnly = true) Camera camera, @Share("firstPerson") LocalBooleanRef isFirstPerson) {
-      if (ClientUtil.shouldBeFirstPersonPass(camera)) {
-         isFirstPerson.set(true);
-         return true;
-      } else {
-         return original;
-      }
-   }
+    private boolean fakeThirdPersonMode(boolean original, @Local(argsOnly = true) Camera camera, @Share("firstPerson") LocalBooleanRef isFirstPerson) {
+       if (ClientUtil.shouldBeFirstPersonPass(camera)
+          && camera.entity() instanceof IAnimatedAvatar player
+          && player.playerAnimLib$getAnimManager().getFirstPersonMode() == FirstPersonMode.THIRD_PERSON_MODEL) {
+          isFirstPerson.set(true);
+          return true;
+       } else {
+          return original;
+       }
+    }
 
    @Inject(
       method = {"extractVisibleEntities"},

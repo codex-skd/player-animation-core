@@ -1,5 +1,9 @@
 # Player Animation Core - Changelog
 
+## 0.0.0-beta.16 (2026-07-09)
+- Added `FirstPersonMode.HANDS_ONLY` — nuevo modo que solo anima brazos sin reemplazar el rendering vanilla de primera persona (no detachéa cámara, no cancela vanilla hands)
+- `LevelRendererMixin.fakeThirdPersonMode()` — ahora solo fuerza camera detached cuando el modo es `THIRD_PERSON_MODEL`
+
 ## 0.0.0-beta.15 (2026-07-09)
 - Fix: brazos extra en primera persona — `ItemInHandRendererMixin` ya no requiere `isActive()` para cancelar vanilla hands; basta con `getFirstPersonMode() == THIRD_PERSON_MODEL`
 - Fix: armadura invisible en primera persona — `HumanoidArmorLayerMixin` siempre muestra armadura durante first-person pass, sin consultar `isShowArmor()`
