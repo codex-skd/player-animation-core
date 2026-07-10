@@ -27,7 +27,6 @@ public class ItemInHandRendererMixin {
       float f, PoseStack poseStack, SubmitNodeCollector submitNodeCollector, LocalPlayer localPlayer, int i, CallbackInfo ci
    ) {
       if (localPlayer instanceof IAnimatedAvatar animated
-         && animated.playerAnimLib$getAnimManager().isActive()
          && animated.playerAnimLib$getAnimManager().getFirstPersonMode() == FirstPersonMode.THIRD_PERSON_MODEL) {
          ci.cancel();
       }
@@ -51,7 +50,6 @@ public class ItemInHandRendererMixin {
       CallbackInfo ci
    ) {
       if (entity instanceof IAnimatedAvatar player
-         && player.playerAnimLib$getAnimManager().isActive()
          && entity == Minecraft.getInstance().getCameraEntity()
          && !Minecraft.getInstance().gameRenderer.getMainCamera().isDetached()
          && player.playerAnimLib$getAnimManager().getFirstPersonMode() == FirstPersonMode.THIRD_PERSON_MODEL) {

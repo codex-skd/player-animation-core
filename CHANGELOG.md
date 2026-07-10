@@ -1,5 +1,10 @@
 # Player Animation Core - Changelog
 
+## 0.0.0-beta.15 (2026-07-09)
+- Fix: brazos extra en primera persona — `ItemInHandRendererMixin` ya no requiere `isActive()` para cancelar vanilla hands; basta con `getFirstPersonMode() == THIRD_PERSON_MODEL`
+- Fix: armadura invisible en primera persona — `HumanoidArmorLayerMixin` siempre muestra armadura durante first-person pass, sin consultar `isShowArmor()`
+- Fix: animaciones de ataque no se reproducían en el primer golpe — `AnimationController.hasAnimationFinished()` retorna `true` si `currentRawAnimation` es `null`
+
 ## 0.0.0-beta.14 (2026-07-09)
 - Removed `isActive()` check in `AnimationStack.getFirstPersonMode()` and `getFirstPersonConfiguration()` — now returns config from first applicable layer regardless of active state
 - Removed `isActive()` check in `ClientUtil.shouldBeFirstPersonPass()` — `getFirstPersonMode() == THIRD_PERSON_MODEL` is now sufficient

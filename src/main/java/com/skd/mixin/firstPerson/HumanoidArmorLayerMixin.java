@@ -36,17 +36,14 @@ public abstract class HumanoidArmorLayerMixin<T extends HumanoidRenderState, A e
       @Local(ordinal = 0) HumanoidModel<?> humanoidModel
    ) {
       if (renderState instanceof IAvatarAnimationState state && state.playerAnimLib$isFirstPersonPass()) {
-         humanoidModel.root().visible = false;
          AvatarAnimManager emote = state.playerAnimLib$getAnimManager();
-         if (emote.getFirstPersonConfiguration().isShowArmor()) {
-            humanoidModel.head.visible = true;
-            humanoidModel.hat.visible = true;
-            humanoidModel.body.visible = true;
-            humanoidModel.rightArm.visible = emote.getFirstPersonConfiguration().isShowRightArm();
-            humanoidModel.leftArm.visible = emote.getFirstPersonConfiguration().isShowLeftArm();
-            humanoidModel.rightLeg.visible = true;
-            humanoidModel.leftLeg.visible = true;
-         }
+         humanoidModel.head.visible = true;
+         humanoidModel.hat.visible = true;
+         humanoidModel.body.visible = true;
+         humanoidModel.rightArm.visible = emote.getFirstPersonConfiguration().isShowRightArm();
+         humanoidModel.leftArm.visible = emote.getFirstPersonConfiguration().isShowLeftArm();
+         humanoidModel.rightLeg.visible = true;
+         humanoidModel.leftLeg.visible = true;
       }
    }
 }

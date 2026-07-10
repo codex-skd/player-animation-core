@@ -204,7 +204,7 @@ public abstract class AnimationController implements IAnimation {
    }
 
    public boolean hasAnimationFinished() {
-      return this.currentRawAnimation != null && this.animationState == State.STOPPED;
+      return this.currentRawAnimation == null || this.animationState == State.STOPPED;
    }
 
    public RawAnimation getCurrentRawAnimation() {
