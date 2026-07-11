@@ -77,9 +77,6 @@ public class ItemInHandRendererMixin {
       }
    }
 
-   @Unique
-   private static final float pal$ARM_ROTATION_SCALE = 0.2f;
-
    @Inject(
       method = {"renderItem"},
       at = {@At("HEAD")}
@@ -94,18 +91,19 @@ public class ItemInHandRendererMixin {
          && animated.playerAnimLib$getAnimManager().getFirstPersonMode() == FirstPersonMode.HANDS_ONLY_ARM
          && animated.playerAnimLib$getAnimManager().isActive()) {
          AvatarAnimManager anim = animated.playerAnimLib$getAnimManager();
+         float scale = anim.getFirstPersonConfiguration().getArmRotationScale();
          PlayerAnimBone bone = transformType == ItemDisplayContext.FIRST_PERSON_LEFT_HAND
             ? this.pal$leftArm : this.pal$rightArm;
          bone.setToInitialPose();
          anim.get3DTransform(bone);
          if (bone.rotation.z != 0.0F) {
-            poseStack.mulPose(Axis.ZP.rotation(-bone.rotation.y * pal$ARM_ROTATION_SCALE));
+            poseStack.mulPose(Axis.ZP.rotation(-bone.rotation.y * scale));
          }
          if (bone.rotation.y != 0.0F) {
-            poseStack.mulPose(Axis.YP.rotation(-bone.rotation.z * pal$ARM_ROTATION_SCALE));
+            poseStack.mulPose(Axis.YP.rotation(-bone.rotation.z * scale));
          }
          if (bone.rotation.x != 0.0F) {
-            poseStack.mulPose(Axis.XP.rotation(-bone.rotation.x * pal$ARM_ROTATION_SCALE));
+            poseStack.mulPose(Axis.XP.rotation(-bone.rotation.x * scale));
          }
       }
    }

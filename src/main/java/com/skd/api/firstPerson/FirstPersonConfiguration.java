@@ -6,6 +6,7 @@ public class FirstPersonConfiguration {
    boolean showRightItem = true;
    boolean showLeftItem = true;
    boolean showArmor = false;
+   float armRotationScale = 1.0f;
 
    public FirstPersonConfiguration() {
    }
@@ -64,6 +65,15 @@ public class FirstPersonConfiguration {
 
    public FirstPersonConfiguration setShowRightArm(boolean showRightArm) {
       this.showRightArm = showRightArm;
+      return this;
+   }
+
+   public float getArmRotationScale() {
+      return this.armRotationScale;
+   }
+
+   public FirstPersonConfiguration setArmRotationScale(float armRotationScale) {
+      this.armRotationScale = armRotationScale;
       return this;
    }
 }

@@ -1,5 +1,8 @@
 # Player Animation Core - Changelog
 
+## 0.0.0-beta.19 (2026-07-09)
+- `FirstPersonConfiguration` now has configurable `armRotationScale` (default 1.0f). Replaces the hardcoded 0.2f in `HANDS_ONLY_ARM` — mods can set per-weapon scales via `setArmRotationScale()`
+
 ## 0.0.0-beta.18 (2026-07-09)
 - Added `FirstPersonMode.HANDS_ONLY_ARM` — new mode that applies `right_arm`/`left_arm` bone rotations (scaled ×0.2) to vanilla first-person item rendering. Matches third-person arm swing without needing separate item keyframes.
 
