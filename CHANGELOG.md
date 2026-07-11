@@ -1,5 +1,8 @@
 # Player Animation Core - Changelog
 
+## 0.0.0-beta.18 (2026-07-09)
+- Added `FirstPersonMode.HANDS_ONLY_ARM` — new mode that applies `right_arm`/`left_arm` bone rotations (scaled ×0.2) to vanilla first-person item rendering. Matches third-person arm swing without needing separate item keyframes.
+
 ## 0.0.0-beta.17 (2026-07-09)
 - Implemented `HANDS_ONLY` mode: new injection in `ItemInHandRendererMixin.renderItem` HEAD applies `right_item`/`left_item` bone transforms on top of vanilla first-person hand rendering (position, rotation, scale)
 - `renderHandsWithItems` y `cancelItemRender` unchanged — only operate for `THIRD_PERSON_MODEL`, ignore `HANDS_ONLY`

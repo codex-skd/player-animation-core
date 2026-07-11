@@ -40,6 +40,10 @@ public class ItemInHandRendererMixin {
    private final PlayerAnimBone pal$rightItem = new PlayerAnimBone("right_item");
    @Unique
    private final PlayerAnimBone pal$leftItem = new PlayerAnimBone("left_item");
+   @Unique
+   private final PlayerAnimBone pal$rightArm = new PlayerAnimBone("right_arm");
+   @Unique
+   private final PlayerAnimBone pal$leftArm = new PlayerAnimBone("left_arm");
 
    @Inject(
       method = {"renderItem"},
@@ -70,6 +74,39 @@ public class ItemInHandRendererMixin {
             poseStack.mulPose(Axis.XP.rotation(-bone.rotation.x));
          }
          poseStack.scale(bone.scale.x, bone.scale.y, bone.scale.z);
+      }
+   }
+
+   @Unique
+   private static final float pal$ARM_ROTATION_SCALE = 0.2f;
+
+   @Inject(
+      method = {"renderItem"},
+      at = {@At("HEAD")}
+   )
+   private void applyArmBoneTransforms(
+      LivingEntity entity, ItemStack itemStack, ItemDisplayContext transformType,
+      PoseStack poseStack, SubmitNodeCollector submitNodeCollector, int i, CallbackInfo ci
+   ) {
+      if (entity == Minecraft.getInstance().getCameraEntity()
+         && entity instanceof IAnimatedAvatar animated
+         && !Minecraft.getInstance().gameRenderer.getMainCamera().isDetached()
+         && animated.playerAnimLib$getAnimManager().getFirstPersonMode() == FirstPersonMode.HANDS_ONLY_ARM
+         && animated.playerAnimLib$getAnimManager().isActive()) {
+         AvatarAnimManager anim = animated.playerAnimLib$getAnimManager();
+         PlayerAnimBone bone = transformType == ItemDisplayContext.FIRST_PERSON_LEFT_HAND
+            ? this.pal$leftArm : this.pal$rightArm;
+         bone.setToInitialPose();
+         anim.get3DTransform(bone);
+         if (bone.rotation.z != 0.0F) {
+            poseStack.mulPose(Axis.ZP.rotation(-bone.rotation.y * pal$ARM_ROTATION_SCALE));
+         }
+         if (bone.rotation.y != 0.0F) {
+            poseStack.mulPose(Axis.YP.rotation(-bone.rotation.z * pal$ARM_ROTATION_SCALE));
+         }
+         if (bone.rotation.x != 0.0F) {
+            poseStack.mulPose(Axis.XP.rotation(-bone.rotation.x * pal$ARM_ROTATION_SCALE));
+         }
       }
    }
 
