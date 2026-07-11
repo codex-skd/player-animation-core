@@ -1,9 +1,12 @@
 package com.skd.playeranimationcore.mixin.firstPerson;
 
 import com.mojang.blaze3d.vertex.PoseStack;
+import com.mojang.math.Axis;
 import com.skd.playeranimationcore.accessors.IAnimatedAvatar;
+import com.skd.playeranimationcore.animation.AvatarAnimManager;
 import com.skd.playeranimationcore.api.firstPerson.FirstPersonConfiguration;
 import com.skd.playeranimationcore.api.firstPerson.FirstPersonMode;
+import com.skd.playeranimationcore.bones.PlayerAnimBone;
 import net.minecraft.client.Minecraft;
 import net.minecraft.client.player.LocalPlayer;
 import net.minecraft.client.renderer.ItemInHandRenderer;
@@ -12,6 +15,7 @@ import net.minecraft.world.entity.LivingEntity;
 import net.minecraft.world.item.ItemDisplayContext;
 import net.minecraft.world.item.ItemStack;
 import org.spongepowered.asm.mixin.Mixin;
+import org.spongepowered.asm.mixin.Unique;
 import org.spongepowered.asm.mixin.injection.At;
 import org.spongepowered.asm.mixin.injection.Inject;
 import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
@@ -29,6 +33,43 @@ public class ItemInHandRendererMixin {
       if (localPlayer instanceof IAnimatedAvatar animated
          && animated.playerAnimLib$getAnimManager().getFirstPersonMode() == FirstPersonMode.THIRD_PERSON_MODEL) {
          ci.cancel();
+      }
+   }
+
+   @Unique
+   private final PlayerAnimBone pal$rightItem = new PlayerAnimBone("right_item");
+   @Unique
+   private final PlayerAnimBone pal$leftItem = new PlayerAnimBone("left_item");
+
+   @Inject(
+      method = {"renderItem"},
+      at = {@At("HEAD")}
+   )
+   private void applyBoneTransforms(
+      LivingEntity entity, ItemStack itemStack, ItemDisplayContext transformType,
+      PoseStack poseStack, SubmitNodeCollector submitNodeCollector, int i, CallbackInfo ci
+   ) {
+      if (entity == Minecraft.getInstance().getCameraEntity()
+         && entity instanceof IAnimatedAvatar animated
+         && !Minecraft.getInstance().gameRenderer.getMainCamera().isDetached()
+         && animated.playerAnimLib$getAnimManager().getFirstPersonMode() == FirstPersonMode.HANDS_ONLY
+         && animated.playerAnimLib$getAnimManager().isActive()) {
+         AvatarAnimManager anim = animated.playerAnimLib$getAnimManager();
+         PlayerAnimBone bone = transformType == ItemDisplayContext.FIRST_PERSON_LEFT_HAND
+            ? this.pal$leftItem : this.pal$rightItem;
+         bone.setToInitialPose();
+         anim.get3DTransform(bone);
+         poseStack.translate(bone.position.x / 16.0F, -bone.position.y / 16.0F, bone.position.z / 16.0F);
+         if (bone.rotation.z != 0.0F) {
+            poseStack.mulPose(Axis.ZP.rotation(-bone.rotation.y));
+         }
+         if (bone.rotation.y != 0.0F) {
+            poseStack.mulPose(Axis.YP.rotation(-bone.rotation.z));
+         }
+         if (bone.rotation.x != 0.0F) {
+            poseStack.mulPose(Axis.XP.rotation(-bone.rotation.x));
+         }
+         poseStack.scale(bone.scale.x, bone.scale.y, bone.scale.z);
       }
    }
 

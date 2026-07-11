@@ -1,5 +1,9 @@
 # Player Animation Core - Changelog
 
+## 0.0.0-beta.17 (2026-07-09)
+- Implemented `HANDS_ONLY` mode: new injection in `ItemInHandRendererMixin.renderItem` HEAD applies `right_item`/`left_item` bone transforms on top of vanilla first-person hand rendering (position, rotation, scale)
+- `renderHandsWithItems` y `cancelItemRender` unchanged — only operate for `THIRD_PERSON_MODEL`, ignore `HANDS_ONLY`
+
 ## 0.0.0-beta.16 (2026-07-09)
 - Added `FirstPersonMode.HANDS_ONLY` — nuevo modo que solo anima brazos sin reemplazar el rendering vanilla de primera persona (no detachéa cámara, no cancela vanilla hands)
 - `LevelRendererMixin.fakeThirdPersonMode()` — ahora solo fuerza camera detached cuando el modo es `THIRD_PERSON_MODEL`
