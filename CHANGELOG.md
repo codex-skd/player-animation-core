@@ -1,5 +1,8 @@
 # Player Animation Core - Changelog
 
+## 0.0.0-beta.20 (2026-07-14)
+- `HANDS_ONLY_ARM` now computes hand position from arm rotation (`armLength` and `pitchFactor` in `FirstPersonConfiguration`), reproducing the full swing arc in first person
+
 ## 0.0.0-beta.19 (2026-07-09)
 - `FirstPersonConfiguration` now has configurable `armRotationScale` (default 1.0f). Replaces the hardcoded 0.2f in `HANDS_ONLY_ARM` — mods can set per-weapon scales via `setArmRotationScale()`
 

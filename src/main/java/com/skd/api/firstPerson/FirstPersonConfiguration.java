@@ -7,6 +7,8 @@ public class FirstPersonConfiguration {
    boolean showLeftItem = true;
    boolean showArmor = false;
    float armRotationScale = 1.0f;
+   float armLength = 8.0f;
+   float pitchFactor = 0.6f;
 
    public FirstPersonConfiguration() {
    }
@@ -74,6 +76,24 @@ public class FirstPersonConfiguration {
 
    public FirstPersonConfiguration setArmRotationScale(float armRotationScale) {
       this.armRotationScale = armRotationScale;
+      return this;
+   }
+
+   public float getArmLength() {
+      return this.armLength;
+   }
+
+   public FirstPersonConfiguration setArmLength(float armLength) {
+      this.armLength = armLength;
+      return this;
+   }
+
+   public float getPitchFactor() {
+      return this.pitchFactor;
+   }
+
+   public FirstPersonConfiguration setPitchFactor(float pitchFactor) {
+      this.pitchFactor = pitchFactor;
       return this;
    }
 }

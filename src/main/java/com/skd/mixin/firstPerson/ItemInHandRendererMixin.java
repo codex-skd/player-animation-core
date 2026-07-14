@@ -90,13 +90,19 @@ public class ItemInHandRendererMixin {
          && !Minecraft.getInstance().gameRenderer.getMainCamera().isDetached()
          && animated.playerAnimLib$getAnimManager().getFirstPersonMode() == FirstPersonMode.HANDS_ONLY_ARM
          && animated.playerAnimLib$getAnimManager().isActive()) {
-         AvatarAnimManager anim = animated.playerAnimLib$getAnimManager();
-         float scale = anim.getFirstPersonConfiguration().getArmRotationScale();
-         PlayerAnimBone bone = transformType == ItemDisplayContext.FIRST_PERSON_LEFT_HAND
-            ? this.pal$leftArm : this.pal$rightArm;
-         bone.setToInitialPose();
-         anim.get3DTransform(bone);
-         if (bone.rotation.z != 0.0F) {
+          AvatarAnimManager anim = animated.playerAnimLib$getAnimManager();
+          var config = anim.getFirstPersonConfiguration();
+          float scale = config.getArmRotationScale();
+          float armLength = config.getArmLength();
+          float pitchFactor = config.getPitchFactor();
+          PlayerAnimBone bone = transformType == ItemDisplayContext.FIRST_PERSON_LEFT_HAND
+             ? this.pal$leftArm : this.pal$rightArm;
+          bone.setToInitialPose();
+          anim.get3DTransform(bone);
+          float handX = (float)(Math.sin(bone.rotation.y) * armLength) / 16.0F;
+          float handY = (float)(Math.sin(bone.rotation.x) * armLength * pitchFactor) / 16.0F;
+          poseStack.translate(handX, -handY, 0.0F);
+          if (bone.rotation.z != 0.0F) {
             poseStack.mulPose(Axis.ZP.rotation(-bone.rotation.y * scale));
          }
          if (bone.rotation.y != 0.0F) {
