@@ -127,17 +127,17 @@ Usamos [Conventional Commits](https://www.conventionalcommits.org/) para todos l
 ### Ejemplos
 
 ```
-feat: añadir detección de idle del jugador con partículas
-fix: corregir crash al cargar mundo por configuración nula
-refactor: extraer lógica de red a clase separada
-docs: actualizar descripción del proyecto en CurseForge
-chore: bump versión a 0.0.0-beta.3
+feat: add player idle detection with particle indicator
+fix: resolve crash on world load due to null config
+refactor: extract networking logic into separate class
+docs: update curseforge project description
+chore: bump version to 0.0.0-beta.3
 ```
 
 El mensaje del commit **debe incluir la versión** en el formato `v<version>`:
 
 ```
-git commit -m "feat: añadir detección de idle del jugador
+git commit -m "feat: add player idle detection
 
 v0.0.0-beta.1"
 ```
@@ -161,11 +161,11 @@ El prefijo `<mc-version>-neoforge` se adapta según la versión de Minecraft y e
 
 ```bash
 # Beta
-git tag -a 26.1.2-neoforge-beta.21 -m "v0.0.0-beta.21: Actualizar WORKFLOW.md"
+git tag -a 26.1.2-neoforge-beta.21 -m "v0.0.0-beta.21: Update WORKFLOW.md"
 git push origin 26.1.2-neoforge-beta.21
 
 # Release estable
-git tag -a 26.1.2-neoforge-1.0.0 -m "v1.0.0: Primera release estable"
+git tag -a 26.1.2-neoforge-1.0.0 -m "v1.0.0: First stable release"
 git push origin 26.1.2-neoforge-1.0.0
 ```
 
@@ -185,7 +185,7 @@ git checkout minecraft/26.1.2/neoforge-26.1.2.78/production
 
 # Commit con Conventional Commits
 git add -A
-git commit -m "feat: añadir partículas de indicador de escritura
+git commit -m "feat: add typing indicator particles
 
 v0.0.0-beta.2"
 
@@ -209,10 +209,10 @@ git push
 
 # 5. Commit del bump de versión
 git add -A
-git commit -m "chore: bump versión a 0.0.0-beta.3"
+git commit -m "chore: bump version to 0.0.0-beta.3"
 
 # 6. Tag para CurseForge
-git tag -a 26.1.2-neoforge-beta.3 -m "v0.0.0-beta.3: Corrección de errores"
+git tag -a 26.1.2-neoforge-beta.3 -m "v0.0.0-beta.3: Bugfix release"
 git push origin 26.1.2-neoforge-beta.3
 
 # 7. Subir JAR a CurseForge manualmente
@@ -223,8 +223,8 @@ git push origin 26.1.2-neoforge-beta.3
 
 ```bash
 # gradle.properties → mod_version=1.0.0
-git commit -m "chore: bump versión a 1.0.0"
-git tag -a 26.1.2-neoforge-1.0.0 -m "v1.0.0: Primera release estable"
+git commit -m "chore: bump version to 1.0.0"
+git tag -a 26.1.2-neoforge-1.0.0 -m "v1.0.0: First stable release"
 git push origin 26.1.2-neoforge-1.0.0
 ```
 
@@ -242,8 +242,8 @@ git push origin 26.1.2-neoforge-1.0.0
 
 | Ámbito | Idioma |
 |--------|--------|
-| Código fuente, logs, nombres técnicos | **Inglés** (en-US) — estándar de programación |
-| Commits, documentación interna, GitLab (README, CHANGELOG) | **Castellano** (es-ES) |
+| Código fuente, logs, nombres técnicos, commits | **Inglés** (en-US) — estándar de programación |
+| Documentación interna, GitLab (README, CHANGELOG) | **Castellano** (es-ES) |
 | CurseForge (descripción del proyecto, release notes) | **Inglés** (en-US) — plataforma global |
 
-El código y los logs siguen el estándar internacional de programación en inglés. La documentación interna y el repositorio se mantienen en castellano por ser el idioma del equipo. CurseForge se publica en inglés para llegar a la mayor audiencia posible.
+El código, los logs y los commits siguen el estándar internacional de programación en inglés. La documentación interna y el repositorio se mantienen en castellano por ser el idioma del equipo. CurseForge se publica en inglés para llegar a la mayor audiencia posible.
