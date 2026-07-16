@@ -1,5 +1,8 @@
 # Player Animation Core - Changelog
 
+## 0.0.0-beta.21 (2026-07-14)
+- docs: actualizar WORKFLOW.md con sección de ramas y nuevo formato de tags
+
 ## 0.0.0-beta.20 (2026-07-14)
 - `HANDS_ONLY_ARM` now computes hand position from arm rotation (`armLength` and `pitchFactor` in `FirstPersonConfiguration`), reproducing the full swing arc in first person
 
