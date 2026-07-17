@@ -1,5 +1,8 @@
 # Player Animation Core - Changelog
 
+## 1.0.0 (2026-07-17)
+- 🎉 Primera release estable. Todas las características del ciclo beta están estabilizadas para producción.
+
 ## 0.0.0-beta.21 (2026-07-14)
 - docs: actualizar WORKFLOW.md con sección de ramas y nuevo formato de tags
 
