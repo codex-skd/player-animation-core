@@ -106,6 +106,8 @@ El changelog se envía en formato **HTML**, no Markdown. Aunque CurseForge acept
 | `changelogType` | `html` |
 | `changelog` | Código HTML con `<h2>`, `<h3>`, `<ul>/<li>`, `<p>`, `<strong>`, `<code>`, `<blockquote>` |
 
+**Regla importante**: El valor del campo `changelog` en la subida a CurseForge debe ser **exactamente el contenido del archivo** `docs/curseforge/versions/<version>.md`. No resumir, no modificar, no acortar. El archivo ya contiene el HTML que se envía.
+
 #### Ejemplo de estructura HTML para release notes
 
 ```html
@@ -296,7 +298,8 @@ git push
 # 1. Compilar con clean
 ./gradlew.bat clean build
 
-# 2. Preguntar: "¿Copiar el JAR a la instancia de pruebas?"
+# 2. Copiar JAR a la instancia de CurseForge, reemplazando el anterior
+#    PREGUNTAR: "¿Copiar el JAR a la instancia de pruebas?"
 #    Solo hacer si el usuario confirma.
 
 # 3. Si el usuario confirma:
@@ -313,14 +316,14 @@ git push
 ### 4. Preparar versión para CurseForge
 
 ```bash
-# 1. Preguntar: "¿Subir esta versión a CurseForge?"
+# 1. PREGUNTAR: "¿Subir esta versión a CurseForge?"
 #    Solo continuar si el usuario confirma.
 
-# 2. Compilar con clean para evitar caché corrupta
-./gradlew.bat clean build
-
-# 3. Actualizar versión en gradle.properties
+# 2. Actualizar versión en gradle.properties
 #    mod_version=0.0.0-beta.3
+
+# 3. Compilar con clean
+./gradlew.bat clean build
 
 # 4. Crear release notes
 #    docs/curseforge/versions/0.0.0-beta.3.md
@@ -335,7 +338,7 @@ git commit -m "chore: bump version to 0.0.0-beta.3"
 git tag -a 26.1.2-neoforge-beta.3 -m "v0.0.0-beta.3: Bugfix release"
 git push origin 26.1.2-neoforge-beta.3
 
-# 8. Preguntar: "¿Subir JAR a CurseForge ahora?"
+# 8. PREGUNTAR: "¿Subir JAR a CurseForge ahora?"
 #    Solo subir si el usuario confirma.
 #    El JAR está en build/libs/<mod_id>-<minecraft_version>-<framework>-<version>.jar
 ```
