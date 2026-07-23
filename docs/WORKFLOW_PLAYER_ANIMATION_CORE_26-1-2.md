@@ -22,6 +22,15 @@
 | CHANGELOG | `CHANGELOG.md` (fijo) | `CHANGELOG.md` |
 | README | `README.md` (fijo) | `README.md` |
 
+> El nombre del WORKFLOW incluye el `mod_id` y la versión de Minecraft (con puntos reemplazados por guiones) para identificar inequívocamente a qué proyecto y versión pertenece, especialmente útil cuando conviven múltiples versiones del mismo mod.
+
+Reglas:
+- `mod_id` en `gradle.properties` debe coincidir con el nombre del directorio del proyecto
+- El display name en `README.md` y `CHANGELOG.md` debe estar en **Title Case**
+- Las clases Java principales deben seguir el naming del `mod_id` pero en **PascalCase**:
+  - `player_animation_core` → clase `PlayerAnimationCore`, no `Player_animation_core` ni `PlayerAnimationCoreMod`
+- Las config keys en camelCase: `playerAnimationCore.enableFeature`
+
 ## Tipografía
 
 | Ámbito | Fuente |
@@ -58,7 +67,7 @@
 ├── lib_ext/                            # Librerías externas para análisis de la sesión. NO versionado (.gitignore).
 ├── temp/                               # Archivos temporales: investigaciones, prototipos, JARs extraídos, pruebas. NO versionado (.gitignore).
 ├── docs/
-│   ├── WORKFLOW_PLAYER_ANIMATION_CORE_26-1-2.md  # Este documento
+│   ├── WORKFLOW_PLAYER_ANIMATION_CORE_26-1-2.md  # Este documento (ej: WORKFLOW_TELEPORT_ANIMATION_1-21-1.md)
 │   └── curseforge/                    # Documentación para publicación en CurseForge
 │       ├── project_vars.md             # Variables del proyecto (ID, token, versiones)
 │       ├── project_description.md      # Descripción del proyecto
@@ -195,6 +204,8 @@ El changelog se envía en formato **HTML**, no Markdown. Aunque CurseForge acept
 
 | Rama | Propósito |
 |---|---|
+| `minecraft/1.21.1/neoforge-21.1.78/production` | Trabajo diario en Minecraft 1.21.1 |
+| `minecraft/1.21.1/neoforge-21.1.78/main` | Código público para GitHub (misma versión) |
 | `minecraft/26.1.2/neoforge-26.1.2.78/production` | Trabajo diario en Minecraft 26.1.2 |
 | `minecraft/26.1.2/neoforge-26.1.2.78/main` | Código público para GitHub (misma versión) |
 
