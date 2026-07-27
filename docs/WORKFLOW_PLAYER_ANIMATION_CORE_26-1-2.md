@@ -1,6 +1,6 @@
 # Flujo de trabajo — Player Animation Core (NeoForge)
 
-> **Versión del workflow**: 1.5.0 (codex-docs)
+> **Versión del workflow**: 1.6.0 (codex-docs)
 > Este archivo pertenece al proyecto **Player Animation Core**. Cada proyecto tiene su propio `WORKFLOW_<MOD_ID>_<MC-VERSION>.md`.
 > No es un archivo central ni template compartido. Los cambios aquí solo afectan a este proyecto.
 > Para actualizar este workflow, revisar la última versión en `codex-docs/WORKFLOW_GENERIC.md`.
@@ -36,47 +36,46 @@ Reglas:
 Todos los mods siguen esta estructura en el directorio raíz (`Mods_Minecraft/`), tengan una o varias versiones de Minecraft:
 
 ```
-<mod_id>/                    # Único repositorio Git (un solo .git/)
-├── <minecraft_version>/     # Versión de Minecraft — sus archivos solo existen en su rama
+<mod_id>/                    # Carpeta padre organizativa (sin .git)
+├── <minecraft_version>/     # Repositorio independiente con su propio .git
+│   ├── .git/
 │   ├── build.gradle
 │   ├── gradle.properties
 │   ├── src/
 │   ├── docs/
 │   └── ...
-├── .git/
-└── ...
-```
-
-Cada versión de Minecraft es una **rama** dentro del mismo repositorio. La carpeta de cada versión **solo existe en su propia rama** — no hay rastro de otras versiones al cambiar de rama.
-
-Ejemplo real actual:
-
-```
-teleport_animation/          # Un solo repositorio Git
-├── 1.21.1/                  # Rama: minecraft/1.21.1/neoforge-21.1/production
-│   ├── src/
-│   ├── docs/
-│   └── ...
-└── 26.1.2/                  # Rama: minecraft/26.1.2/neoforge-26.1.2/production
-    ├── src/
-    ├── docs/
-    └── ...
-
-player_animation_core/       # Un solo repositorio Git
-└── 26.1.2/                  # Rama: minecraft/26.1.2/neoforge-26.1.2.78/production
-    ├── src/
-    ├── docs/
+└── <minecraft_version>/
     ├── .git/
     └── ...
 ```
 
+Cada versión de Minecraft es un **repositorio independiente** con su propio `.git/`. Así puedes tener todas las versiones en本地 simultáneamente sin cambiar de rama.
+
+Ejemplo real actual:
+
+```
+teleport_animation/          # Carpeta organizativa, sin .git
+├── 1.21.1/                  # Repositorio independiente (.git aquí)
+│   ├── gradle.properties → minecraft_version=1.21.1
+│   └── ...
+└── 26.1.2/                  # Repositorio independiente (.git aquí)
+    ├── gradle.properties → minecraft_version=26.1.2
+    └── ...
+
+player_animation_core/       # Carpeta organizativa, sin .git
+└── 26.1.2/                  # Repositorio independiente (.git aquí)
+    ├── .git/
+    ├── build.gradle
+    ├── src/
+    ├── docs/
+    └── ...
+```
+
 **Reglas:**
-- `mod_id/` es el repositorio Git, contiene el `.git/`
-- Cada `<minecraft_version>/` es una subcarpeta **sin `.git/` propio**
-- Cada versión tiene su propia rama `minecraft/<mc-version>/neoforge-<neo-version>/production`
-- Cada rama solo contiene los archivos de su versión. Las carpetas de otras versiones **no existen** en esa rama
+- La carpeta padre `<mod_id>/` es solo organizativa, **no tiene `.git`**
+- Cada `<minecraft_version>/` tiene su propio `.git/` y remoto en GitLab
 - El `mod_id` en `gradle.properties` debe coincidir con la carpeta padre
-- La rama default del repo es `minecraft/<mc-version>/neoforge-<neo-version>/production`
+- La rama default de cada repo es `minecraft/<mc-version>/neoforge-<neo-version>/production`
 - El nombre del workflow sigue el patrón `WORKFLOW_<MOD_ID>_<MC-VERSION>.md` (ej: `WORKFLOW_PLAYER_ANIMATION_CORE_26-1-2.md`)
 
 ## Tipografía
@@ -686,7 +685,8 @@ El código, los logs y los commits siguen el estándar internacional de programa
 
 | Versión | Fecha | Cambios |
 |---|---|---|
-| 1.5.0 | 2026-07-27 | Versión actual. Repositorio único: `mod_id/` tiene `.git/`, versiones como subcarpetas en ramas separadas |
+| 1.6.0 | 2026-07-27 | Versión actual. Revertido a repositorio independiente por versión con `.git/` propio en cada `<minecraft_version>/` |
+| 1.5.0 | 2026-07-27 | Repositorio único: `mod_id/` tiene `.git/`, versiones como subcarpetas en ramas separadas |
 | 1.4.0 | 2026-07-23 | Organización en workspace: `<mod_id>/<mc-version>/` |
 | 1.3.0 | 2026-07-23 | Nueva sección: organización multi-versión con estructura `<mod_id>/<mc-version>/` |
 | 1.2.7 | 2026-07-23 | Sincronizado con genérico v1.2.7 |
