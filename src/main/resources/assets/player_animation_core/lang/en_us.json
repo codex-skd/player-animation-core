@@ -1,0 +1,13 @@
+{
+  "itemGroup.player_animation_core": "Example Mod Tab",
+  "block.player_animation_core.example_block": "Example Block",
+  "item.player_animation_core.example_item": "Example Item",
+
+  "player_animation_core.configuration.title": "Player Animation Core Configs",
+  "player_animation_core.configuration.section.player_animation_core.common.toml": "Player Animation Core Configs",
+  "player_animation_core.configuration.section.player_animation_core.common.toml.title": "Player Animation Core Configs",
+  "player_animation_core.configuration.items": "Item List",
+  "player_animation_core.configuration.logDirtBlock": "Log Dirt Block",
+  "player_animation_core.configuration.magicNumberIntroduction": "Magic Number Text",
+  "player_animation_core.configuration.magicNumber": "Magic Number"
+}
