@@ -1,0 +1,617 @@
+{
+  "build.gradle": {
+    "mtime": 1784669423.6196427,
+    "ast_hash": "fbdfb43da05525296baac83c9ba75d91",
+    "semantic_hash": ""
+  },
+  "gradlew": {
+    "mtime": 1783513894.7094538,
+    "ast_hash": "794669d78aef1dd5c7d889ef618b311a",
+    "semantic_hash": ""
+  },
+  "settings.gradle": {
+    "mtime": 1784220822.1286087,
+    "ast_hash": "1420505305282c9e50d0954c91815f3c",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/PlayerAnimCore.java": {
+    "mtime": 1784220822.1296115,
+    "ast_hash": "617e12b63ac4d0207d0ff45deab256c1",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/PlayerAnimCoreMod.java": {
+    "mtime": 1784220822.1311162,
+    "ast_hash": "f870601296429c938059eb160af9d0dd",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/PlayerAnimCoreService.java": {
+    "mtime": 1784220822.1311162,
+    "ast_hash": "081627b7bc65efecdb70e616f434ae92",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/accessors/IAnimatedAvatar.java": {
+    "mtime": 1784220822.1321185,
+    "ast_hash": "7b84f3301c672977f971e9eedf0bde51",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/accessors/IAvatarAnimationState.java": {
+    "mtime": 1784220822.132621,
+    "ast_hash": "3e18b8a820333ca4dc653cc372bd6ab9",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/accessors/IBoneUpdater.java": {
+    "mtime": 1784220822.1336327,
+    "ast_hash": "7b973f1ac92990901d1ff23f2360c8ef",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/Animation.java": {
+    "mtime": 1784220822.134135,
+    "ast_hash": "4b8f38e3296d15aa1b19b32c6cdd2112",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/AnimationController.java": {
+    "mtime": 1784220822.1366415,
+    "ast_hash": "c106a0bb2b98187b98e76b63875629a8",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/AnimationData.java": {
+    "mtime": 1784220822.1371436,
+    "ast_hash": "0efd7d4cc579ec08e8b702fa3bf7379f",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/AvatarAnimManager.java": {
+    "mtime": 1784220822.1381474,
+    "ast_hash": "4c213cd42405e2ecd2ef2f20f455245c",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/ExtraAnimationData.java": {
+    "mtime": 1784220822.1386497,
+    "ast_hash": "2305705d0c8978fdc2801ba236757581",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/HumanoidAnimationController.java": {
+    "mtime": 1784220822.1401546,
+    "ast_hash": "5ed3e9744a79fa15be8756b47f3dd780",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/PlayerAnimResources.java": {
+    "mtime": 1784220822.141662,
+    "ast_hash": "56d8d0b65f684361fac5785c8f8836ee",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/PlayerAnimationController.java": {
+    "mtime": 1784220822.142665,
+    "ast_hash": "4d5e0e0443469921d44f454d98254434",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/PlayerRawAnimationBuilder.java": {
+    "mtime": 1784220822.1437132,
+    "ast_hash": "70f32fe7da93cc45116e9be045238adc",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/QueuedAnimation.java": {
+    "mtime": 1784220822.1442163,
+    "ast_hash": "a3f239e6adff2b32deaade5e18f920b6",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/RawAnimation.java": {
+    "mtime": 1784220822.1457574,
+    "ast_hash": "cb44f30671c181e72a72eceaac8a93cd",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/keyframe/BoneAnimation.java": {
+    "mtime": 1784220822.1472623,
+    "ast_hash": "03ef96a57af9a98e31e587e81ae0b83b",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/keyframe/Keyframe.java": {
+    "mtime": 1784220822.1472623,
+    "ast_hash": "7f75417b9a7a8f1991d6b1573a374ba3",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/keyframe/KeyframeLocation.java": {
+    "mtime": 1784220822.1482651,
+    "ast_hash": "104d3f23e8c8f31cde0664649850903a",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/keyframe/KeyframeStack.java": {
+    "mtime": 1784220822.1487675,
+    "ast_hash": "52cc981976f3b6a3560d6714b4ff1bfd",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/keyframe/event/CustomKeyFrameEvents.java": {
+    "mtime": 1784220822.1497705,
+    "ast_hash": "8735b2f8e637456f8980ae2a2cf5a256",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/keyframe/event/builtin/AutoPlayingSoundKeyframeHandler.java": {
+    "mtime": 1784220822.1502733,
+    "ast_hash": "452c9b101245278f22d2dd6184df3f13",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/keyframe/event/data/CustomInstructionKeyframeData.java": {
+    "mtime": 1784220822.1517787,
+    "ast_hash": "8ab7bdf35382fac0a7d92cf9c543e97e",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/keyframe/event/data/KeyFrameData.java": {
+    "mtime": 1784220822.152778,
+    "ast_hash": "b50187d7d3b05be0e2c4439300e2b303",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/keyframe/event/data/ParticleKeyframeData.java": {
+    "mtime": 1784220822.152778,
+    "ast_hash": "edbbb94ad03f2e61b685972ece89c31e",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/keyframe/event/data/SoundKeyframeData.java": {
+    "mtime": 1784220822.154517,
+    "ast_hash": "47b7eba75787fb84c7f8bcde4bde80b2",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/layered/AnimationContainer.java": {
+    "mtime": 1784220822.1555197,
+    "ast_hash": "ecf3879428e1919854a8851cf3111bb6",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/layered/AnimationSnapshot.java": {
+    "mtime": 1784220822.1560218,
+    "ast_hash": "011af1c9badd13bda9c110fc6408c012",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/layered/AnimationStack.java": {
+    "mtime": 1784220822.1590335,
+    "ast_hash": "9ce8aa3d9e7a4fb6966e8f990afcfc40",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/layered/IAnimation.java": {
+    "mtime": 1784220822.160539,
+    "ast_hash": "d903792e5d192d02a2435234d5a366e9",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/layered/ModifierLayer.java": {
+    "mtime": 1784220822.1615424,
+    "ast_hash": "b6586bd9482f093f1665f3482fcc0658",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/layered/PlayerAnimationFrame.java": {
+    "mtime": 1784220822.1630626,
+    "ast_hash": "2b33f68dde101bdc8873f3d3194ab474",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/layered/modifier/AbstractFadeModifier.java": {
+    "mtime": 1784220822.165068,
+    "ast_hash": "ea6b7c5bd3b1371d2af02446740b5b34",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/layered/modifier/AbstractModifier.java": {
+    "mtime": 1784220822.165068,
+    "ast_hash": "286434d5475e594f8d94d4833e7649f2",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/layered/modifier/AdjustmentModifier.java": {
+    "mtime": 1784220822.1665733,
+    "ast_hash": "233cb7f8b33637a1fc558f7c2469269b",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/layered/modifier/MirrorIfLeftHandModifier.java": {
+    "mtime": 1784220822.1675756,
+    "ast_hash": "bf7dfe01db1ea893ea830e3ec19b29a9",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/layered/modifier/MirrorModifier.java": {
+    "mtime": 1784220822.1690824,
+    "ast_hash": "0a0a8acb213b183c45804cd395cf7700",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/animation/layered/modifier/SpeedModifier.java": {
+    "mtime": 1784220822.1710906,
+    "ast_hash": "305aa89a98df02c202bdabdef9dd3da6",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/api/PlayerAnimationAccess.java": {
+    "mtime": 1784220822.1730976,
+    "ast_hash": "4014db63ce12008c74c50e74a7954e91",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/api/PlayerAnimationFactory.java": {
+    "mtime": 1784220822.1766112,
+    "ast_hash": "bba543b8cadad2437168e8e8b9449f57",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/api/firstPerson/FirstPersonConfiguration.java": {
+    "mtime": 1784220822.1782584,
+    "ast_hash": "f7a2349d5963c02726adb5293fd5e2e8",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/api/firstPerson/FirstPersonMode.java": {
+    "mtime": 1784220822.1797643,
+    "ast_hash": "133d8ca259ad13dbf6058b09eb1e4000",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/bones/AdvancedPlayerAnimBone.java": {
+    "mtime": 1784220822.18127,
+    "ast_hash": "8d259dc97ca21a8221b5e6adf649991a",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/bones/PivotBone.java": {
+    "mtime": 1784220822.1822724,
+    "ast_hash": "7e290e191044aa1e8f445e99573ba0a5",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/bones/PlayerAnimBone.java": {
+    "mtime": 1784220822.1827772,
+    "ast_hash": "b4d3cb3050bec7fa3163eed21e57631c",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/bones/ToggleablePlayerAnimBone.java": {
+    "mtime": 1784220822.184282,
+    "ast_hash": "78a58df802d0cba4f6e2e358e6df7fed",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/commands/AnimationArgumentProvider.java": {
+    "mtime": 1784220822.1852849,
+    "ast_hash": "eb2b696b10cb837acbc40fa2a88b8789",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/commands/PlayerAnimCommands.java": {
+    "mtime": 1784220822.1857886,
+    "ast_hash": "b5ec82a91bc823338062e3294996095a",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/easing/BezierEasing.java": {
+    "mtime": 1784220822.1872933,
+    "ast_hash": "c15d2cf420fc406bba6ab6d5fe8adc80",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/easing/CatmullRomEasing.java": {
+    "mtime": 1784220822.1882968,
+    "ast_hash": "bcdcb27e668da18c6501d70f3da86b0c",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/easing/EasingType.java": {
+    "mtime": 1784220822.1888003,
+    "ast_hash": "f7caaf384db7cbea225bf8a862680b14",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/easing/EasingTypeTransformer.java": {
+    "mtime": 1784220822.189803,
+    "ast_hash": "e5f0a63c7433d423123587fb857fabdb",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/enums/AnimationFormat.java": {
+    "mtime": 1784220822.1913078,
+    "ast_hash": "1002a4729c4c4bcbf490fb3876acebc7",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/enums/Axis.java": {
+    "mtime": 1784220822.1913078,
+    "ast_hash": "a4c73029da12314bb8c90f213716f8a1",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/enums/FadeType.java": {
+    "mtime": 1784220822.1938283,
+    "ast_hash": "6cbf0c34aad81d40c189d29d5d78ad25",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/enums/PlayState.java": {
+    "mtime": 1784220822.1948416,
+    "ast_hash": "698976745863c73fd044ffe300e087d7",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/enums/State.java": {
+    "mtime": 1784220822.1958468,
+    "ast_hash": "28f9b2dc28376f1c1d946ae32c86caaf",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/enums/TransformType.java": {
+    "mtime": 1784220822.1958468,
+    "ast_hash": "912858392a44cd6bb5291adfc06f10cf",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/event/Event.java": {
+    "mtime": 1784220822.1973522,
+    "ast_hash": "9c0d67452013e6c1554c107e81c72b1c",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/event/EventResult.java": {
+    "mtime": 1784220822.1973522,
+    "ast_hash": "868add6e582ae7be8ceb7265a37c3996",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/event/MolangEvent.java": {
+    "mtime": 1784220822.1983552,
+    "ast_hash": "d3fbfcb30f294be1792b4618173890d7",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/loading/AnimationLoader.java": {
+    "mtime": 1784220822.1998608,
+    "ast_hash": "5dfb7606f4d8015c3157e1ddee8a8a98",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/loading/KeyFrameLoader.java": {
+    "mtime": 1784220822.2003636,
+    "ast_hash": "3dd6733c2614f4d20f084b79afee3ee6",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/loading/PlayerAnimatorLoader.java": {
+    "mtime": 1784220822.2013674,
+    "ast_hash": "eefbb1f8d3e847a025fd03afae9e3d78",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/loading/UniversalAnimLoader.java": {
+    "mtime": 1784220822.2033844,
+    "ast_hash": "efa8d44eac8d287b8a4bfabf182e2d4d",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/math/MathHelper.java": {
+    "mtime": 1784220822.204388,
+    "ast_hash": "f703f98ea2f63f65ec6b71382493443c",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/math/Vec3f.java": {
+    "mtime": 1784220822.2048905,
+    "ast_hash": "a64cb2887488ae5bb10d5afcd0661f02",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/mixin/AvatarMixin.java": {
+    "mtime": 1784220822.2063954,
+    "ast_hash": "d99f3a1cdf61f99e96efd19c35df36f2",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/mixin/AvatarRenderStateMixin.java": {
+    "mtime": 1784220822.208905,
+    "ast_hash": "64c7fae1f72a21747ed8c60448719a8b",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/mixin/AvatarRendererMixin.java": {
+    "mtime": 1784220822.2104075,
+    "ast_hash": "63d4fded00975c0b927eae3ed4dfcc97",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/mixin/CapeLayerMixin.java": {
+    "mtime": 1784220822.2124314,
+    "ast_hash": "0c57cb6043eaf0bfcb300a7118a1ec07",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/mixin/ElytraLayerMixin.java": {
+    "mtime": 1784220822.2134342,
+    "ast_hash": "a26f13b78a1dcd9b2c4a46c1037362af",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/mixin/ItemInHandLayerMixin.java": {
+    "mtime": 1784220822.214939,
+    "ast_hash": "1612ded184aa97abb3ea9f2bc4b0e4c1",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/mixin/LivingEntityRendererMixin.java": {
+    "mtime": 1784220822.2164452,
+    "ast_hash": "88736ecb6340c44f7ccbc084f4015aa8",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/mixin/LivingEntityTickMixin.java": {
+    "mtime": 1784220822.2174478,
+    "ast_hash": "bd04a0accb0bd04af03d96902c591c7d",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/mixin/PlayerCapeModelMixin.java": {
+    "mtime": 1784220822.2189536,
+    "ast_hash": "cd5bfc7efc3e36abb14452fd3b9a7a16",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/mixin/PlayerModelMixin.java": {
+    "mtime": 1784220822.219457,
+    "ast_hash": "4ef2a4aa098f7205f4eb5803de7998b9",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/mixin/firstPerson/HumanoidArmorLayerMixin.java": {
+    "mtime": 1784220822.2209613,
+    "ast_hash": "e63c316b14984d35227c9358e4413a58",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/mixin/firstPerson/ItemInHandLayerMixin.java": {
+    "mtime": 1784220822.221964,
+    "ast_hash": "fca10c5bc325679fac202306f46d45cc",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/mixin/firstPerson/ItemInHandRendererMixin.java": {
+    "mtime": 1784220822.224974,
+    "ast_hash": "653a435da93019799cb4084774618e38",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/mixin/firstPerson/LevelRendererMixin.java": {
+    "mtime": 1784220822.2265117,
+    "ast_hash": "31b18f12ed494293a7585327f6e37820",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/mixin/firstPerson/LivingEntityRendererMixin.java": {
+    "mtime": 1784220822.228017,
+    "ast_hash": "aea39e482c486d706ed31ef4f433200a",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/molang/MochaMathExtensions.java": {
+    "mtime": 1784220822.2295246,
+    "ast_hash": "9f2de7c1cb614c7ca4b639e1b28a9dd9",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/molang/MolangLoader.java": {
+    "mtime": 1784220822.231032,
+    "ast_hash": "3785a4319334a0d09c29f09f34a8cb0b",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/molang/MolangQueries.java": {
+    "mtime": 1784220822.2320342,
+    "ast_hash": "034d042771a68751e338a06ca2f6d36b",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/molang/QueryBinding.java": {
+    "mtime": 1784220822.232537,
+    "ast_hash": "e9bfe958fa706c26c2e6f0ba56fdbb86",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java": {
+    "mtime": 1784220822.2335398,
+    "ast_hash": "68c4ea2d7bec49c9d8a6b759a3b1314b",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/neoforge/PlayerAnimCoreServiceImpl.java": {
+    "mtime": 1784220822.2340417,
+    "ast_hash": "c090110381287ce12422f8924dc171dc",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/neoforge/event/MolangEvent.java": {
+    "mtime": 1784220822.235547,
+    "ast_hash": "089a74bf911e17f785421d1ee2452c85",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/neoforge/event/PlayerAnimationRegisterEvent.java": {
+    "mtime": 1784220822.2365503,
+    "ast_hash": "3037d8f2e5538dd45fa661aaa2c1219a",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/network/AnimationBinary.java": {
+    "mtime": 1784220822.2370527,
+    "ast_hash": "6525816bbd4df0e00b42e807ca634d2c",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/network/AnimationBinaryV6.java": {
+    "mtime": 1784220822.2385566,
+    "ast_hash": "08f98d0b165b643d76a40d1840660736",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/network/BoneChannel.java": {
+    "mtime": 1784220822.2395597,
+    "ast_hash": "57d57e7a6b590148c300f5a581ec449a",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/network/HeaderFlag.java": {
+    "mtime": 1784220822.2400618,
+    "ast_hash": "d3be7931cb918b880ead8388ed7dad16",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/network/KeyframeFlag.java": {
+    "mtime": 1784220822.2415674,
+    "ast_hash": "1c44b8a819f5608743f7237a4d5020e4",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/network/LegacyAnimationBinary.java": {
+    "mtime": 1784220822.2430723,
+    "ast_hash": "658e3f33e73a82166057c877f2977ec0",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/network/NetworkUtils.java": {
+    "mtime": 1784220822.2440767,
+    "ast_hash": "856dbf18fe63ceb43e62ed6a1c7871b7",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/util/ClientUtil.java": {
+    "mtime": 1784220822.2455816,
+    "ast_hash": "00913eeef95f3809e0588e61abf7b3e7",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/util/JsonUtil.java": {
+    "mtime": 1784220822.2465842,
+    "ast_hash": "b3c9d0b76c6ae7a0edb47579e4dbea58",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/util/MatrixUtil.java": {
+    "mtime": 1784220822.247087,
+    "ast_hash": "99c58a3f7592470897aded26fb6e50ab",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/util/ParticleEffectUtils.java": {
+    "mtime": 1784220822.2485926,
+    "ast_hash": "b52cf27af67858b94bf52d8060ea8d70",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/util/RenderUtil.java": {
+    "mtime": 1784220822.2495947,
+    "ast_hash": "70bfc3d458364fc42b52a6a6b20e884c",
+    "semantic_hash": ""
+  },
+  "src/main/resources/assets/player_animation_core/lang/en_us.json": {
+    "mtime": 1784220822.2516043,
+    "ast_hash": "31b3aae0d79e30c36af3bab9f271c4aa",
+    "semantic_hash": ""
+  },
+  "src/main/resources/player_animation_core.mixins.json": {
+    "mtime": 1784220822.2898262,
+    "ast_hash": "c534b972ea39877c087331640ce1676d",
+    "semantic_hash": ""
+  },
+  ".claude/CLAUDE.md": {
+    "mtime": 1785489191.2104049,
+    "ast_hash": "b2de5328a59e3813de6b721bec6c2f44",
+    "semantic_hash": ""
+  },
+  ".gitlab-ci.yml": {
+    "mtime": 1784831972.2780488,
+    "ast_hash": "075837d192768b1cf94bed61a7ba7dae",
+    "semantic_hash": ""
+  },
+  "CHANGELOG.md": {
+    "mtime": 1784285911.8582332,
+    "ast_hash": "c63b4fb98aa9c801151e188be62c7f50",
+    "semantic_hash": ""
+  },
+  "DOCS.md": {
+    "mtime": 1784220822.114984,
+    "ast_hash": "4075fec691b7e3ffa94038f9b37181a9",
+    "semantic_hash": ""
+  },
+  "README.md": {
+    "mtime": 1784220822.1160712,
+    "ast_hash": "301e2bb3823858f0abd3a236ddab7516",
+    "semantic_hash": ""
+  },
+  "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-1-2.md": {
+    "mtime": 1785626678.142709,
+    "ast_hash": "29e8034d222a9a1f7ef441d57477024f",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/project_description.md": {
+    "mtime": 1784244537.1449647,
+    "ast_hash": "fff33ea1a6bcc31bea1aa287bf62270a",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/project_vars.md": {
+    "mtime": 1784285937.216244,
+    "ast_hash": "33a98e6a85f991b386be30303ef74e83",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.17.md": {
+    "mtime": 1784220822.1195824,
+    "ast_hash": "285f6807c7f90ee4a4e6de3dacda2eb5",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.18.md": {
+    "mtime": 1784220822.1195824,
+    "ast_hash": "86aa9378bd76cba7b193e972a8e00f32",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.19.md": {
+    "mtime": 1784220822.1195824,
+    "ast_hash": "2140063ca2564d57cc3545594e0fd318",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.20.md": {
+    "mtime": 1784220822.1205847,
+    "ast_hash": "9ce9cf730e6e00909a574021571016be",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.21.md": {
+    "mtime": 1784220822.1205847,
+    "ast_hash": "2e20b9feb1e007bc0b26465eb08ca791",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/1.0.0.md": {
+    "mtime": 1784285907.9241076,
+    "ast_hash": "b9fdb982f059e3e9e4be457881dd4fe3",
+    "semantic_hash": ""
+  },
+  "src/main/resources/icon.png": {
+    "mtime": 1784220822.2868154,
+    "ast_hash": "65ff11cdbd589f8ec483574d007d75fe",
+    "semantic_hash": ""
+  }
+}
