@@ -1,5 +1,8 @@
 # Player Animation Core - Changelog
 
+## 1.0.1 (2026-08-02)
+- Clase principal `PlayerAnimCoreModNeo` → `PlayerAnimationCore` y `mod_group_id` corregido a `com.skd.playeranimationcore` (residuo del fork "Player Animation Library"). Sin cambios de funcionalidad.
+
 ## 1.0.0 (2026-07-17)
 - 🎉 Primera release estable. Todas las características del ciclo beta están estabilizadas para producción.
 
