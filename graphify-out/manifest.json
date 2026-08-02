@@ -420,8 +420,8 @@
     "semantic_hash": ""
   },
   "src/main/java/com/skd/mixin/firstPerson/LevelRendererMixin.java": {
-    "mtime": 1785629455.8454027,
-    "ast_hash": "31b18f12ed494293a7585327f6e37820",
+    "mtime": 1785637268.274392,
+    "ast_hash": "7a2c9bb360caf8e16cc1b190213bdbd2",
     "semantic_hash": ""
   },
   "src/main/java/com/skd/mixin/firstPerson/LivingEntityRendererMixin.java": {
@@ -550,8 +550,8 @@
     "semantic_hash": ""
   },
   "CHANGELOG.md": {
-    "mtime": 1785632883.5230088,
-    "ast_hash": "4e57c5c46ede5628d4075ea91e9a54d0",
+    "mtime": 1785637412.4861274,
+    "ast_hash": "45a4c6bf3b384ee358cd8c9c89a94a4c",
     "semantic_hash": ""
   },
   "DOCS.md": {
@@ -565,8 +565,8 @@
     "semantic_hash": ""
   },
   "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md": {
-    "mtime": 1785629468.2172031,
-    "ast_hash": "89d565d58ba17bdfc8dbde1d1686b752",
+    "mtime": 1785633474.391944,
+    "ast_hash": "b30965d8acd624bcf79cf58432f71a8e",
     "semantic_hash": ""
   },
   "docs/curseforge/project_description.md": {
@@ -592,6 +592,11 @@
   "docs/curseforge/versions/0.0.0-beta.2.md": {
     "mtime": 1785633253.7550712,
     "ast_hash": "da66504e22c0025b8cddf2a29bec59d1",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/0.0.0-beta.3.md": {
+    "mtime": 1785637415.7062452,
+    "ast_hash": "aba9651f7b3332c96bec1e7017ac1957",
     "semantic_hash": ""
   }
 }

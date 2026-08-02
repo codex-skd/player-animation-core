@@ -53,10 +53,15 @@
   "51": "AvatarRendererMixin.java",
   "52": "KeyframeFlag.java",
   "53": "PlayerAnimCoreService",
+  "54": "MolangLoader.java",
   "55": "Player Animation Core",
   "56": "MathHelper",
+  "57": "ItemInHandLayerMixin.java",
   "58": "AnimationArgumentProvider.java",
   "59": "HumanoidAnimationController",
+  "60": "MirrorModifier",
+  "61": "AnimationSnapshot",
+  "62": ".getCurrentAnimationInstance",
   "63": ".getCurrentAnimationInstance",
   "64": ".getCurrentKeyFrameLocation",
   "65": "ParticleEffectUtils.java",
@@ -66,5 +71,10 @@
   "69": "build.gradle",
   "70": "project_description.md",
   "71": "0.0.0-beta.1.md",
-  "72": "settings.gradle"
+  "72": "settings.gradle",
+  "73": "apply",
+  "74": "State",
+  "75": "MolangEvent.java",
+  "76": "fromJson",
+  "77": "0.0.0-beta.3.md"
 }
