@@ -70,7 +70,7 @@ git push
 - Bump `mod_version` en gradle.properties → `./gradlew.bat clean build`
 - Release notes `docs/curseforge/versions/<version>.md` (HTML) + actualizar `CHANGELOG.md`
 - Commit `chore: bump version to <version>` → tag `<mc>-neoforge-<version>` → push
-- Subir JAR: `powershell -File ../../codex-docs/scripts/curseforge-upload.ps1` (desde este repo)
+- Subir JAR: `powershell -NoProfile -ExecutionPolicy Bypass -File ../../../codex-docs/scripts/curseforge-upload.ps1` (desde este repo; `codex-docs` está tres niveles arriba)
 - Formato HTML de descripciones/changelog: `codex-docs/reference/CURSEFORGE.md`
 
 **3. Release estable** — bump `X.Y.Z` + tag.
