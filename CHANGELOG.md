@@ -7,6 +7,11 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 
 Para el historial completo de la versión 26.1.2, ver `player_animation_core/26.1.2/CHANGELOG.md` (rama `minecraft/26.1.2/neoforge-26.1.2.78/production`).
 
+## [1.0.1] - 2026-08-02
+
+### Refactor
+- Clase principal `PlayerAnimCoreModNeo` → `PlayerAnimationCore` y `mod_group_id` corregido a `com.skd.playeranimationcore` (residuo del fork "Player Animation Library"). Sin cambios de funcionalidad.
+
 ## [1.0.0] - 2026-08-02
 
 ### Added
