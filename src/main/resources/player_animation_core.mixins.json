@@ -1,0 +1,27 @@
+{
+  "required": true,
+  "package": "com.skd.playeranimationcore.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "minVersion": "0.8",
+  "client": [
+    "AvatarMixin",
+    "AvatarRendererMixin",
+    "AvatarRenderStateMixin",
+    "CapeLayerMixin",
+    "ElytraLayerMixin",
+    "ItemInHandLayerMixin",
+    "LivingEntityRendererMixin",
+    "LivingEntityTickMixin",
+    "PlayerCapeModelMixin",
+    "PlayerModelMixin",
+    "firstPerson.HumanoidArmorLayerMixin",
+    "firstPerson.ItemInHandLayerMixin",
+    "firstPerson.ItemInHandRendererMixin",
+    "firstPerson.LevelRendererMixin",
+    "firstPerson.LivingEntityRendererMixin"
+  ],
+  "mixins": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
