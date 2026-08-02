@@ -7,6 +7,11 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 
 Para el historial completo de la versión 26.1.2, ver `player_animation_core/26.1.2/CHANGELOG.md` (rama `minecraft/26.1.2/neoforge-26.1.2.78/production`).
 
+## [0.0.0-beta.2] - 2026-08-02
+
+### Fixed
+- Crash al iniciar: el mixin `ItemInHandRendererMixin` apuntaba a `renderHandsWithItems`, método renombrado a `submitHandsWithItems` en Minecraft 26.2 (InvalidInjectionException "could not find any targets").
+
 ## [0.0.0-beta.1] - 2026-08-02
 
 ### Added

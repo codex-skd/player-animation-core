@@ -23,7 +23,7 @@ import org.spongepowered.asm.mixin.injection.callback.CallbackInfo;
 @Mixin({ItemInHandRenderer.class})
 public class ItemInHandRendererMixin {
    @Inject(
-      method = {"renderHandsWithItems"},
+      method = {"submitHandsWithItems"},
       at = {@At("HEAD")},
       cancellable = true
    )
