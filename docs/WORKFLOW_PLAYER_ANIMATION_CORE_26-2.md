@@ -10,20 +10,19 @@
 | Dato | Valor |
 |---|---|
 | Mod ID (`gradle.properties`) | `player_animation_core` |
-| Clase principal | `PlayerAnimCoreModNeo` |
+| Clase principal | `PlayerAnimationCore` |
 | Display name (Title Case) | `Player Animation Core` |
 | Versiones de Minecraft | `26.2` |
 | Rama | `minecraft/26.2/neoforge-26.2.0.32-beta/production` |
 
 ### Notas específicas de este mod
 
-- **Clase principal real**: `PlayerAnimCoreModNeo` (naming atípico; no aplicar la regla PascalCase genérica aquí).
 ## Convenciones de nomenclatura
 
 | Convención | Uso | Ejemplo |
 |---|---|---|
 | **snake_case** | `mod_id`, assets/, packages Java | `player_animation_core` |
-| **PascalCase** | Clases Java principales | `PlayerAnimCoreModNeo` |
+| **PascalCase** | Clases Java principales | `PlayerAnimationCore` |
 | **camelCase** | Variables, métodos, config keys | `player_animation_coreConfig` |
 | **Title Case** | Display name (README, CHANGELOG, docs, CurseForge) | `Player Animation Core` |
 

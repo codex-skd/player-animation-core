@@ -17,8 +17,8 @@ import net.neoforged.neoforge.common.NeoForge;
 import org.jetbrains.annotations.NotNull;
 
 @Mod("player_animation_core")
-public final class PlayerAnimCoreModNeo extends PlayerAnimCoreMod {
-   public PlayerAnimCoreModNeo(IEventBus bus) {
+public final class PlayerAnimationCore extends PlayerAnimCoreMod {
+   public PlayerAnimationCore(IEventBus bus) {
       bus.addListener(this::onAddClientReloadListeners);
       if (!FMLLoader.getCurrent().isProduction() || ModList.get().getModFileById("player_animation_core").versionString().contains("dev")) {
          NeoForge.EVENT_BUS.addListener(this::onRegisterCommands);
