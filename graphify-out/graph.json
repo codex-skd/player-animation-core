@@ -226,7 +226,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_ianimatedavatar",
-      "community": 37,
+      "community": 21,
       "norm_label": "ianimatedavatar.java"
     },
     {
@@ -236,7 +236,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_ianimatedavatar_ianimatedavatar",
-      "community": 37,
+      "community": 21,
       "norm_label": "ianimatedavatar"
     },
     {
@@ -246,7 +246,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_ianimatedavatar_ianimatedavatar_playeranimlib_getanimmanager",
-      "community": 37,
+      "community": 21,
       "norm_label": ".playeranimlib$getanimmanager()"
     },
     {
@@ -256,7 +256,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_ianimatedavatar_ianimatedavatar_playeranimlib_getanimation",
-      "community": 37,
+      "community": 21,
       "norm_label": ".playeranimlib$getanimation()"
     },
     {
@@ -266,7 +266,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_ianimatedavatar_java_identifier",
-      "community": 37,
+      "community": 21,
       "norm_label": "identifier"
     },
     {
@@ -336,7 +336,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_iboneupdater",
-      "community": 4,
+      "community": 23,
       "norm_label": "iboneupdater.java"
     },
     {
@@ -346,7 +346,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_iboneupdater_iboneupdater",
-      "community": 4,
+      "community": 23,
       "norm_label": "iboneupdater"
     },
     {
@@ -356,7 +356,7 @@
       "source_location": "L9",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_iboneupdater_iboneupdater_pal_updatepart",
-      "community": 4,
+      "community": 23,
       "norm_label": ".pal$updatepart()"
     },
     {
@@ -366,7 +366,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_iboneupdater_java_modelpart",
-      "community": 4,
+      "community": 23,
       "norm_label": "modelpart"
     },
     {
@@ -376,7 +376,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_iboneupdater_iboneupdater_pal_resetall",
-      "community": 4,
+      "community": 23,
       "norm_label": ".pal$resetall()"
     },
     {
@@ -426,7 +426,7 @@
       "source_location": "L48",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_animation_getbone",
-      "community": 14,
+      "community": 11,
       "norm_label": ".getbone()"
     },
     {
@@ -436,7 +436,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_java_nullable",
-      "community": 14,
+      "community": 11,
       "norm_label": "nullable"
     },
     {
@@ -446,7 +446,7 @@
       "source_location": "L53",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_animation_getboneoptional",
-      "community": 14,
+      "community": 11,
       "norm_label": ".getboneoptional()"
     },
     {
@@ -566,7 +566,7 @@
       "source_location": "L125",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_looptype",
-      "community": 11,
+      "community": 60,
       "norm_label": "looptype"
     },
     {
@@ -576,7 +576,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_java_functionalinterface",
-      "community": 11,
+      "community": 60,
       "norm_label": "functionalinterface"
     },
     {
@@ -606,7 +606,7 @@
       "source_location": "L149",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_looptype_shouldplayagain",
-      "community": 11,
+      "community": 60,
       "norm_label": ".shouldplayagain()"
     },
     {
@@ -616,7 +616,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_looptype_restartfromtick",
-      "community": 11,
+      "community": 60,
       "norm_label": ".restartfromtick()"
     },
     {
@@ -626,7 +626,7 @@
       "source_location": "L155",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_looptype_returntotickloop",
-      "community": 11,
+      "community": 60,
       "norm_label": ".returntotickloop()"
     },
     {
@@ -636,7 +636,7 @@
       "source_location": "L169",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_looptype_fromjson",
-      "community": 11,
+      "community": 60,
       "norm_label": ".fromjson()"
     },
     {
@@ -646,7 +646,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_java_jsonelement",
-      "community": 11,
+      "community": 60,
       "norm_label": "jsonelement"
     },
     {
@@ -656,7 +656,7 @@
       "source_location": "L182",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_looptype_fromstring",
-      "community": 11,
+      "community": 60,
       "norm_label": ".fromstring()"
     },
     {
@@ -666,7 +666,7 @@
       "source_location": "L186",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_looptype_register",
-      "community": 11,
+      "community": 60,
       "norm_label": ".register()"
     },
     {
@@ -796,7 +796,7 @@
       "source_location": "L138",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_getcurrentanimation",
-      "community": 63,
+      "community": 62,
       "norm_label": ".getcurrentanimation()"
     },
     {
@@ -886,7 +886,7 @@
       "source_location": "L183",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_getanimationdata",
-      "community": 63,
+      "community": 2,
       "norm_label": ".getanimationdata()"
     },
     {
@@ -906,7 +906,7 @@
       "source_location": "L191",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_stop",
-      "community": 16,
+      "community": 6,
       "norm_label": ".stop()"
     },
     {
@@ -966,7 +966,7 @@
       "source_location": "L218",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_setanimation",
-      "community": 16,
+      "community": 61,
       "norm_label": ".setanimation()"
     },
     {
@@ -976,7 +976,7 @@
       "source_location": "L245",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_getqueuedanimations",
-      "community": 16,
+      "community": 61,
       "norm_label": ".getqueuedanimations()"
     },
     {
@@ -986,7 +986,7 @@
       "source_location": "L258",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_triggeranimation",
-      "community": 16,
+      "community": 11,
       "norm_label": ".triggeranimation()"
     },
     {
@@ -996,7 +996,7 @@
       "source_location": "L281",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_replaceanimationwithfade",
-      "community": 16,
+      "community": 11,
       "norm_label": ".replaceanimationwithfade()"
     },
     {
@@ -1076,7 +1076,7 @@
       "source_location": "L568",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_handlecustomkeyframe",
-      "community": 6,
+      "community": 1,
       "norm_label": ".handlecustomkeyframe()"
     },
     {
@@ -1086,7 +1086,7 @@
       "source_location": "L589",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_getanimationtime",
-      "community": 63,
+      "community": 62,
       "norm_label": ".getanimationtime()"
     },
     {
@@ -1096,7 +1096,7 @@
       "source_location": "L593",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_getanimationticks",
-      "community": 63,
+      "community": 62,
       "norm_label": ".getanimationticks()"
     },
     {
@@ -1266,7 +1266,7 @@
       "source_location": "L818",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_tick",
-      "community": 6,
+      "community": 75,
       "norm_label": ".tick()"
     },
     {
@@ -1286,7 +1286,7 @@
       "source_location": "L846",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_getboneposition",
-      "community": 6,
+      "community": 33,
       "norm_label": ".getboneposition()"
     },
     {
@@ -1296,7 +1296,7 @@
       "source_location": "L854",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_getmodifiers",
-      "community": 23,
+      "community": 24,
       "norm_label": ".getmodifiers()"
     },
     {
@@ -1306,7 +1306,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_java_internal",
-      "community": 23,
+      "community": 24,
       "norm_label": "internal"
     },
     {
@@ -1316,7 +1316,7 @@
       "source_location": "L859",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_addmodifier",
-      "community": 23,
+      "community": 24,
       "norm_label": ".addmodifier()"
     },
     {
@@ -1326,7 +1326,7 @@
       "source_location": "L866",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_addmodifierbefore",
-      "community": 23,
+      "community": 24,
       "norm_label": ".addmodifierbefore()"
     },
     {
@@ -1336,7 +1336,7 @@
       "source_location": "L871",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_addmodifierlast",
-      "community": 23,
+      "community": 24,
       "norm_label": ".addmodifierlast()"
     },
     {
@@ -1346,7 +1346,7 @@
       "source_location": "L876",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_removemodifier",
-      "community": 6,
+      "community": 75,
       "norm_label": ".removemodifier()"
     },
     {
@@ -1386,7 +1386,7 @@
       "source_location": "L900",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_removemodifierif",
-      "community": 6,
+      "community": 75,
       "norm_label": ".removemodifierif()"
     },
     {
@@ -1396,7 +1396,7 @@
       "source_location": "L906",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_linkmodifiers",
-      "community": 6,
+      "community": 75,
       "norm_label": ".linkmodifiers()"
     },
     {
@@ -1536,7 +1536,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationdata",
-      "community": 63,
+      "community": 2,
       "norm_label": "animationdata.java"
     },
     {
@@ -1546,7 +1546,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationdata_animationdata",
-      "community": 63,
+      "community": 2,
       "norm_label": "animationdata"
     },
     {
@@ -1556,7 +1556,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationdata_animationdata_animationdata",
-      "community": 63,
+      "community": 2,
       "norm_label": ".animationdata()"
     },
     {
@@ -1566,7 +1566,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationdata_animationdata_getpartialtick",
-      "community": 63,
+      "community": 2,
       "norm_label": ".getpartialtick()"
     },
     {
@@ -1576,7 +1576,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationdata_animationdata_getvelocity",
-      "community": 63,
+      "community": 2,
       "norm_label": ".getvelocity()"
     },
     {
@@ -1586,7 +1586,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationdata_animationdata_isfirstpersonpass",
-      "community": 63,
+      "community": 2,
       "norm_label": ".isfirstpersonpass()"
     },
     {
@@ -1596,7 +1596,7 @@
       "source_location": "L26",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationdata_animationdata_ismoving",
-      "community": 63,
+      "community": 2,
       "norm_label": ".ismoving()"
     },
     {
@@ -1606,7 +1606,7 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationdata_animationdata_ismovinglenient",
-      "community": 63,
+      "community": 2,
       "norm_label": ".ismovinglenient()"
     },
     {
@@ -1616,7 +1616,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationdata_animationdata_setvelocity",
-      "community": 63,
+      "community": 2,
       "norm_label": ".setvelocity()"
     },
     {
@@ -1626,7 +1626,7 @@
       "source_location": "L38",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationdata_animationdata_setpartialtick",
-      "community": 63,
+      "community": 2,
       "norm_label": ".setpartialtick()"
     },
     {
@@ -1636,7 +1636,7 @@
       "source_location": "L42",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationdata_animationdata_copy",
-      "community": 63,
+      "community": 2,
       "norm_label": ".copy()"
     },
     {
@@ -1656,7 +1656,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_avataranimmanager_avataranimmanager",
-      "community": 34,
+      "community": 46,
       "norm_label": "avataranimmanager"
     },
     {
@@ -1666,7 +1666,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_avataranimmanager_java_avatar",
-      "community": 34,
+      "community": 46,
       "norm_label": "avatar"
     },
     {
@@ -1676,7 +1676,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_avataranimmanager_avataranimmanager_avataranimmanager",
-      "community": 34,
+      "community": 46,
       "norm_label": ".avataranimmanager()"
     },
     {
@@ -1686,7 +1686,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_avataranimmanager_avataranimmanager_tickanimation",
-      "community": 34,
+      "community": 2,
       "norm_label": ".tickanimation()"
     },
     {
@@ -1696,7 +1696,7 @@
       "source_location": "L40",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_avataranimmanager_avataranimmanager_getlastupdatetime",
-      "community": 34,
+      "community": 46,
       "norm_label": ".getlastupdatetime()"
     },
     {
@@ -1706,7 +1706,7 @@
       "source_location": "L44",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_avataranimmanager_avataranimmanager_updatedat",
-      "community": 34,
+      "community": 46,
       "norm_label": ".updatedat()"
     },
     {
@@ -1716,7 +1716,7 @@
       "source_location": "L48",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_avataranimmanager_avataranimmanager_isfirsttick",
-      "community": 34,
+      "community": 46,
       "norm_label": ".isfirsttick()"
     },
     {
@@ -1726,7 +1726,7 @@
       "source_location": "L52",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_avataranimmanager_avataranimmanager_finishfirsttick",
-      "community": 34,
+      "community": 2,
       "norm_label": ".finishfirsttick()"
     },
     {
@@ -1736,7 +1736,7 @@
       "source_location": "L56",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_avataranimmanager_avataranimmanager_gettickdelta",
-      "community": 4,
+      "community": 57,
       "norm_label": ".gettickdelta()"
     },
     {
@@ -1766,7 +1766,7 @@
       "source_location": "L65",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_avataranimmanager_avataranimmanager_updatepart",
-      "community": 4,
+      "community": 37,
       "norm_label": ".updatepart()"
     },
     {
@@ -1776,7 +1776,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_avataranimmanager_java_modelpart",
-      "community": 4,
+      "community": 37,
       "norm_label": "modelpart"
     },
     {
@@ -1786,7 +1786,7 @@
       "source_location": "L71",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_avataranimmanager_avataranimmanager_handleanimations",
-      "community": 34,
+      "community": 46,
       "norm_label": ".handleanimations()"
     },
     {
@@ -1796,7 +1796,7 @@
       "source_location": "L90",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_avataranimmanager_avataranimmanager_getavatar",
-      "community": 34,
+      "community": 46,
       "norm_label": ".getavatar()"
     },
     {
@@ -1856,7 +1856,7 @@
       "source_location": "L53",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_extraanimationdata_extraanimationdata_has",
-      "community": 7,
+      "community": 20,
       "norm_label": ".has()"
     },
     {
@@ -2046,7 +2046,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_humanoidanimationcontroller_humanoidanimationcontroller",
-      "community": 59,
+      "community": 33,
       "norm_label": "humanoidanimationcontroller"
     },
     {
@@ -2076,7 +2076,7 @@
       "source_location": "L46",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_humanoidanimationcontroller_humanoidanimationcontroller_registerbones",
-      "community": 59,
+      "community": 33,
       "norm_label": ".registerbones()"
     },
     {
@@ -2086,7 +2086,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_humanoidanimationcontroller_java_override",
-      "community": 59,
+      "community": 33,
       "norm_label": "override"
     },
     {
@@ -2096,7 +2096,7 @@
       "source_location": "L62",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_humanoidanimationcontroller_humanoidanimationcontroller_registertopplayeranimbone",
-      "community": 59,
+      "community": 33,
       "norm_label": ".registertopplayeranimbone()"
     },
     {
@@ -2106,7 +2106,7 @@
       "source_location": "L67",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_humanoidanimationcontroller_humanoidanimationcontroller_process",
-      "community": 59,
+      "community": 33,
       "norm_label": ".process()"
     },
     {
@@ -2166,7 +2166,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimresources_playeranimresources_getanimation",
-      "community": 25,
+      "community": 38,
       "norm_label": ".getanimation()"
     },
     {
@@ -2176,7 +2176,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimresources_java_nullable",
-      "community": 25,
+      "community": 38,
       "norm_label": "nullable"
     },
     {
@@ -2226,7 +2226,7 @@
       "source_location": "L56",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimresources_playeranimresources_hasanimation",
-      "community": 25,
+      "community": 1,
       "norm_label": ".hasanimation()"
     },
     {
@@ -2346,7 +2346,7 @@
       "source_location": "L39",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimationcontroller_playeranimationcontroller_triggeranimation",
-      "community": 25,
+      "community": 1,
       "norm_label": ".triggeranimation()"
     },
     {
@@ -2356,7 +2356,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimationcontroller_java_identifier",
-      "community": 25,
+      "community": 1,
       "norm_label": "identifier"
     },
     {
@@ -2366,7 +2366,7 @@
       "source_location": "L53",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimationcontroller_playeranimationcontroller_replaceanimationwithfade",
-      "community": 25,
+      "community": 1,
       "norm_label": ".replaceanimationwithfade()"
     },
     {
@@ -2526,7 +2526,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_queuedanimation",
-      "community": 11,
+      "community": 61,
       "norm_label": "queuedanimation.java"
     },
     {
@@ -2536,7 +2536,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_queuedanimation_queuedanimation",
-      "community": 11,
+      "community": 61,
       "norm_label": "queuedanimation"
     },
     {
@@ -2546,7 +2546,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_rawanimation",
-      "community": 16,
+      "community": 38,
       "norm_label": "rawanimation.java"
     },
     {
@@ -2556,7 +2556,7 @@
       "source_location": "L9",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_rawanimation_rawanimation",
-      "community": 16,
+      "community": 11,
       "norm_label": "rawanimation"
     },
     {
@@ -2576,7 +2576,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_rawanimation_rawanimation_begin",
-      "community": 16,
+      "community": 11,
       "norm_label": ".begin()"
     },
     {
@@ -2646,7 +2646,7 @@
       "source_location": "L54",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_rawanimation_rawanimation_getanimationstages",
-      "community": 16,
+      "community": 61,
       "norm_label": ".getanimationstages()"
     },
     {
@@ -2656,7 +2656,7 @@
       "source_location": "L58",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_rawanimation_rawanimation_copyof",
-      "community": 16,
+      "community": 11,
       "norm_label": ".copyof()"
     },
     {
@@ -2686,7 +2686,7 @@
       "source_location": "L69",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_rawanimation_rawanimation_getstagecount",
-      "community": 16,
+      "community": 11,
       "norm_label": ".getstagecount()"
     },
     {
@@ -2756,7 +2756,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_boneanimation",
-      "community": 13,
+      "community": 14,
       "norm_label": "boneanimation.java"
     },
     {
@@ -2826,7 +2826,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframe",
-      "community": 14,
+      "community": 64,
       "norm_label": "keyframe.java"
     },
     {
@@ -2836,7 +2836,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframe_keyframe",
-      "community": 14,
+      "community": 64,
       "norm_label": "keyframe"
     },
     {
@@ -2846,7 +2846,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframe_java_expression",
-      "community": 14,
+      "community": 64,
       "norm_label": "expression"
     },
     {
@@ -2856,7 +2856,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframe_keyframe_keyframe",
-      "community": 14,
+      "community": 64,
       "norm_label": ".keyframe()"
     },
     {
@@ -2866,7 +2866,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframe_keyframe_getlastkeyframetime",
-      "community": 46,
+      "community": 7,
       "norm_label": ".getlastkeyframetime()"
     },
     {
@@ -2886,7 +2886,7 @@
       "source_location": "L40",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframe_keyframe_hashcode",
-      "community": 14,
+      "community": 64,
       "norm_label": ".hashcode()"
     },
     {
@@ -2896,7 +2896,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframe_java_override",
-      "community": 14,
+      "community": 64,
       "norm_label": "override"
     },
     {
@@ -2906,7 +2906,7 @@
       "source_location": "L45",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframe_keyframe_equals",
-      "community": 14,
+      "community": 64,
       "norm_label": ".equals()"
     },
     {
@@ -2936,7 +2936,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframestack",
-      "community": 13,
+      "community": 14,
       "norm_label": "keyframestack.java"
     },
     {
@@ -2946,7 +2946,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframestack_keyframestack",
-      "community": 46,
+      "community": 7,
       "norm_label": "keyframestack"
     },
     {
@@ -2956,7 +2956,7 @@
       "source_location": "L9",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframestack_keyframestack_keyframestack",
-      "community": 46,
+      "community": 7,
       "norm_label": ".keyframestack()"
     },
     {
@@ -2966,7 +2966,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframestack_keyframestack_from",
-      "community": 46,
+      "community": 7,
       "norm_label": ".from()"
     },
     {
@@ -2976,7 +2976,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframestack_keyframestack_getlastkeyframetime",
-      "community": 46,
+      "community": 7,
       "norm_label": ".getlastkeyframetime()"
     },
     {
@@ -2986,7 +2986,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframestack_keyframestack_getlastxaxiskeyframetime",
-      "community": 46,
+      "community": 7,
       "norm_label": ".getlastxaxiskeyframetime()"
     },
     {
@@ -2996,7 +2996,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframestack_keyframestack_getlastyaxiskeyframetime",
-      "community": 46,
+      "community": 7,
       "norm_label": ".getlastyaxiskeyframetime()"
     },
     {
@@ -3006,7 +3006,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframestack_keyframestack_getlastzaxiskeyframetime",
-      "community": 46,
+      "community": 7,
       "norm_label": ".getlastzaxiskeyframetime()"
     },
     {
@@ -3016,7 +3016,7 @@
       "source_location": "L33",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframestack_keyframestack_getkeyframesforaxis",
-      "community": 0,
+      "community": 14,
       "norm_label": ".getkeyframesforaxis()"
     },
     {
@@ -3026,7 +3026,7 @@
       "source_location": "L41",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframestack_keyframestack_haskeyframes",
-      "community": 46,
+      "community": 7,
       "norm_label": ".haskeyframes()"
     },
     {
@@ -3036,7 +3036,7 @@
       "source_location": "L45",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframestack_keyframestack_equals",
-      "community": 46,
+      "community": 7,
       "norm_label": ".equals()"
     },
     {
@@ -3046,7 +3046,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframestack_java_override",
-      "community": 46,
+      "community": 7,
       "norm_label": "override"
     },
     {
@@ -3056,7 +3056,7 @@
       "source_location": "L54",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframestack_keyframestack_hashcode",
-      "community": 46,
+      "community": 7,
       "norm_label": ".hashcode()"
     },
     {
@@ -3106,7 +3106,7 @@
       "source_location": "L58",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_event_customkeyframeevents_customkeyframehandler_handle",
-      "community": 6,
+      "community": 1,
       "norm_label": ".handle()"
     },
     {
@@ -3296,7 +3296,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_event_data_particlekeyframedata",
-      "community": 1,
+      "community": 22,
       "norm_label": "particlekeyframedata.java"
     },
     {
@@ -3586,7 +3586,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationsnapshot",
-      "community": 61,
+      "community": 30,
       "norm_label": "animationsnapshot.java"
     },
     {
@@ -3596,7 +3596,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationsnapshot_animationsnapshot",
-      "community": 61,
+      "community": 30,
       "norm_label": "animationsnapshot"
     },
     {
@@ -3606,7 +3606,7 @@
       "source_location": "L9",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationsnapshot_animationsnapshot_isactive",
-      "community": 61,
+      "community": 30,
       "norm_label": ".isactive()"
     },
     {
@@ -3616,7 +3616,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationsnapshot_java_override",
-      "community": 61,
+      "community": 30,
       "norm_label": "override"
     },
     {
@@ -3626,7 +3626,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationsnapshot_animationsnapshot_get3dtransform",
-      "community": 61,
+      "community": 13,
       "norm_label": ".get3dtransform()"
     },
     {
@@ -3636,7 +3636,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationsnapshot_animationsnapshot_tostring",
-      "community": 61,
+      "community": 30,
       "norm_label": ".tostring()"
     },
     {
@@ -3646,7 +3646,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationsnapshot_java_notnull",
-      "community": 61,
+      "community": 30,
       "norm_label": "notnull"
     },
     {
@@ -3816,7 +3816,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_ianimation",
-      "community": 19,
+      "community": 21,
       "norm_label": "ianimation.java"
     },
     {
@@ -3836,7 +3836,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_ianimation_ianimation_tick",
-      "community": 63,
+      "community": 2,
       "norm_label": ".tick()"
     },
     {
@@ -3846,7 +3846,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_ianimation_ianimation_setupanim",
-      "community": 63,
+      "community": 2,
       "norm_label": ".setupanim()"
     },
     {
@@ -3886,7 +3886,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_ianimation_java_notnull",
-      "community": 19,
+      "community": 21,
       "norm_label": "notnull"
     },
     {
@@ -3896,7 +3896,7 @@
       "source_location": "L33",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_ianimation_ianimation_getfirstpersonconfiguration",
-      "community": 19,
+      "community": 21,
       "norm_label": ".getfirstpersonconfiguration()"
     },
     {
@@ -3986,7 +3986,7 @@
       "source_location": "L51",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifierlayer_modifierlayer_addmodifier",
-      "community": 23,
+      "community": 24,
       "norm_label": ".addmodifier()"
     },
     {
@@ -3996,7 +3996,7 @@
       "source_location": "L57",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifierlayer_modifierlayer_addmodifierbefore",
-      "community": 23,
+      "community": 24,
       "norm_label": ".addmodifierbefore()"
     },
     {
@@ -4006,7 +4006,7 @@
       "source_location": "L61",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifierlayer_modifierlayer_addmodifierlast",
-      "community": 23,
+      "community": 24,
       "norm_label": ".addmodifierlast()"
     },
     {
@@ -4146,7 +4146,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifierlayer_java_notnull",
-      "community": 19,
+      "community": 24,
       "norm_label": "notnull"
     },
     {
@@ -4156,7 +4156,7 @@
       "source_location": "L165",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifierlayer_modifierlayer_getfirstpersonconfiguration",
-      "community": 19,
+      "community": 24,
       "norm_label": ".getfirstpersonconfiguration()"
     },
     {
@@ -4206,7 +4206,7 @@
       "source_location": "L32",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_playeranimationframe_playeranimationframe_tick",
-      "community": 63,
+      "community": 2,
       "norm_label": ".tick()"
     },
     {
@@ -4386,7 +4386,7 @@
       "source_location": "L38",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_abstractfademodifier_abstractfademodifier_setupanim",
-      "community": 63,
+      "community": 2,
       "norm_label": ".setupanim()"
     },
     {
@@ -4396,7 +4396,7 @@
       "source_location": "L48",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_abstractfademodifier_abstractfademodifier_tick",
-      "community": 63,
+      "community": 2,
       "norm_label": ".tick()"
     },
     {
@@ -4556,7 +4556,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_abstractmodifier",
-      "community": 23,
+      "community": 24,
       "norm_label": "abstractmodifier.java"
     },
     {
@@ -4566,7 +4566,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_abstractmodifier_abstractmodifier",
-      "community": 23,
+      "community": 24,
       "norm_label": "abstractmodifier"
     },
     {
@@ -4576,7 +4576,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_abstractmodifier_abstractmodifier_sethost",
-      "community": 23,
+      "community": 24,
       "norm_label": ".sethost()"
     },
     {
@@ -4586,7 +4586,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_abstractmodifier_abstractmodifier_getcontroller",
-      "community": 23,
+      "community": 24,
       "norm_label": ".getcontroller()"
     },
     {
@@ -4596,7 +4596,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_abstractmodifier_java_nullable",
-      "community": 23,
+      "community": 24,
       "norm_label": "nullable"
     },
     {
@@ -4606,7 +4606,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_abstractmodifier_abstractmodifier_canremove",
-      "community": 23,
+      "community": 24,
       "norm_label": ".canremove()"
     },
     {
@@ -4616,7 +4616,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_abstractmodifier_java_override",
-      "community": 23,
+      "community": 24,
       "norm_label": "override"
     },
     {
@@ -4626,7 +4626,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_adjustmentmodifier",
-      "community": 63,
+      "community": 54,
       "norm_label": "adjustmentmodifier.java"
     },
     {
@@ -4636,7 +4636,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_adjustmentmodifier_adjustmentmodifier",
-      "community": 63,
+      "community": 54,
       "norm_label": "adjustmentmodifier"
     },
     {
@@ -4646,7 +4646,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_adjustmentmodifier_adjustmentmodifier_adjustmentmodifier",
-      "community": 63,
+      "community": 54,
       "norm_label": ".adjustmentmodifier()"
     },
     {
@@ -4656,7 +4656,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_adjustmentmodifier_adjustmentmodifier_tick",
-      "community": 63,
+      "community": 54,
       "norm_label": ".tick()"
     },
     {
@@ -4666,7 +4666,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_adjustmentmodifier_java_override",
-      "community": 63,
+      "community": 54,
       "norm_label": "override"
     },
     {
@@ -4676,7 +4676,7 @@
       "source_location": "L41",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_adjustmentmodifier_adjustmentmodifier_setupanim",
-      "community": 63,
+      "community": 54,
       "norm_label": ".setupanim()"
     },
     {
@@ -4686,7 +4686,7 @@
       "source_location": "L47",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_adjustmentmodifier_adjustmentmodifier_fadeout",
-      "community": 63,
+      "community": 54,
       "norm_label": ".fadeout()"
     },
     {
@@ -4696,7 +4696,7 @@
       "source_location": "L52",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_adjustmentmodifier_adjustmentmodifier_getfadeout",
-      "community": 63,
+      "community": 62,
       "norm_label": ".getfadeout()"
     },
     {
@@ -4706,7 +4706,7 @@
       "source_location": "L77",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_adjustmentmodifier_adjustmentmodifier_getfadein",
-      "community": 63,
+      "community": 54,
       "norm_label": ".getfadein()"
     },
     {
@@ -4716,7 +4716,7 @@
       "source_location": "L91",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_adjustmentmodifier_adjustmentmodifier_get3dtransform",
-      "community": 63,
+      "community": 54,
       "norm_label": ".get3dtransform()"
     },
     {
@@ -4726,7 +4726,7 @@
       "source_location": "L107",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_adjustmentmodifier_adjustmentmodifier_transformbone",
-      "community": 63,
+      "community": 54,
       "norm_label": ".transformbone()"
     },
     {
@@ -4736,7 +4736,7 @@
       "source_location": "L116",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_adjustmentmodifier_adjustmentmodifier_tostring",
-      "community": 63,
+      "community": 54,
       "norm_label": ".tostring()"
     },
     {
@@ -4746,7 +4746,7 @@
       "source_location": "L121",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_adjustmentmodifier_partmodifier",
-      "community": 63,
+      "community": 54,
       "norm_label": "partmodifier"
     },
     {
@@ -4756,7 +4756,7 @@
       "source_location": "L122",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_adjustmentmodifier_partmodifier_partmodifier",
-      "community": 63,
+      "community": 54,
       "norm_label": ".partmodifier()"
     },
     {
@@ -4766,7 +4766,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_mirroriflefthandmodifier",
-      "community": 60,
+      "community": 13,
       "norm_label": "mirroriflefthandmodifier.java"
     },
     {
@@ -4776,7 +4776,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_mirroriflefthandmodifier_mirroriflefthandmodifier",
-      "community": 60,
+      "community": 13,
       "norm_label": "mirroriflefthandmodifier"
     },
     {
@@ -4786,7 +4786,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_mirroriflefthandmodifier_mirroriflefthandmodifier_get3dtransform",
-      "community": 60,
+      "community": 13,
       "norm_label": ".get3dtransform()"
     },
     {
@@ -4796,7 +4796,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_mirroriflefthandmodifier_java_override",
-      "community": 60,
+      "community": 13,
       "norm_label": "override"
     },
     {
@@ -4816,7 +4816,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_mirrormodifier_mirrormodifier",
-      "community": 60,
+      "community": 13,
       "norm_label": "mirrormodifier"
     },
     {
@@ -4826,7 +4826,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_mirrormodifier_mirrormodifier_get3dtransform",
-      "community": 60,
+      "community": 13,
       "norm_label": ".get3dtransform()"
     },
     {
@@ -4836,7 +4836,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_mirrormodifier_java_override",
-      "community": 60,
+      "community": 13,
       "norm_label": "override"
     },
     {
@@ -4866,7 +4866,7 @@
       "source_location": "L46",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_mirrormodifier_mirrormodifier_transformbone",
-      "community": 60,
+      "community": 13,
       "norm_label": ".transformbone()"
     },
     {
@@ -4876,7 +4876,7 @@
       "source_location": "L52",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_mirrormodifier_mirrormodifier_tostring",
-      "community": 60,
+      "community": 13,
       "norm_label": ".tostring()"
     },
     {
@@ -4886,7 +4886,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_speedmodifier",
-      "community": 63,
+      "community": 2,
       "norm_label": "speedmodifier.java"
     },
     {
@@ -4896,7 +4896,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_speedmodifier_speedmodifier",
-      "community": 63,
+      "community": 2,
       "norm_label": "speedmodifier"
     },
     {
@@ -4906,7 +4906,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_speedmodifier_speedmodifier_speedmodifier",
-      "community": 63,
+      "community": 2,
       "norm_label": ".speedmodifier()"
     },
     {
@@ -4916,7 +4916,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_speedmodifier_speedmodifier_tick",
-      "community": 63,
+      "community": 2,
       "norm_label": ".tick()"
     },
     {
@@ -4926,7 +4926,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_speedmodifier_java_override",
-      "community": 63,
+      "community": 2,
       "norm_label": "override"
     },
     {
@@ -4936,7 +4936,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_speedmodifier_speedmodifier_setupanim",
-      "community": 63,
+      "community": 2,
       "norm_label": ".setupanim()"
     },
     {
@@ -4946,7 +4946,7 @@
       "source_location": "L32",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_speedmodifier_speedmodifier_step",
-      "community": 63,
+      "community": 2,
       "norm_label": ".step()"
     },
     {
@@ -4956,7 +4956,7 @@
       "source_location": "L46",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_speedmodifier_speedmodifier_tostring",
-      "community": 63,
+      "community": 2,
       "norm_label": ".tostring()"
     },
     {
@@ -5186,7 +5186,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_api_firstperson_firstpersonconfiguration",
-      "community": 4,
+      "community": 3,
       "norm_label": "firstpersonconfiguration.java"
     },
     {
@@ -5656,7 +5656,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_bones_playeranimbone",
-      "community": 13,
+      "community": 14,
       "norm_label": "playeranimbone.java"
     },
     {
@@ -5706,7 +5706,7 @@
       "source_location": "L43",
       "_origin": "ast",
       "id": "src_main_java_com_skd_bones_playeranimbone_playeranimbone_settoinitialpose",
-      "community": 36,
+      "community": 3,
       "norm_label": ".settoinitialpose()"
     },
     {
@@ -5736,7 +5736,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "src_main_java_com_skd_bones_playeranimbone_playeranimbone_applyotherbone",
-      "community": 4,
+      "community": 59,
       "norm_label": ".applyotherbone()"
     },
     {
@@ -5776,7 +5776,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_bones_playeranimbone_java_internal",
-      "community": 13,
+      "community": 14,
       "norm_label": "internal"
     },
     {
@@ -7156,7 +7156,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_axis",
-      "community": 0,
+      "community": 14,
       "norm_label": "axis.java"
     },
     {
@@ -7166,7 +7166,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_axis_axis",
-      "community": 0,
+      "community": 14,
       "norm_label": "axis"
     },
     {
@@ -7176,7 +7176,7 @@
       "source_location": "L4",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_axis_axis_x",
-      "community": 0,
+      "community": 14,
       "norm_label": "x"
     },
     {
@@ -7186,7 +7186,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_axis_axis_y",
-      "community": 0,
+      "community": 14,
       "norm_label": "y"
     },
     {
@@ -7196,7 +7196,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_axis_axis_z",
-      "community": 0,
+      "community": 14,
       "norm_label": "z"
     },
     {
@@ -7346,7 +7346,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_transformtype",
-      "community": 7,
+      "community": 22,
       "norm_label": "transformtype.java"
     },
     {
@@ -7356,7 +7356,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_transformtype_transformtype",
-      "community": 7,
+      "community": 22,
       "norm_label": "transformtype"
     },
     {
@@ -7366,7 +7366,7 @@
       "source_location": "L4",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_transformtype_transformtype_position",
-      "community": 7,
+      "community": 22,
       "norm_label": "position"
     },
     {
@@ -7376,7 +7376,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_transformtype_transformtype_rotation",
-      "community": 7,
+      "community": 22,
       "norm_label": "rotation"
     },
     {
@@ -7386,7 +7386,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_transformtype_transformtype_bend",
-      "community": 7,
+      "community": 22,
       "norm_label": "bend"
     },
     {
@@ -7396,7 +7396,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_transformtype_transformtype_scale",
-      "community": 7,
+      "community": 22,
       "norm_label": "scale"
     },
     {
@@ -7546,7 +7546,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_event_molangevent",
-      "community": 75,
+      "community": 18,
       "norm_label": "molangevent.java"
     },
     {
@@ -7556,7 +7556,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "src_main_java_com_skd_event_molangevent_molangevent",
-      "community": 75,
+      "community": 18,
       "norm_label": "molangevent"
     },
     {
@@ -7566,7 +7566,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_event_molangevent_molangeventinterface",
-      "community": 75,
+      "community": 18,
       "norm_label": "molangeventinterface"
     },
     {
@@ -7576,7 +7576,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_event_molangevent_java_functionalinterface",
-      "community": 75,
+      "community": 18,
       "norm_label": "functionalinterface"
     },
     {
@@ -7586,7 +7586,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_event_molangevent_molangeventinterface_registermolangqueries",
-      "community": 75,
+      "community": 18,
       "norm_label": ".registermolangqueries()"
     },
     {
@@ -7596,7 +7596,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_event_molangevent_java_mochaengine",
-      "community": 75,
+      "community": 18,
       "norm_label": "mochaengine"
     },
     {
@@ -7946,7 +7946,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader",
-      "community": 7,
+      "community": 22,
       "norm_label": "playeranimatorloader.java"
     },
     {
@@ -7996,7 +7996,7 @@
       "source_location": "L54",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_playeranimatorloader_deserialize",
-      "community": 7,
+      "community": 20,
       "norm_label": ".deserialize()"
     },
     {
@@ -8016,7 +8016,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_java_type",
-      "community": 7,
+      "community": 22,
       "norm_label": "type"
     },
     {
@@ -8026,7 +8026,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_java_jsondeserializationcontext",
-      "community": 7,
+      "community": 22,
       "norm_label": "jsondeserializationcontext"
     },
     {
@@ -8036,7 +8036,7 @@
       "source_location": "L75",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_playeranimatorloader_emotedeserializer",
-      "community": 7,
+      "community": 20,
       "norm_label": ".emotedeserializer()"
     },
     {
@@ -8096,7 +8096,7 @@
       "source_location": "L266",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_playeranimatorloader_fillkeyframestack",
-      "community": 46,
+      "community": 7,
       "norm_label": ".fillkeyframestack()"
     },
     {
@@ -8266,7 +8266,7 @@
       "source_location": "L118",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_universalanimloader_universalanimloader_restoreplayerbonename",
-      "community": 12,
+      "community": 0,
       "norm_label": ".restoreplayerbonename()"
     },
     {
@@ -8346,7 +8346,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_math_vec3f",
-      "community": 1,
+      "community": 22,
       "norm_label": "vec3f.java"
     },
     {
@@ -8426,7 +8426,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin",
-      "community": 37,
+      "community": 36,
       "norm_label": "avatarmixin.java"
     },
     {
@@ -8436,7 +8436,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin_avatarmixin",
-      "community": 37,
+      "community": 36,
       "norm_label": "avatarmixin"
     },
     {
@@ -8446,7 +8446,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "livingentity",
-      "community": 37,
+      "community": 36,
       "norm_label": "livingentity"
     },
     {
@@ -8456,7 +8456,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin_java_mixin",
-      "community": 37,
+      "community": 36,
       "norm_label": "mixin"
     },
     {
@@ -8466,7 +8466,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin_java_identifier",
-      "community": 37,
+      "community": 36,
       "norm_label": "identifier"
     },
     {
@@ -8476,7 +8476,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin_avatarmixin_avatarmixin",
-      "community": 37,
+      "community": 36,
       "norm_label": ".avatarmixin()"
     },
     {
@@ -8486,7 +8486,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "entitytype",
-      "community": 37,
+      "community": 36,
       "norm_label": "entitytype"
     },
     {
@@ -8496,7 +8496,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin_java_level",
-      "community": 37,
+      "community": 36,
       "norm_label": "level"
     },
     {
@@ -8536,7 +8536,7 @@
       "source_location": "L39",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin_avatarmixin_playeranimlib_getanimmanager",
-      "community": 37,
+      "community": 36,
       "norm_label": ".playeranimlib$getanimmanager()"
     },
     {
@@ -8546,7 +8546,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin_java_override",
-      "community": 37,
+      "community": 36,
       "norm_label": "override"
     },
     {
@@ -8556,7 +8556,7 @@
       "source_location": "L44",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin_avatarmixin_playeranimlib_getanimation",
-      "community": 37,
+      "community": 36,
       "norm_label": ".playeranimlib$getanimation()"
     },
     {
@@ -8826,7 +8826,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_elytralayermixin",
-      "community": 4,
+      "community": 59,
       "norm_label": "elytralayermixin.java"
     },
     {
@@ -8836,7 +8836,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_elytralayermixin_elytralayermixin",
-      "community": 4,
+      "community": 59,
       "norm_label": "elytralayermixin"
     },
     {
@@ -8846,7 +8846,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_elytralayermixin_java_mixin",
-      "community": 4,
+      "community": 59,
       "norm_label": "mixin"
     },
     {
@@ -8856,7 +8856,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_elytralayermixin_elytralayermixin_inject",
-      "community": 4,
+      "community": 59,
       "norm_label": ".inject()"
     },
     {
@@ -8866,7 +8866,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_elytralayermixin_java_posestack",
-      "community": 4,
+      "community": 59,
       "norm_label": "posestack"
     },
     {
@@ -8876,7 +8876,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_elytralayermixin_java_submitnodecollector",
-      "community": 4,
+      "community": 59,
       "norm_label": "submitnodecollector"
     },
     {
@@ -8886,7 +8886,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_elytralayermixin_java_humanoidrenderstate",
-      "community": 4,
+      "community": 59,
       "norm_label": "humanoidrenderstate"
     },
     {
@@ -8896,7 +8896,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_elytralayermixin_java_callbackinfo",
-      "community": 4,
+      "community": 59,
       "norm_label": "callbackinfo"
     },
     {
@@ -8906,7 +8906,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_elytralayermixin_java_inject",
-      "community": 4,
+      "community": 59,
       "norm_label": "inject"
     },
     {
@@ -9056,7 +9056,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_livingentityrenderermixin",
-      "community": 4,
+      "community": 57,
       "norm_label": "livingentityrenderermixin.java"
     },
     {
@@ -9066,7 +9066,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_livingentityrenderermixin_livingentityrenderermixin",
-      "community": 4,
+      "community": 57,
       "norm_label": "livingentityrenderermixin"
     },
     {
@@ -9076,7 +9076,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_livingentityrenderermixin_java_mixin",
-      "community": 4,
+      "community": 57,
       "norm_label": "mixin"
     },
     {
@@ -9086,7 +9086,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_livingentityrenderermixin_livingentityrenderermixin_dotranslations",
-      "community": 4,
+      "community": 57,
       "norm_label": ".dotranslations()"
     },
     {
@@ -9096,7 +9096,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_livingentityrenderermixin_java_posestack",
-      "community": 4,
+      "community": 57,
       "norm_label": "posestack"
     },
     {
@@ -9106,7 +9106,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_livingentityrenderermixin_java_submitnodecollector",
-      "community": 4,
+      "community": 57,
       "norm_label": "submitnodecollector"
     },
     {
@@ -9116,7 +9116,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "camerarenderstate",
-      "community": 4,
+      "community": 57,
       "norm_label": "camerarenderstate"
     },
     {
@@ -9126,7 +9126,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_livingentityrenderermixin_java_callbackinfo",
-      "community": 4,
+      "community": 57,
       "norm_label": "callbackinfo"
     },
     {
@@ -9136,7 +9136,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_livingentityrenderermixin_java_inject",
-      "community": 4,
+      "community": 57,
       "norm_label": "inject"
     },
     {
@@ -9206,7 +9206,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin",
-      "community": 4,
+      "community": 23,
       "norm_label": "playercapemodelmixin.java"
     },
     {
@@ -9216,7 +9216,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_playercapemodelmixin",
-      "community": 4,
+      "community": 23,
       "norm_label": "playercapemodelmixin"
     },
     {
@@ -9226,7 +9226,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_java_mixin",
-      "community": 4,
+      "community": 23,
       "norm_label": "mixin"
     },
     {
@@ -9236,7 +9236,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_java_modelpart",
-      "community": 4,
+      "community": 23,
       "norm_label": "modelpart"
     },
     {
@@ -9246,7 +9246,7 @@
       "source_location": "L28",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_playercapemodelmixin_setupanim",
-      "community": 4,
+      "community": 23,
       "norm_label": ".setupanim()"
     },
     {
@@ -9256,7 +9256,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_java_avatarrenderstate",
-      "community": 4,
+      "community": 23,
       "norm_label": "avatarrenderstate"
     },
     {
@@ -9266,7 +9266,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_java_callbackinfo",
-      "community": 4,
+      "community": 23,
       "norm_label": "callbackinfo"
     },
     {
@@ -9276,7 +9276,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_java_inject",
-      "community": 4,
+      "community": 23,
       "norm_label": "inject"
     },
     {
@@ -9286,7 +9286,7 @@
       "source_location": "L51",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_playercapemodelmixin_pal_updatepart",
-      "community": 4,
+      "community": 23,
       "norm_label": ".pal$updatepart()"
     },
     {
@@ -9296,7 +9296,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_java_override",
-      "community": 4,
+      "community": 23,
       "norm_label": "override"
     },
     {
@@ -9306,7 +9306,7 @@
       "source_location": "L56",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_playercapemodelmixin_pal_resetall",
-      "community": 4,
+      "community": 23,
       "norm_label": ".pal$resetall()"
     },
     {
@@ -9606,7 +9606,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandlayermixin",
-      "community": 57,
+      "community": 3,
       "norm_label": "iteminhandlayermixin.java"
     },
     {
@@ -9616,7 +9616,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandlayermixin_iteminhandlayermixin",
-      "community": 57,
+      "community": 3,
       "norm_label": "iteminhandlayermixin"
     },
     {
@@ -9626,7 +9626,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandlayermixin_java_mixin",
-      "community": 57,
+      "community": 3,
       "norm_label": "mixin"
     },
     {
@@ -9636,7 +9636,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandlayermixin_iteminhandlayermixin_dontrenderdisabledfirstpersonitem",
-      "community": 57,
+      "community": 3,
       "norm_label": ".dontrenderdisabledfirstpersonitem()"
     },
     {
@@ -9646,7 +9646,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandlayermixin_java_itemstackrenderstate",
-      "community": 57,
+      "community": 3,
       "norm_label": "itemstackrenderstate"
     },
     {
@@ -9656,7 +9656,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandlayermixin_java_itemstack",
-      "community": 57,
+      "community": 3,
       "norm_label": "itemstack"
     },
     {
@@ -9666,7 +9666,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandlayermixin_java_humanoidarm",
-      "community": 57,
+      "community": 3,
       "norm_label": "humanoidarm"
     },
     {
@@ -9676,7 +9676,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandlayermixin_java_posestack",
-      "community": 57,
+      "community": 3,
       "norm_label": "posestack"
     },
     {
@@ -9686,7 +9686,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandlayermixin_java_submitnodecollector",
-      "community": 57,
+      "community": 3,
       "norm_label": "submitnodecollector"
     },
     {
@@ -9696,7 +9696,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandlayermixin_java_callbackinfo",
-      "community": 57,
+      "community": 3,
       "norm_label": "callbackinfo"
     },
     {
@@ -9706,7 +9706,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandlayermixin_java_inject",
-      "community": 57,
+      "community": 3,
       "norm_label": "inject"
     },
     {
@@ -9716,7 +9716,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandrenderermixin",
-      "community": 36,
+      "community": 3,
       "norm_label": "iteminhandrenderermixin.java"
     },
     {
@@ -9726,7 +9726,7 @@
       "source_location": "L23",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandrenderermixin_iteminhandrenderermixin",
-      "community": 36,
+      "community": 3,
       "norm_label": "iteminhandrenderermixin"
     },
     {
@@ -9736,7 +9736,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandrenderermixin_java_mixin",
-      "community": 36,
+      "community": 3,
       "norm_label": "mixin"
     },
     {
@@ -9746,7 +9746,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandrenderermixin_iteminhandrenderermixin_disabledefaultitemifneeded",
-      "community": 36,
+      "community": 3,
       "norm_label": ".disabledefaultitemifneeded()"
     },
     {
@@ -9756,7 +9756,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandrenderermixin_java_posestack",
-      "community": 36,
+      "community": 3,
       "norm_label": "posestack"
     },
     {
@@ -9766,7 +9766,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandrenderermixin_java_submitnodecollector",
-      "community": 36,
+      "community": 3,
       "norm_label": "submitnodecollector"
     },
     {
@@ -9776,7 +9776,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandrenderermixin_java_localplayer",
-      "community": 36,
+      "community": 3,
       "norm_label": "localplayer"
     },
     {
@@ -9786,7 +9786,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandrenderermixin_java_callbackinfo",
-      "community": 36,
+      "community": 3,
       "norm_label": "callbackinfo"
     },
     {
@@ -9796,7 +9796,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandrenderermixin_java_inject",
-      "community": 36,
+      "community": 3,
       "norm_label": "inject"
     },
     {
@@ -9806,7 +9806,7 @@
       "source_location": "L48",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandrenderermixin_iteminhandrenderermixin_applybonetransforms",
-      "community": 36,
+      "community": 3,
       "norm_label": ".applybonetransforms()"
     },
     {
@@ -9816,7 +9816,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandrenderermixin_java_livingentity",
-      "community": 36,
+      "community": 3,
       "norm_label": "livingentity"
     },
     {
@@ -9826,7 +9826,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandrenderermixin_java_itemstack",
-      "community": 36,
+      "community": 3,
       "norm_label": "itemstack"
     },
     {
@@ -9836,7 +9836,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "itemdisplaycontext",
-      "community": 36,
+      "community": 3,
       "norm_label": "itemdisplaycontext"
     },
     {
@@ -9846,7 +9846,7 @@
       "source_location": "L80",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandrenderermixin_iteminhandrenderermixin_applyarmbonetransforms",
-      "community": 36,
+      "community": 3,
       "norm_label": ".applyarmbonetransforms()"
     },
     {
@@ -9856,7 +9856,7 @@
       "source_location": "L117",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_firstperson_iteminhandrenderermixin_iteminhandrenderermixin_cancelitemrender",
-      "community": 36,
+      "community": 3,
       "norm_label": ".cancelitemrender()"
     },
     {
@@ -10206,7 +10206,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_molang_molangloader",
-      "community": 54,
+      "community": 18,
       "norm_label": "molangloader.java"
     },
     {
@@ -10216,7 +10216,7 @@
       "source_location": "L26",
       "_origin": "ast",
       "id": "src_main_java_com_skd_molang_molangloader_molangloader",
-      "community": 54,
+      "community": 18,
       "norm_label": "molangloader"
     },
     {
@@ -10226,7 +10226,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "parseexception",
-      "community": 54,
+      "community": 18,
       "norm_label": "parseexception"
     },
     {
@@ -10236,7 +10236,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_molang_molangloader_java_mochaengine",
-      "community": 54,
+      "community": 18,
       "norm_label": "mochaengine"
     },
     {
@@ -10246,7 +10246,7 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "src_main_java_com_skd_molang_molangloader_molangloader_parsejson",
-      "community": 54,
+      "community": 18,
       "norm_label": ".parsejson()"
     },
     {
@@ -10256,7 +10256,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_molang_molangloader_java_jsonelement",
-      "community": 54,
+      "community": 18,
       "norm_label": "jsonelement"
     },
     {
@@ -10266,7 +10266,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_molang_molangloader_java_expression",
-      "community": 54,
+      "community": 18,
       "norm_label": "expression"
     },
     {
@@ -10276,7 +10276,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_molang_molangloader_java_contract",
-      "community": 54,
+      "community": 18,
       "norm_label": "contract"
     },
     {
@@ -10286,7 +10286,7 @@
       "source_location": "L76",
       "_origin": "ast",
       "id": "src_main_java_com_skd_molang_molangloader_molangloader_createnewengine",
-      "community": 54,
+      "community": 18,
       "norm_label": ".createnewengine()"
     },
     {
@@ -10296,7 +10296,7 @@
       "source_location": "L92",
       "_origin": "ast",
       "id": "src_main_java_com_skd_molang_molangloader_molangloader_createbaseengine",
-      "community": 54,
+      "community": 18,
       "norm_label": ".createbaseengine()"
     },
     {
@@ -10336,7 +10336,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_molang_molangloader_java_value",
-      "community": 54,
+      "community": 18,
       "norm_label": "value"
     },
     {
@@ -10346,7 +10346,7 @@
       "source_location": "L112",
       "_origin": "ast",
       "id": "src_main_java_com_skd_molang_molangloader_molangloader_isconstant",
-      "community": 54,
+      "community": 18,
       "norm_label": ".isconstant()"
     },
     {
@@ -10696,7 +10696,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_neoforge_event_molangevent",
-      "community": 6,
+      "community": 18,
       "norm_label": "molangevent.java"
     },
     {
@@ -10706,7 +10706,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "src_main_java_com_skd_neoforge_event_molangevent_molangevent",
-      "community": 6,
+      "community": 18,
       "norm_label": "molangevent"
     },
     {
@@ -10716,7 +10716,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_neoforge_event_molangevent_java_mochaengine",
-      "community": 6,
+      "community": 18,
       "norm_label": "mochaengine"
     },
     {
@@ -10726,7 +10726,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_neoforge_event_molangevent_molangevent_molangevent",
-      "community": 6,
+      "community": 18,
       "norm_label": ".molangevent()"
     },
     {
@@ -10736,7 +10736,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "src_main_java_com_skd_neoforge_event_molangevent_molangevent_getanimationcontroller",
-      "community": 6,
+      "community": 18,
       "norm_label": ".getanimationcontroller()"
     },
     {
@@ -10746,7 +10746,7 @@
       "source_location": "L26",
       "_origin": "ast",
       "id": "src_main_java_com_skd_neoforge_event_molangevent_molangevent_getruntimebuilder",
-      "community": 6,
+      "community": 18,
       "norm_label": ".getruntimebuilder()"
     },
     {
@@ -10756,7 +10756,7 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "src_main_java_com_skd_neoforge_event_molangevent_molangevent_setdoublequery",
-      "community": 6,
+      "community": 18,
       "norm_label": ".setdoublequery()"
     },
     {
@@ -10766,7 +10766,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "src_main_java_com_skd_neoforge_event_molangevent_molangevent_setboolquery",
-      "community": 6,
+      "community": 18,
       "norm_label": ".setboolquery()"
     },
     {
@@ -10776,7 +10776,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_neoforge_event_playeranimationregisterevent",
-      "community": 41,
+      "community": 46,
       "norm_label": "playeranimationregisterevent.java"
     },
     {
@@ -10786,7 +10786,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "src_main_java_com_skd_neoforge_event_playeranimationregisterevent_playeranimationregisterevent",
-      "community": 41,
+      "community": 46,
       "norm_label": "playeranimationregisterevent"
     },
     {
@@ -10796,7 +10796,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_neoforge_event_playeranimationregisterevent_java_avatar",
-      "community": 41,
+      "community": 46,
       "norm_label": "avatar"
     },
     {
@@ -10806,7 +10806,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "src_main_java_com_skd_neoforge_event_playeranimationregisterevent_playeranimationregisterevent_playeranimationregisterevent",
-      "community": 41,
+      "community": 46,
       "norm_label": ".playeranimationregisterevent()"
     },
     {
@@ -10816,7 +10816,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_neoforge_event_playeranimationregisterevent_playeranimationregisterevent_getavatar",
-      "community": 41,
+      "community": 46,
       "norm_label": ".getavatar()"
     },
     {
@@ -10826,7 +10826,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_neoforge_event_playeranimationregisterevent_playeranimationregisterevent_getanimmanager",
-      "community": 41,
+      "community": 46,
       "norm_label": ".getanimmanager()"
     },
     {
@@ -10836,7 +10836,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary",
-      "community": 2,
+      "community": 22,
       "norm_label": "animationbinary.java"
     },
     {
@@ -10846,7 +10846,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary_animationbinary",
-      "community": 2,
+      "community": 8,
       "norm_label": "animationbinary"
     },
     {
@@ -10856,7 +10856,7 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary_animationbinary_getcurrentversion",
-      "community": 2,
+      "community": 8,
       "norm_label": ".getcurrentversion()"
     },
     {
@@ -10866,7 +10866,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary_animationbinary_write",
-      "community": 2,
+      "community": 8,
       "norm_label": ".write()"
     },
     {
@@ -10876,7 +10876,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary_java_bytebuf",
-      "community": 2,
+      "community": 8,
       "norm_label": "bytebuf"
     },
     {
@@ -10886,7 +10886,7 @@
       "source_location": "L87",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary_animationbinary_writeboneanimation",
-      "community": 2,
+      "community": 8,
       "norm_label": ".writeboneanimation()"
     },
     {
@@ -10896,7 +10896,7 @@
       "source_location": "L94",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary_animationbinary_writekeyframestack",
-      "community": 2,
+      "community": 8,
       "norm_label": ".writekeyframestack()"
     },
     {
@@ -10906,7 +10906,7 @@
       "source_location": "L102",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary_animationbinary_writekeyframe",
-      "community": 2,
+      "community": 8,
       "norm_label": ".writekeyframe()"
     },
     {
@@ -10916,7 +10916,7 @@
       "source_location": "L109",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary_animationbinary_writeeventkeyframes",
-      "community": 2,
+      "community": 8,
       "norm_label": ".writeeventkeyframes()"
     },
     {
@@ -10926,7 +10926,7 @@
       "source_location": "L134",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary_animationbinary_read",
-      "community": 2,
+      "community": 8,
       "norm_label": ".read()"
     },
     {
@@ -10936,7 +10936,7 @@
       "source_location": "L207",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary_animationbinary_readboneanimation",
-      "community": 2,
+      "community": 8,
       "norm_label": ".readboneanimation()"
     },
     {
@@ -10946,7 +10946,7 @@
       "source_location": "L215",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary_animationbinary_readkeyframestack",
-      "community": 2,
+      "community": 8,
       "norm_label": ".readkeyframestack()"
     },
     {
@@ -10956,7 +10956,7 @@
       "source_location": "L222",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary_animationbinary_readkeyframelist",
-      "community": 2,
+      "community": 8,
       "norm_label": ".readkeyframelist()"
     },
     {
@@ -10966,7 +10966,7 @@
       "source_location": "L240",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary_animationbinary_readeventkeyframes",
-      "community": 2,
+      "community": 8,
       "norm_label": ".readeventkeyframes()"
     },
     {
@@ -10976,7 +10976,7 @@
       "source_location": "L273",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary_animationbinary_negatekeyframes",
-      "community": 2,
+      "community": 8,
       "norm_label": ".negatekeyframes()"
     },
     {
@@ -10986,7 +10986,7 @@
       "source_location": "L279",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary_animationbinary_negatekeyframeexpressions",
-      "community": 2,
+      "community": 64,
       "norm_label": ".negatekeyframeexpressions()"
     },
     {
@@ -10996,7 +10996,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary_java_expression",
-      "community": 2,
+      "community": 64,
       "norm_label": "expression"
     },
     {
@@ -11006,7 +11006,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinaryv6",
-      "community": 8,
+      "community": 14,
       "norm_label": "animationbinaryv6.java"
     },
     {
@@ -11126,7 +11126,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel",
-      "community": 0,
+      "community": 14,
       "norm_label": "bonechannel"
     },
     {
@@ -11136,7 +11136,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_rotation_x",
-      "community": 0,
+      "community": 14,
       "norm_label": "rotation_x"
     },
     {
@@ -11146,7 +11146,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_rotation_y",
-      "community": 0,
+      "community": 14,
       "norm_label": "rotation_y"
     },
     {
@@ -11156,7 +11156,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_rotation_z",
-      "community": 0,
+      "community": 14,
       "norm_label": "rotation_z"
     },
     {
@@ -11166,7 +11166,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_position_x",
-      "community": 0,
+      "community": 14,
       "norm_label": "position_x"
     },
     {
@@ -11176,7 +11176,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_position_y",
-      "community": 0,
+      "community": 14,
       "norm_label": "position_y"
     },
     {
@@ -11186,7 +11186,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_position_z",
-      "community": 0,
+      "community": 14,
       "norm_label": "position_z"
     },
     {
@@ -11196,7 +11196,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_scale_x",
-      "community": 0,
+      "community": 14,
       "norm_label": "scale_x"
     },
     {
@@ -11206,7 +11206,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_scale_y",
-      "community": 0,
+      "community": 14,
       "norm_label": "scale_y"
     },
     {
@@ -11216,7 +11216,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_scale_z",
-      "community": 0,
+      "community": 14,
       "norm_label": "scale_z"
     },
     {
@@ -11226,7 +11226,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_bend",
-      "community": 0,
+      "community": 14,
       "norm_label": "bend"
     },
     {
@@ -11456,7 +11456,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_legacyanimationbinary",
-      "community": 12,
+      "community": 22,
       "norm_label": "legacyanimationbinary.java"
     },
     {
@@ -11546,7 +11546,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_legacyanimationbinary_java_expression",
-      "community": 12,
+      "community": 22,
       "norm_label": "expression"
     },
     {
@@ -12196,7 +12196,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil",
-      "community": 4,
+      "community": 37,
       "norm_label": "renderutil.java"
     },
     {
@@ -12206,7 +12206,7 @@
       "source_location": "L9",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil_renderutil",
-      "community": 4,
+      "community": 37,
       "norm_label": "renderutil"
     },
     {
@@ -12216,7 +12216,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil_renderutil_rotatematrixaroundbone",
-      "community": 4,
+      "community": 37,
       "norm_label": ".rotatematrixaroundbone()"
     },
     {
@@ -12226,7 +12226,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil_java_posestack",
-      "community": 4,
+      "community": 37,
       "norm_label": "posestack"
     },
     {
@@ -12236,7 +12236,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil_renderutil_translateparttocape",
-      "community": 4,
+      "community": 37,
       "norm_label": ".translateparttocape()"
     },
     {
@@ -12246,7 +12246,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil_java_modelpart",
-      "community": 4,
+      "community": 37,
       "norm_label": "modelpart"
     },
     {
@@ -12256,7 +12256,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "partpose",
-      "community": 4,
+      "community": 37,
       "norm_label": "partpose"
     },
     {
@@ -12266,7 +12266,7 @@
       "source_location": "L26",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil_renderutil_translateparttobone",
-      "community": 4,
+      "community": 37,
       "norm_label": ".translateparttobone()"
     },
     {
@@ -12276,7 +12276,7 @@
       "source_location": "L38",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil_renderutil_translatematrixtobone",
-      "community": 4,
+      "community": 37,
       "norm_label": ".translatematrixtobone()"
     },
     {
@@ -12286,7 +12286,7 @@
       "source_location": "L44",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil_renderutil_copyvanillapart",
-      "community": 4,
+      "community": 37,
       "norm_label": ".copyvanillapart()"
     },
     {
@@ -12296,7 +12296,7 @@
       "source_location": "L53",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil_renderutil_rotatezyx",
-      "community": 4,
+      "community": 37,
       "norm_label": ".rotatezyx()"
     },
     {
@@ -12306,7 +12306,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "pose",
-      "community": 4,
+      "community": 37,
       "norm_label": "pose"
     },
     {
@@ -12370,10 +12370,40 @@
       "norm_label": "player animation core - changelog"
     },
     {
-      "label": "[0.0.0-beta.3] - 2026-08-02",
+      "label": "[1.0.0] - 2026-08-02",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
       "source_location": "L10",
+      "_origin": "ast",
+      "id": "changelog_1_0_0_2026_08_02",
+      "community": 66,
+      "norm_label": "[1.0.0] - 2026-08-02"
+    },
+    {
+      "label": "Added",
+      "file_type": "document",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L12",
+      "_origin": "ast",
+      "id": "changelog_added",
+      "community": 66,
+      "norm_label": "added"
+    },
+    {
+      "label": "Fixed",
+      "file_type": "document",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L15",
+      "_origin": "ast",
+      "id": "changelog_fixed",
+      "community": 66,
+      "norm_label": "fixed"
+    },
+    {
+      "label": "[0.0.0-beta.3] - 2026-08-02",
+      "file_type": "document",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L18",
       "_origin": "ast",
       "id": "changelog_0_0_0_beta_3_2026_08_02",
       "community": 66,
@@ -12383,9 +12413,9 @@
       "label": "Fixed",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L12",
+      "source_location": "L20",
       "_origin": "ast",
-      "id": "changelog_fixed",
+      "id": "changelog_fixed_20",
       "community": 66,
       "norm_label": "fixed"
     },
@@ -12393,7 +12423,7 @@
       "label": "[0.0.0-beta.2] - 2026-08-02",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L15",
+      "source_location": "L23",
       "_origin": "ast",
       "id": "changelog_0_0_0_beta_2_2026_08_02",
       "community": 66,
@@ -12403,9 +12433,9 @@
       "label": "Fixed",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L17",
+      "source_location": "L25",
       "_origin": "ast",
-      "id": "changelog_fixed_17",
+      "id": "changelog_fixed_25",
       "community": 66,
       "norm_label": "fixed"
     },
@@ -12413,7 +12443,7 @@
       "label": "[0.0.0-beta.1] - 2026-08-02",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L20",
+      "source_location": "L28",
       "_origin": "ast",
       "id": "changelog_0_0_0_beta_1_2026_08_02",
       "community": 66,
@@ -12423,9 +12453,9 @@
       "label": "Added",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L22",
+      "source_location": "L30",
       "_origin": "ast",
-      "id": "changelog_added",
+      "id": "changelog_added_30",
       "community": 66,
       "norm_label": "added"
     },
@@ -13068,6 +13098,16 @@
       "id": "docs_curseforge_versions_0_0_0_beta_3",
       "community": 77,
       "norm_label": "0.0.0-beta.3.md"
+    },
+    {
+      "label": "1.0.0.md",
+      "file_type": "document",
+      "source_file": "docs/curseforge/versions/1.0.0.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_curseforge_versions_1_0_0",
+      "community": 78,
+      "norm_label": "1.0.0.md"
     }
   ],
   "links": [
@@ -43829,7 +43869,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L20",
+      "source_location": "L28",
       "weight": 1.0,
       "source": "changelog_player_animation_core_changelog",
       "target": "changelog_0_0_0_beta_1_2026_08_02",
@@ -43839,7 +43879,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L15",
+      "source_location": "L23",
       "weight": 1.0,
       "source": "changelog_player_animation_core_changelog",
       "target": "changelog_0_0_0_beta_2_2026_08_02",
@@ -43849,7 +43889,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L10",
+      "source_location": "L18",
       "weight": 1.0,
       "source": "changelog_player_animation_core_changelog",
       "target": "changelog_0_0_0_beta_3_2026_08_02",
@@ -43859,9 +43899,29 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
+      "source_location": "L10",
+      "weight": 1.0,
+      "source": "changelog_player_animation_core_changelog",
+      "target": "changelog_1_0_0_2026_08_02",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CHANGELOG.md",
       "source_location": "L12",
       "weight": 1.0,
-      "source": "changelog_0_0_0_beta_3_2026_08_02",
+      "source": "changelog_1_0_0_2026_08_02",
+      "target": "changelog_added",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "changelog_1_0_0_2026_08_02",
       "target": "changelog_fixed",
       "confidence_score": 1.0
     },
@@ -43869,20 +43929,30 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L17",
+      "source_location": "L20",
       "weight": 1.0,
-      "source": "changelog_0_0_0_beta_2_2026_08_02",
-      "target": "changelog_fixed_17",
+      "source": "changelog_0_0_0_beta_3_2026_08_02",
+      "target": "changelog_fixed_20",
       "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L22",
+      "source_location": "L25",
+      "weight": 1.0,
+      "source": "changelog_0_0_0_beta_2_2026_08_02",
+      "target": "changelog_fixed_25",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L30",
       "weight": 1.0,
       "source": "changelog_0_0_0_beta_1_2026_08_02",
-      "target": "changelog_added",
+      "target": "changelog_added_30",
       "confidence_score": 1.0
     },
     {
@@ -44447,5 +44517,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "6d2fa444027bde8f8077b1ff58105cdd9b914c1d"
+  "built_at_commit": "ab187fbf7e3c19e88dce54d97edb63933002e11c"
 }
