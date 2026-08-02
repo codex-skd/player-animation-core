@@ -7,6 +7,14 @@ y este proyecto adhiere a [Semantic Versioning](https://semver.org/spec/v2.0.0.h
 
 Para el historial completo de la versión 26.1.2, ver `player_animation_core/26.1.2/CHANGELOG.md` (rama `minecraft/26.1.2/neoforge-26.1.2.78/production`).
 
+## [1.0.0] - 2026-08-02
+
+### Added
+- Primera versión estable de Player Animation Core para Minecraft 26.2 / NeoForge 26.2.0.32-beta.
+
+### Fixed
+- Incluye los arreglos de las betas previas: mixin `ItemInHandRendererMixin` apuntando a `submitHandsWithItems` y `LevelRendererMixin` reorientado a `LevelExtractor`.
+
 ## [0.0.0-beta.3] - 2026-08-02
 
 ### Fixed
