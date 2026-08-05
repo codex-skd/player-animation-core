@@ -449,11 +449,6 @@
     "ast_hash": "e9bfe958fa706c26c2e6f0ba56fdbb86",
     "semantic_hash": ""
   },
-  "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java": {
-    "mtime": 1785629455.8515503,
-    "ast_hash": "68c4ea2d7bec49c9d8a6b759a3b1314b",
-    "semantic_hash": ""
-  },
   "src/main/java/com/skd/neoforge/PlayerAnimCoreServiceImpl.java": {
     "mtime": 1785629455.8515503,
     "ast_hash": "c090110381287ce12422f8924dc171dc",
@@ -545,13 +540,13 @@
     "semantic_hash": ""
   },
   ".gitlab-ci.yml": {
-    "mtime": 1785629468.2155871,
-    "ast_hash": "560448c117d9df9c94a5810ae4b1f6a5",
+    "mtime": 1785801081.2455342,
+    "ast_hash": "075837d192768b1cf94bed61a7ba7dae",
     "semantic_hash": ""
   },
   "CHANGELOG.md": {
-    "mtime": 1785637731.721609,
-    "ast_hash": "61a8ab82e6177e93d561d78d5ece9351",
+    "mtime": 1785972327.6029828,
+    "ast_hash": "7b1a595c676252868a57ef8500b4e827",
     "semantic_hash": ""
   },
   "DOCS.md": {
@@ -565,8 +560,8 @@
     "semantic_hash": ""
   },
   "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md": {
-    "mtime": 1785633474.391944,
-    "ast_hash": "b30965d8acd624bcf79cf58432f71a8e",
+    "mtime": 1785704978.7877696,
+    "ast_hash": "fdb6a4b13e0428cc5ffdcc34b578be2a",
     "semantic_hash": ""
   },
   "docs/curseforge/project_description.md": {
@@ -602,6 +597,21 @@
   "docs/curseforge/versions/1.0.0.md": {
     "mtime": 1785637737.0035222,
     "ast_hash": "d65e09e3ea47d288a643687078e39f83",
+    "semantic_hash": ""
+  },
+  "src/main/java/com/skd/neoforge/PlayerAnimationCore.java": {
+    "mtime": 1785704971.095498,
+    "ast_hash": "ab647c6530f58ad7a9b41283a96b3136",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/1.0.1.md": {
+    "mtime": 1785705055.9881735,
+    "ast_hash": "20e0a2905544462da46fcc1f53c47c59",
+    "semantic_hash": ""
+  },
+  "docs/curseforge/versions/1.0.2.md": {
+    "mtime": 1785972327.60348,
+    "ast_hash": "f2199147ecf7dfc5c084e4eacaf6acf9",
     "semantic_hash": ""
   }
 }

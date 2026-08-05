@@ -86,7 +86,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_playeranimcore",
-      "community": 0,
+      "community": 38,
       "norm_label": "playeranimcore.java"
     },
     {
@@ -96,7 +96,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "src_main_java_com_skd_playeranimcore_playeranimcore",
-      "community": 0,
+      "community": 38,
       "norm_label": "playeranimcore"
     },
     {
@@ -106,7 +106,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "logger",
-      "community": 0,
+      "community": 38,
       "norm_label": "logger"
     },
     {
@@ -116,7 +116,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_playeranimcore_java_type",
-      "community": 0,
+      "community": 38,
       "norm_label": "type"
     },
     {
@@ -126,7 +126,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_playeranimcore_java_gson",
-      "community": 0,
+      "community": 38,
       "norm_label": "gson"
     },
     {
@@ -136,7 +136,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_playeranimcoremod",
-      "community": 1,
+      "community": 38,
       "norm_label": "playeranimcoremod.java"
     },
     {
@@ -146,7 +146,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "src_main_java_com_skd_playeranimcoremod_playeranimcoremod",
-      "community": 1,
+      "community": 38,
       "norm_label": "playeranimcoremod"
     },
     {
@@ -156,7 +156,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_playeranimcoremod_java_identifier",
-      "community": 1,
+      "community": 38,
       "norm_label": "identifier"
     },
     {
@@ -166,7 +166,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_playeranimcoremod_playeranimcoremod_id",
-      "community": 1,
+      "community": 38,
       "norm_label": ".id()"
     },
     {
@@ -176,7 +176,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_playeranimcoremod_playeranimcoremod_init",
-      "community": 1,
+      "community": 38,
       "norm_label": ".init()"
     },
     {
@@ -226,7 +226,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_ianimatedavatar",
-      "community": 21,
+      "community": 37,
       "norm_label": "ianimatedavatar.java"
     },
     {
@@ -236,7 +236,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_ianimatedavatar_ianimatedavatar",
-      "community": 21,
+      "community": 37,
       "norm_label": "ianimatedavatar"
     },
     {
@@ -246,7 +246,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_ianimatedavatar_ianimatedavatar_playeranimlib_getanimmanager",
-      "community": 21,
+      "community": 37,
       "norm_label": ".playeranimlib$getanimmanager()"
     },
     {
@@ -256,7 +256,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_ianimatedavatar_ianimatedavatar_playeranimlib_getanimation",
-      "community": 21,
+      "community": 37,
       "norm_label": ".playeranimlib$getanimation()"
     },
     {
@@ -266,7 +266,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_ianimatedavatar_java_identifier",
-      "community": 21,
+      "community": 37,
       "norm_label": "identifier"
     },
     {
@@ -336,7 +336,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_iboneupdater",
-      "community": 23,
+      "community": 46,
       "norm_label": "iboneupdater.java"
     },
     {
@@ -346,7 +346,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_iboneupdater_iboneupdater",
-      "community": 23,
+      "community": 46,
       "norm_label": "iboneupdater"
     },
     {
@@ -356,7 +356,7 @@
       "source_location": "L9",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_iboneupdater_iboneupdater_pal_updatepart",
-      "community": 23,
+      "community": 46,
       "norm_label": ".pal$updatepart()"
     },
     {
@@ -366,7 +366,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_iboneupdater_java_modelpart",
-      "community": 23,
+      "community": 46,
       "norm_label": "modelpart"
     },
     {
@@ -376,7 +376,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "src_main_java_com_skd_accessors_iboneupdater_iboneupdater_pal_resetall",
-      "community": 23,
+      "community": 46,
       "norm_label": ".pal$resetall()"
     },
     {
@@ -386,7 +386,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation",
-      "community": 11,
+      "community": 1,
       "norm_label": "animation.java"
     },
     {
@@ -406,7 +406,7 @@
       "source_location": "L32",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_animation_generatewaitanimation",
-      "community": 16,
+      "community": 11,
       "norm_label": ".generatewaitanimation()"
     },
     {
@@ -426,7 +426,7 @@
       "source_location": "L48",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_animation_getbone",
-      "community": 11,
+      "community": 23,
       "norm_label": ".getbone()"
     },
     {
@@ -436,7 +436,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_java_nullable",
-      "community": 11,
+      "community": 23,
       "norm_label": "nullable"
     },
     {
@@ -446,7 +446,7 @@
       "source_location": "L53",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_animation_getboneoptional",
-      "community": 11,
+      "community": 23,
       "norm_label": ".getboneoptional()"
     },
     {
@@ -546,7 +546,7 @@
       "source_location": "L116",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_keyframes",
-      "community": 0,
+      "community": 1,
       "norm_label": "keyframes"
     },
     {
@@ -566,7 +566,7 @@
       "source_location": "L125",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_looptype",
-      "community": 60,
+      "community": 11,
       "norm_label": "looptype"
     },
     {
@@ -576,7 +576,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_java_functionalinterface",
-      "community": 60,
+      "community": 11,
       "norm_label": "functionalinterface"
     },
     {
@@ -586,7 +586,7 @@
       "source_location": "L129",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_shouldplayagain",
-      "community": 11,
+      "community": 1,
       "norm_label": "shouldplayagain()"
     },
     {
@@ -596,7 +596,7 @@
       "source_location": "L134",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_restartfromtick",
-      "community": 11,
+      "community": 1,
       "norm_label": "restartfromtick()"
     },
     {
@@ -606,7 +606,7 @@
       "source_location": "L149",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_looptype_shouldplayagain",
-      "community": 60,
+      "community": 11,
       "norm_label": ".shouldplayagain()"
     },
     {
@@ -616,7 +616,7 @@
       "source_location": "L151",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_looptype_restartfromtick",
-      "community": 60,
+      "community": 11,
       "norm_label": ".restartfromtick()"
     },
     {
@@ -626,7 +626,7 @@
       "source_location": "L155",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_looptype_returntotickloop",
-      "community": 60,
+      "community": 11,
       "norm_label": ".returntotickloop()"
     },
     {
@@ -636,7 +636,7 @@
       "source_location": "L169",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_looptype_fromjson",
-      "community": 60,
+      "community": 11,
       "norm_label": ".fromjson()"
     },
     {
@@ -646,7 +646,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_java_jsonelement",
-      "community": 60,
+      "community": 11,
       "norm_label": "jsonelement"
     },
     {
@@ -656,7 +656,7 @@
       "source_location": "L182",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_looptype_fromstring",
-      "community": 60,
+      "community": 11,
       "norm_label": ".fromstring()"
     },
     {
@@ -666,7 +666,7 @@
       "source_location": "L186",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animation_looptype_register",
-      "community": 60,
+      "community": 11,
       "norm_label": ".register()"
     },
     {
@@ -676,7 +676,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller",
-      "community": 33,
+      "community": 29,
       "norm_label": "animationcontroller.java"
     },
     {
@@ -696,7 +696,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_java_mochaengine",
-      "community": 6,
+      "community": 29,
       "norm_label": "mochaengine"
     },
     {
@@ -706,7 +706,7 @@
       "source_location": "L89",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_animationcontroller",
-      "community": 6,
+      "community": 29,
       "norm_label": ".animationcontroller()"
     },
     {
@@ -716,7 +716,7 @@
       "source_location": "L100",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_registerbones",
-      "community": 6,
+      "community": 29,
       "norm_label": ".registerbones()"
     },
     {
@@ -796,7 +796,7 @@
       "source_location": "L138",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_getcurrentanimation",
-      "community": 62,
+      "community": 6,
       "norm_label": ".getcurrentanimation()"
     },
     {
@@ -806,7 +806,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_java_nullable",
-      "community": 62,
+      "community": 6,
       "norm_label": "nullable"
     },
     {
@@ -816,7 +816,7 @@
       "source_location": "L143",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_getcurrentanimationinstance",
-      "community": 62,
+      "community": 6,
       "norm_label": ".getcurrentanimationinstance()"
     },
     {
@@ -826,7 +826,7 @@
       "source_location": "L164",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_gettriggeredanimation",
-      "community": 62,
+      "community": 6,
       "norm_label": ".gettriggeredanimation()"
     },
     {
@@ -856,7 +856,7 @@
       "source_location": "L174",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_isloopstarted",
-      "community": 64,
+      "community": 14,
       "norm_label": ".isloopstarted()"
     },
     {
@@ -936,7 +936,7 @@
       "source_location": "L206",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_hasanimationfinished",
-      "community": 29,
+      "community": 2,
       "norm_label": ".hasanimationfinished()"
     },
     {
@@ -946,7 +946,7 @@
       "source_location": "L210",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_getcurrentrawanimation",
-      "community": 6,
+      "community": 11,
       "norm_label": ".getcurrentrawanimation()"
     },
     {
@@ -956,7 +956,7 @@
       "source_location": "L214",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_isplayingtriggeredanimation",
-      "community": 29,
+      "community": 2,
       "norm_label": ".isplayingtriggeredanimation()"
     },
     {
@@ -966,7 +966,7 @@
       "source_location": "L218",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_setanimation",
-      "community": 61,
+      "community": 6,
       "norm_label": ".setanimation()"
     },
     {
@@ -976,7 +976,7 @@
       "source_location": "L245",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_getqueuedanimations",
-      "community": 61,
+      "community": 6,
       "norm_label": ".getqueuedanimations()"
     },
     {
@@ -1016,7 +1016,7 @@
       "source_location": "L326",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_handleanimation",
-      "community": 29,
+      "community": 2,
       "norm_label": ".handleanimation()"
     },
     {
@@ -1026,7 +1026,7 @@
       "source_location": "L347",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_process",
-      "community": 42,
+      "community": 2,
       "norm_label": ".process()"
     },
     {
@@ -1086,7 +1086,7 @@
       "source_location": "L589",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_getanimationtime",
-      "community": 62,
+      "community": 2,
       "norm_label": ".getanimationtime()"
     },
     {
@@ -1096,7 +1096,7 @@
       "source_location": "L593",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_getanimationticks",
-      "community": 62,
+      "community": 2,
       "norm_label": ".getanimationticks()"
     },
     {
@@ -1166,7 +1166,7 @@
       "source_location": "L708",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_getcurrentkeyframelocation",
-      "community": 64,
+      "community": 14,
       "norm_label": ".getcurrentkeyframelocation()"
     },
     {
@@ -1226,7 +1226,7 @@
       "source_location": "L798",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_setfirstpersonmode",
-      "community": 19,
+      "community": 24,
       "norm_label": ".setfirstpersonmode()"
     },
     {
@@ -1236,7 +1236,7 @@
       "source_location": "L803",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_setfirstpersonmodehandler",
-      "community": 19,
+      "community": 24,
       "norm_label": ".setfirstpersonmodehandler()"
     },
     {
@@ -1266,7 +1266,7 @@
       "source_location": "L818",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_tick",
-      "community": 75,
+      "community": 6,
       "norm_label": ".tick()"
     },
     {
@@ -1276,7 +1276,7 @@
       "source_location": "L836",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_setupanim",
-      "community": 42,
+      "community": 2,
       "norm_label": ".setupanim()"
     },
     {
@@ -1296,7 +1296,7 @@
       "source_location": "L854",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_getmodifiers",
-      "community": 24,
+      "community": 29,
       "norm_label": ".getmodifiers()"
     },
     {
@@ -1306,7 +1306,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_java_internal",
-      "community": 24,
+      "community": 29,
       "norm_label": "internal"
     },
     {
@@ -1346,7 +1346,7 @@
       "source_location": "L876",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_removemodifier",
-      "community": 75,
+      "community": 6,
       "norm_label": ".removemodifier()"
     },
     {
@@ -1376,7 +1376,7 @@
       "source_location": "L891",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_getmodifier",
-      "community": 62,
+      "community": 6,
       "norm_label": ".getmodifier()"
     },
     {
@@ -1386,7 +1386,7 @@
       "source_location": "L900",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_removemodifierif",
-      "community": 75,
+      "community": 6,
       "norm_label": ".removemodifierif()"
     },
     {
@@ -1396,7 +1396,7 @@
       "source_location": "L906",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_linkmodifiers",
-      "community": 75,
+      "community": 6,
       "norm_label": ".linkmodifiers()"
     },
     {
@@ -1416,7 +1416,7 @@
       "source_location": "L930",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_getbone",
-      "community": 62,
+      "community": 6,
       "norm_label": ".getbone()"
     },
     {
@@ -1426,7 +1426,7 @@
       "source_location": "L935",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_animationcontroller_animationcontroller_tostring",
-      "community": 62,
+      "community": 6,
       "norm_label": ".tostring()"
     },
     {
@@ -1686,7 +1686,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_avataranimmanager_avataranimmanager_tickanimation",
-      "community": 2,
+      "community": 46,
       "norm_label": ".tickanimation()"
     },
     {
@@ -1726,7 +1726,7 @@
       "source_location": "L52",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_avataranimmanager_avataranimmanager_finishfirsttick",
-      "community": 2,
+      "community": 46,
       "norm_label": ".finishfirsttick()"
     },
     {
@@ -1736,7 +1736,7 @@
       "source_location": "L56",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_avataranimmanager_avataranimmanager_gettickdelta",
-      "community": 57,
+      "community": 4,
       "norm_label": ".gettickdelta()"
     },
     {
@@ -1766,7 +1766,7 @@
       "source_location": "L65",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_avataranimmanager_avataranimmanager_updatepart",
-      "community": 37,
+      "community": 4,
       "norm_label": ".updatepart()"
     },
     {
@@ -1776,7 +1776,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_avataranimmanager_java_modelpart",
-      "community": 37,
+      "community": 4,
       "norm_label": "modelpart"
     },
     {
@@ -1856,7 +1856,7 @@
       "source_location": "L53",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_extraanimationdata_extraanimationdata_has",
-      "community": 20,
+      "community": 16,
       "norm_label": ".has()"
     },
     {
@@ -1926,7 +1926,7 @@
       "source_location": "L111",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_extraanimationdata_extraanimationdata_put",
-      "community": 20,
+      "community": 8,
       "norm_label": ".put()"
     },
     {
@@ -2126,7 +2126,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimresources",
-      "community": 25,
+      "community": 38,
       "norm_label": "playeranimresources.java"
     },
     {
@@ -2136,7 +2136,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimresources_playeranimresources",
-      "community": 25,
+      "community": 38,
       "norm_label": "playeranimresources"
     },
     {
@@ -2146,7 +2146,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "resourcemanagerreloadlistener",
-      "community": 25,
+      "community": 38,
       "norm_label": "resourcemanagerreloadlistener"
     },
     {
@@ -2156,7 +2156,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimresources_java_identifier",
-      "community": 25,
+      "community": 38,
       "norm_label": "identifier"
     },
     {
@@ -2186,7 +2186,7 @@
       "source_location": "L34",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimresources_playeranimresources_getanimationoptional",
-      "community": 25,
+      "community": 38,
       "norm_label": ".getanimationoptional()"
     },
     {
@@ -2196,7 +2196,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimresources_java_notnull",
-      "community": 25,
+      "community": 38,
       "norm_label": "notnull"
     },
     {
@@ -2206,7 +2206,7 @@
       "source_location": "L39",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimresources_playeranimresources_getanimations",
-      "community": 25,
+      "community": 38,
       "norm_label": ".getanimations()"
     },
     {
@@ -2216,7 +2216,7 @@
       "source_location": "L43",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimresources_playeranimresources_getmodanimations",
-      "community": 25,
+      "community": 38,
       "norm_label": ".getmodanimations()"
     },
     {
@@ -2226,7 +2226,7 @@
       "source_location": "L56",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimresources_playeranimresources_hasanimation",
-      "community": 1,
+      "community": 38,
       "norm_label": ".hasanimation()"
     },
     {
@@ -2236,7 +2236,7 @@
       "source_location": "L60",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimresources_playeranimresources_onresourcemanagerreload",
-      "community": 25,
+      "community": 38,
       "norm_label": ".onresourcemanagerreload()"
     },
     {
@@ -2246,7 +2246,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "resourcemanager",
-      "community": 25,
+      "community": 38,
       "norm_label": "resourcemanager"
     },
     {
@@ -2256,7 +2256,7 @@
       "source_location": "L77",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimresources_playeranimresources_reload",
-      "community": 25,
+      "community": 38,
       "norm_label": ".reload()"
     },
     {
@@ -2266,7 +2266,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "sharedstate",
-      "community": 25,
+      "community": 38,
       "norm_label": "sharedstate"
     },
     {
@@ -2276,7 +2276,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "preparationbarrier",
-      "community": 25,
+      "community": 38,
       "norm_label": "preparationbarrier"
     },
     {
@@ -2286,7 +2286,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimationcontroller",
-      "community": 1,
+      "community": 38,
       "norm_label": "playeranimationcontroller.java"
     },
     {
@@ -2296,7 +2296,7 @@
       "source_location": "L21",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimationcontroller_playeranimationcontroller",
-      "community": 1,
+      "community": 38,
       "norm_label": "playeranimationcontroller"
     },
     {
@@ -2306,7 +2306,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimationcontroller_java_avatar",
-      "community": 1,
+      "community": 38,
       "norm_label": "avatar"
     },
     {
@@ -2316,7 +2316,7 @@
       "source_location": "L24",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimationcontroller_playeranimationcontroller_playeranimationcontroller",
-      "community": 1,
+      "community": 38,
       "norm_label": ".playeranimationcontroller()"
     },
     {
@@ -2326,7 +2326,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimationcontroller_java_mochaengine",
-      "community": 1,
+      "community": 38,
       "norm_label": "mochaengine"
     },
     {
@@ -2336,7 +2336,7 @@
       "source_location": "L35",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimationcontroller_playeranimationcontroller_getavatar",
-      "community": 1,
+      "community": 38,
       "norm_label": ".getavatar()"
     },
     {
@@ -2346,7 +2346,7 @@
       "source_location": "L39",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimationcontroller_playeranimationcontroller_triggeranimation",
-      "community": 1,
+      "community": 38,
       "norm_label": ".triggeranimation()"
     },
     {
@@ -2356,7 +2356,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimationcontroller_java_identifier",
-      "community": 1,
+      "community": 38,
       "norm_label": "identifier"
     },
     {
@@ -2366,7 +2366,7 @@
       "source_location": "L53",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimationcontroller_playeranimationcontroller_replaceanimationwithfade",
-      "community": 1,
+      "community": 38,
       "norm_label": ".replaceanimationwithfade()"
     },
     {
@@ -2376,7 +2376,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimationcontroller_playeranimationcontroller_getboneworldpositionposestack",
-      "community": 1,
+      "community": 38,
       "norm_label": ".getboneworldpositionposestack()"
     },
     {
@@ -2386,7 +2386,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "vec3",
-      "community": 1,
+      "community": 38,
       "norm_label": "vec3"
     },
     {
@@ -2396,7 +2396,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimationcontroller_java_posestack",
-      "community": 1,
+      "community": 38,
       "norm_label": "posestack"
     },
     {
@@ -2406,7 +2406,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playeranimationcontroller_java_nullable",
-      "community": 1,
+      "community": 38,
       "norm_label": "nullable"
     },
     {
@@ -2416,7 +2416,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playerrawanimationbuilder",
-      "community": 40,
+      "community": 11,
       "norm_label": "playerrawanimationbuilder.java"
     },
     {
@@ -2426,7 +2426,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playerrawanimationbuilder_playerrawanimationbuilder",
-      "community": 40,
+      "community": 11,
       "norm_label": "playerrawanimationbuilder"
     },
     {
@@ -2436,7 +2436,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playerrawanimationbuilder_playerrawanimationbuilder_begin",
-      "community": 40,
+      "community": 11,
       "norm_label": ".begin()"
     },
     {
@@ -2446,7 +2446,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playerrawanimationbuilder_playerrawanimationbuilder_thenplay",
-      "community": 40,
+      "community": 11,
       "norm_label": ".thenplay()"
     },
     {
@@ -2456,7 +2456,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playerrawanimationbuilder_java_identifier",
-      "community": 40,
+      "community": 11,
       "norm_label": "identifier"
     },
     {
@@ -2466,7 +2466,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playerrawanimationbuilder_playerrawanimationbuilder_thenloop",
-      "community": 40,
+      "community": 11,
       "norm_label": ".thenloop()"
     },
     {
@@ -2476,7 +2476,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playerrawanimationbuilder_playerrawanimationbuilder_thenwait",
-      "community": 16,
+      "community": 11,
       "norm_label": ".thenwait()"
     },
     {
@@ -2486,7 +2486,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playerrawanimationbuilder_playerrawanimationbuilder_thenplayandhold",
-      "community": 40,
+      "community": 11,
       "norm_label": ".thenplayandhold()"
     },
     {
@@ -2496,7 +2496,7 @@
       "source_location": "L31",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playerrawanimationbuilder_playerrawanimationbuilder_thenplayxtimes",
-      "community": 40,
+      "community": 11,
       "norm_label": ".thenplayxtimes()"
     },
     {
@@ -2506,7 +2506,7 @@
       "source_location": "L39",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playerrawanimationbuilder_playerrawanimationbuilder_then",
-      "community": 40,
+      "community": 11,
       "norm_label": ".then()"
     },
     {
@@ -2516,7 +2516,7 @@
       "source_location": "L49",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_playerrawanimationbuilder_playerrawanimationbuilder_build",
-      "community": 40,
+      "community": 11,
       "norm_label": ".build()"
     },
     {
@@ -2526,7 +2526,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_queuedanimation",
-      "community": 61,
+      "community": 6,
       "norm_label": "queuedanimation.java"
     },
     {
@@ -2536,7 +2536,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_queuedanimation_queuedanimation",
-      "community": 61,
+      "community": 6,
       "norm_label": "queuedanimation"
     },
     {
@@ -2546,7 +2546,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_rawanimation",
-      "community": 38,
+      "community": 11,
       "norm_label": "rawanimation.java"
     },
     {
@@ -2566,7 +2566,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_rawanimation_rawanimation_rawanimation",
-      "community": 16,
+      "community": 11,
       "norm_label": ".rawanimation()"
     },
     {
@@ -2606,7 +2606,7 @@
       "source_location": "L32",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_rawanimation_rawanimation_thenwait",
-      "community": 16,
+      "community": 11,
       "norm_label": ".thenwait()"
     },
     {
@@ -2646,7 +2646,7 @@
       "source_location": "L54",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_rawanimation_rawanimation_getanimationstages",
-      "community": 61,
+      "community": 6,
       "norm_label": ".getanimationstages()"
     },
     {
@@ -2666,7 +2666,7 @@
       "source_location": "L64",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_rawanimation_rawanimation_tostring",
-      "community": 16,
+      "community": 11,
       "norm_label": ".tostring()"
     },
     {
@@ -2676,7 +2676,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_rawanimation_java_override",
-      "community": 16,
+      "community": 11,
       "norm_label": "override"
     },
     {
@@ -2696,7 +2696,7 @@
       "source_location": "L73",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_rawanimation_rawanimation_equals",
-      "community": 16,
+      "community": 11,
       "norm_label": ".equals()"
     },
     {
@@ -2706,7 +2706,7 @@
       "source_location": "L82",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_rawanimation_rawanimation_hashcode",
-      "community": 16,
+      "community": 11,
       "norm_label": ".hashcode()"
     },
     {
@@ -2716,7 +2716,7 @@
       "source_location": "L87",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_rawanimation_stage",
-      "community": 16,
+      "community": 11,
       "norm_label": "stage"
     },
     {
@@ -2726,7 +2726,7 @@
       "source_location": "L88",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_rawanimation_stage_equals",
-      "community": 16,
+      "community": 11,
       "norm_label": ".equals()"
     },
     {
@@ -2736,7 +2736,7 @@
       "source_location": "L97",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_rawanimation_stage_tostring",
-      "community": 16,
+      "community": 11,
       "norm_label": ".tostring()"
     },
     {
@@ -2746,7 +2746,7 @@
       "source_location": "L102",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_rawanimation_stage_hashcode",
-      "community": 16,
+      "community": 11,
       "norm_label": ".hashcode()"
     },
     {
@@ -2766,7 +2766,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_boneanimation_boneanimation",
-      "community": 14,
+      "community": 23,
       "norm_label": "boneanimation"
     },
     {
@@ -2776,7 +2776,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_boneanimation_boneanimation_boneanimation",
-      "community": 14,
+      "community": 23,
       "norm_label": ".boneanimation()"
     },
     {
@@ -2786,7 +2786,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_boneanimation_boneanimation_haskeyframes",
-      "community": 7,
+      "community": 23,
       "norm_label": ".haskeyframes()"
     },
     {
@@ -2796,7 +2796,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_boneanimation_boneanimation_equals",
-      "community": 14,
+      "community": 23,
       "norm_label": ".equals()"
     },
     {
@@ -2806,7 +2806,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_boneanimation_java_override",
-      "community": 14,
+      "community": 23,
       "norm_label": "override"
     },
     {
@@ -2816,7 +2816,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_boneanimation_boneanimation_hashcode",
-      "community": 14,
+      "community": 23,
       "norm_label": ".hashcode()"
     },
     {
@@ -2826,7 +2826,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframe",
-      "community": 64,
+      "community": 14,
       "norm_label": "keyframe.java"
     },
     {
@@ -2836,7 +2836,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframe_keyframe",
-      "community": 64,
+      "community": 14,
       "norm_label": "keyframe"
     },
     {
@@ -2846,7 +2846,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframe_java_expression",
-      "community": 64,
+      "community": 14,
       "norm_label": "expression"
     },
     {
@@ -2856,7 +2856,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframe_keyframe_keyframe",
-      "community": 64,
+      "community": 14,
       "norm_label": ".keyframe()"
     },
     {
@@ -2876,7 +2876,7 @@
       "source_location": "L27",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframe_keyframe_getkeyframeattime",
-      "community": 64,
+      "community": 14,
       "norm_label": ".getkeyframeattime()"
     },
     {
@@ -2886,7 +2886,7 @@
       "source_location": "L40",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframe_keyframe_hashcode",
-      "community": 64,
+      "community": 14,
       "norm_label": ".hashcode()"
     },
     {
@@ -2896,7 +2896,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframe_java_override",
-      "community": 64,
+      "community": 14,
       "norm_label": "override"
     },
     {
@@ -2906,7 +2906,7 @@
       "source_location": "L45",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframe_keyframe_equals",
-      "community": 64,
+      "community": 14,
       "norm_label": ".equals()"
     },
     {
@@ -2916,7 +2916,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframelocation",
-      "community": 64,
+      "community": 29,
       "norm_label": "keyframelocation.java"
     },
     {
@@ -2926,7 +2926,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_keyframelocation_keyframelocation",
-      "community": 64,
+      "community": 29,
       "norm_label": "keyframelocation"
     },
     {
@@ -3126,7 +3126,7 @@
       "source_location": "L63",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_event_customkeyframeevents_resetkeyframeshandler_handle",
-      "community": 1,
+      "community": 26,
       "norm_label": ".handle()"
     },
     {
@@ -3166,7 +3166,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_event_data_custominstructionkeyframedata",
-      "community": 1,
+      "community": 0,
       "norm_label": "custominstructionkeyframedata.java"
     },
     {
@@ -3226,7 +3226,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_event_data_keyframedata",
-      "community": 1,
+      "community": 26,
       "norm_label": "keyframedata.java"
     },
     {
@@ -3236,7 +3236,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_event_data_keyframedata_keyframedata",
-      "community": 1,
+      "community": 26,
       "norm_label": "keyframedata"
     },
     {
@@ -3246,7 +3246,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_event_data_keyframedata_keyframedata_keyframedata",
-      "community": 1,
+      "community": 26,
       "norm_label": ".keyframedata()"
     },
     {
@@ -3256,7 +3256,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_event_data_keyframedata_keyframedata_getstarttick",
-      "community": 1,
+      "community": 26,
       "norm_label": ".getstarttick()"
     },
     {
@@ -3266,7 +3266,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_event_data_keyframedata_keyframedata_equals",
-      "community": 1,
+      "community": 26,
       "norm_label": ".equals()"
     },
     {
@@ -3276,7 +3276,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_event_data_keyframedata_java_override",
-      "community": 1,
+      "community": 26,
       "norm_label": "override"
     },
     {
@@ -3286,7 +3286,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_event_data_keyframedata_keyframedata_hashcode",
-      "community": 1,
+      "community": 26,
       "norm_label": ".hashcode()"
     },
     {
@@ -3376,7 +3376,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_keyframe_event_data_soundkeyframedata",
-      "community": 1,
+      "community": 0,
       "norm_label": "soundkeyframedata.java"
     },
     {
@@ -3436,7 +3436,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationcontainer",
-      "community": 26,
+      "community": 24,
       "norm_label": "animationcontainer.java"
     },
     {
@@ -3446,7 +3446,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationcontainer_animationcontainer",
-      "community": 26,
+      "community": 24,
       "norm_label": "animationcontainer"
     },
     {
@@ -3456,7 +3456,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationcontainer_animationcontainer_animationcontainer",
-      "community": 26,
+      "community": 24,
       "norm_label": ".animationcontainer()"
     },
     {
@@ -3466,7 +3466,7 @@
       "source_location": "L22",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationcontainer_animationcontainer_setanim",
-      "community": 26,
+      "community": 24,
       "norm_label": ".setanim()"
     },
     {
@@ -3476,7 +3476,7 @@
       "source_location": "L26",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationcontainer_animationcontainer_getanim",
-      "community": 26,
+      "community": 24,
       "norm_label": ".getanim()"
     },
     {
@@ -3486,7 +3486,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationcontainer_java_nullable",
-      "community": 26,
+      "community": 24,
       "norm_label": "nullable"
     },
     {
@@ -3496,7 +3496,7 @@
       "source_location": "L31",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationcontainer_animationcontainer_isactive",
-      "community": 26,
+      "community": 24,
       "norm_label": ".isactive()"
     },
     {
@@ -3506,7 +3506,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationcontainer_java_override",
-      "community": 26,
+      "community": 24,
       "norm_label": "override"
     },
     {
@@ -3516,7 +3516,7 @@
       "source_location": "L36",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationcontainer_animationcontainer_tick",
-      "community": 26,
+      "community": 24,
       "norm_label": ".tick()"
     },
     {
@@ -3526,7 +3526,7 @@
       "source_location": "L43",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationcontainer_animationcontainer_get3dtransform",
-      "community": 26,
+      "community": 24,
       "norm_label": ".get3dtransform()"
     },
     {
@@ -3536,7 +3536,7 @@
       "source_location": "L50",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationcontainer_animationcontainer_setupanim",
-      "community": 26,
+      "community": 24,
       "norm_label": ".setupanim()"
     },
     {
@@ -3546,7 +3546,7 @@
       "source_location": "L57",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationcontainer_animationcontainer_getfirstpersonmode",
-      "community": 26,
+      "community": 24,
       "norm_label": ".getfirstpersonmode()"
     },
     {
@@ -3556,7 +3556,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationcontainer_java_notnull",
-      "community": 26,
+      "community": 24,
       "norm_label": "notnull"
     },
     {
@@ -3566,7 +3566,7 @@
       "source_location": "L63",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationcontainer_animationcontainer_getfirstpersonconfiguration",
-      "community": 26,
+      "community": 24,
       "norm_label": ".getfirstpersonconfiguration()"
     },
     {
@@ -3576,7 +3576,7 @@
       "source_location": "L69",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_animationcontainer_animationcontainer_tostring",
-      "community": 26,
+      "community": 24,
       "norm_label": ".tostring()"
     },
     {
@@ -3816,7 +3816,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_ianimation",
-      "community": 21,
+      "community": 24,
       "norm_label": "ianimation.java"
     },
     {
@@ -3836,7 +3836,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_ianimation_ianimation_tick",
-      "community": 2,
+      "community": 35,
       "norm_label": ".tick()"
     },
     {
@@ -3846,7 +3846,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_ianimation_ianimation_setupanim",
-      "community": 2,
+      "community": 46,
       "norm_label": ".setupanim()"
     },
     {
@@ -3866,7 +3866,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_ianimation_ianimation_get3dtransform",
-      "community": 63,
+      "community": 21,
       "norm_label": ".get3dtransform()"
     },
     {
@@ -3876,7 +3876,7 @@
       "source_location": "L28",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_ianimation_ianimation_getfirstpersonmode",
-      "community": 19,
+      "community": 24,
       "norm_label": ".getfirstpersonmode()"
     },
     {
@@ -3886,7 +3886,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_ianimation_java_notnull",
-      "community": 21,
+      "community": 24,
       "norm_label": "notnull"
     },
     {
@@ -3896,7 +3896,7 @@
       "source_location": "L33",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_ianimation_ianimation_getfirstpersonconfiguration",
-      "community": 21,
+      "community": 24,
       "norm_label": ".getfirstpersonconfiguration()"
     },
     {
@@ -4136,7 +4136,7 @@
       "source_location": "L155",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifierlayer_modifierlayer_getfirstpersonmode",
-      "community": 19,
+      "community": 24,
       "norm_label": ".getfirstpersonmode()"
     },
     {
@@ -4206,7 +4206,7 @@
       "source_location": "L32",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_playeranimationframe_playeranimationframe_tick",
-      "community": 2,
+      "community": 35,
       "norm_label": ".tick()"
     },
     {
@@ -4256,7 +4256,7 @@
       "source_location": "L54",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_playeranimationframe_playeranimationframe_get3dtransform",
-      "community": 35,
+      "community": 13,
       "norm_label": ".get3dtransform()"
     },
     {
@@ -4306,7 +4306,7 @@
       "source_location": "L102",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_playeranimationframe_playerbone_applytobone",
-      "community": 35,
+      "community": 13,
       "norm_label": ".applytobone()"
     },
     {
@@ -4386,7 +4386,7 @@
       "source_location": "L38",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_abstractfademodifier_abstractfademodifier_setupanim",
-      "community": 2,
+      "community": 63,
       "norm_label": ".setupanim()"
     },
     {
@@ -4396,7 +4396,7 @@
       "source_location": "L48",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_abstractfademodifier_abstractfademodifier_tick",
-      "community": 2,
+      "community": 63,
       "norm_label": ".tick()"
     },
     {
@@ -4696,7 +4696,7 @@
       "source_location": "L52",
       "_origin": "ast",
       "id": "src_main_java_com_skd_animation_layered_modifier_adjustmentmodifier_adjustmentmodifier_getfadeout",
-      "community": 62,
+      "community": 54,
       "norm_label": ".getfadeout()"
     },
     {
@@ -5386,7 +5386,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "src_main_java_com_skd_api_firstperson_firstpersonmode_firstpersonmode",
-      "community": 19,
+      "community": 24,
       "norm_label": "firstpersonmode"
     },
     {
@@ -5396,7 +5396,7 @@
       "source_location": "L4",
       "_origin": "ast",
       "id": "src_main_java_com_skd_api_firstperson_firstpersonmode_firstpersonmode_none",
-      "community": 19,
+      "community": 24,
       "norm_label": "none"
     },
     {
@@ -5406,7 +5406,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "src_main_java_com_skd_api_firstperson_firstpersonmode_firstpersonmode_vanilla",
-      "community": 19,
+      "community": 24,
       "norm_label": "vanilla"
     },
     {
@@ -5416,7 +5416,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "src_main_java_com_skd_api_firstperson_firstpersonmode_firstpersonmode_third_person_model",
-      "community": 19,
+      "community": 24,
       "norm_label": "third_person_model"
     },
     {
@@ -5426,7 +5426,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "src_main_java_com_skd_api_firstperson_firstpersonmode_firstpersonmode_hands_only",
-      "community": 19,
+      "community": 24,
       "norm_label": "hands_only"
     },
     {
@@ -5436,7 +5436,7 @@
       "source_location": "L8",
       "_origin": "ast",
       "id": "src_main_java_com_skd_api_firstperson_firstpersonmode_firstpersonmode_hands_only_arm",
-      "community": 19,
+      "community": 24,
       "norm_label": "hands_only_arm"
     },
     {
@@ -5446,7 +5446,7 @@
       "source_location": "L9",
       "_origin": "ast",
       "id": "src_main_java_com_skd_api_firstperson_firstpersonmode_firstpersonmode_disabled",
-      "community": 19,
+      "community": 24,
       "norm_label": "disabled"
     },
     {
@@ -5736,7 +5736,7 @@
       "source_location": "L66",
       "_origin": "ast",
       "id": "src_main_java_com_skd_bones_playeranimbone_playeranimbone_applyotherbone",
-      "community": 59,
+      "community": 4,
       "norm_label": ".applyotherbone()"
     },
     {
@@ -5986,7 +5986,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_commands_animationargumentprovider",
-      "community": 58,
+      "community": 38,
       "norm_label": "animationargumentprovider.java"
     },
     {
@@ -5996,7 +5996,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_commands_animationargumentprovider_animationargumentprovider",
-      "community": 58,
+      "community": 38,
       "norm_label": "animationargumentprovider"
     },
     {
@@ -6006,7 +6006,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "suggestionprovider",
-      "community": 58,
+      "community": 38,
       "norm_label": "suggestionprovider"
     },
     {
@@ -6016,7 +6016,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "src_main_java_com_skd_commands_animationargumentprovider_animationargumentprovider_getsuggestions",
-      "community": 58,
+      "community": 38,
       "norm_label": ".getsuggestions()"
     },
     {
@@ -6026,7 +6026,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_commands_animationargumentprovider_java_commandcontext",
-      "community": 58,
+      "community": 38,
       "norm_label": "commandcontext"
     },
     {
@@ -6036,7 +6036,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "suggestionsbuilder",
-      "community": 58,
+      "community": 38,
       "norm_label": "suggestionsbuilder"
     },
     {
@@ -6046,7 +6046,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "suggestions",
-      "community": 58,
+      "community": 38,
       "norm_label": "suggestions"
     },
     {
@@ -7286,7 +7286,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_state",
-      "community": 74,
+      "community": 42,
       "norm_label": "state.java"
     },
     {
@@ -7296,7 +7296,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_state_state",
-      "community": 74,
+      "community": 42,
       "norm_label": "state"
     },
     {
@@ -7306,7 +7306,7 @@
       "source_location": "L4",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_state_state_running",
-      "community": 74,
+      "community": 42,
       "norm_label": "running"
     },
     {
@@ -7316,7 +7316,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_state_state_paused",
-      "community": 74,
+      "community": 42,
       "norm_label": "paused"
     },
     {
@@ -7326,7 +7326,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_state_state_stopped",
-      "community": 74,
+      "community": 42,
       "norm_label": "stopped"
     },
     {
@@ -7336,7 +7336,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_state_isactive",
-      "community": 74,
+      "community": 42,
       "norm_label": "isactive()"
     },
     {
@@ -7346,7 +7346,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_transformtype",
-      "community": 22,
+      "community": 16,
       "norm_label": "transformtype.java"
     },
     {
@@ -7356,7 +7356,7 @@
       "source_location": "L3",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_transformtype_transformtype",
-      "community": 22,
+      "community": 16,
       "norm_label": "transformtype"
     },
     {
@@ -7366,7 +7366,7 @@
       "source_location": "L4",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_transformtype_transformtype_position",
-      "community": 22,
+      "community": 16,
       "norm_label": "position"
     },
     {
@@ -7376,7 +7376,7 @@
       "source_location": "L5",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_transformtype_transformtype_rotation",
-      "community": 22,
+      "community": 16,
       "norm_label": "rotation"
     },
     {
@@ -7386,7 +7386,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_transformtype_transformtype_bend",
-      "community": 22,
+      "community": 16,
       "norm_label": "bend"
     },
     {
@@ -7396,7 +7396,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "src_main_java_com_skd_enums_transformtype_transformtype_scale",
-      "community": 22,
+      "community": 16,
       "norm_label": "scale"
     },
     {
@@ -7406,7 +7406,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_event_event",
-      "community": 41,
+      "community": 18,
       "norm_label": "event.java"
     },
     {
@@ -7416,7 +7416,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "src_main_java_com_skd_event_event_event",
-      "community": 41,
+      "community": 18,
       "norm_label": "event"
     },
     {
@@ -7426,7 +7426,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_event_event_event_event",
-      "community": 41,
+      "community": 18,
       "norm_label": ".event()"
     },
     {
@@ -7436,7 +7436,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_event_event_event_invoker",
-      "community": 41,
+      "community": 18,
       "norm_label": ".invoker()"
     },
     {
@@ -7446,7 +7446,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_event_event_event_register",
-      "community": 41,
+      "community": 18,
       "norm_label": ".register()"
     },
     {
@@ -7456,7 +7456,7 @@
       "source_location": "L26",
       "_origin": "ast",
       "id": "src_main_java_com_skd_event_event_event_unregister",
-      "community": 41,
+      "community": 18,
       "norm_label": ".unregister()"
     },
     {
@@ -7466,7 +7466,7 @@
       "source_location": "L30",
       "_origin": "ast",
       "id": "src_main_java_com_skd_event_event_invoker",
-      "community": 41,
+      "community": 18,
       "norm_label": "invoker"
     },
     {
@@ -7476,7 +7476,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_event_event_java_functionalinterface",
-      "community": 41,
+      "community": 18,
       "norm_label": "functionalinterface"
     },
     {
@@ -7486,7 +7486,7 @@
       "source_location": "L32",
       "_origin": "ast",
       "id": "src_main_java_com_skd_event_event_invoker_invoker",
-      "community": 41,
+      "community": 18,
       "norm_label": ".invoker()"
     },
     {
@@ -7606,7 +7606,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_animationloader",
-      "community": 0,
+      "community": 22,
       "norm_label": "animationloader.java"
     },
     {
@@ -7946,7 +7946,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader",
-      "community": 22,
+      "community": 16,
       "norm_label": "playeranimatorloader.java"
     },
     {
@@ -7956,7 +7956,7 @@
       "source_location": "L35",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_playeranimatorloader",
-      "community": 7,
+      "community": 16,
       "norm_label": "playeranimatorloader"
     },
     {
@@ -7966,7 +7966,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_java_expression",
-      "community": 7,
+      "community": 16,
       "norm_label": "expression"
     },
     {
@@ -7976,7 +7976,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_java_gson",
-      "community": 7,
+      "community": 16,
       "norm_label": "gson"
     },
     {
@@ -7986,7 +7986,7 @@
       "source_location": "L51",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_playeranimatorloader_playeranimatorloader",
-      "community": 7,
+      "community": 16,
       "norm_label": ".playeranimatorloader()"
     },
     {
@@ -7996,7 +7996,7 @@
       "source_location": "L54",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_playeranimatorloader_deserialize",
-      "community": 20,
+      "community": 16,
       "norm_label": ".deserialize()"
     },
     {
@@ -8006,7 +8006,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_java_jsonelement",
-      "community": 7,
+      "community": 23,
       "norm_label": "jsonelement"
     },
     {
@@ -8016,7 +8016,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_java_type",
-      "community": 22,
+      "community": 16,
       "norm_label": "type"
     },
     {
@@ -8026,7 +8026,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_java_jsondeserializationcontext",
-      "community": 22,
+      "community": 16,
       "norm_label": "jsondeserializationcontext"
     },
     {
@@ -8036,7 +8036,7 @@
       "source_location": "L75",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_playeranimatorloader_emotedeserializer",
-      "community": 20,
+      "community": 16,
       "norm_label": ".emotedeserializer()"
     },
     {
@@ -8046,7 +8046,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_java_jsonobject",
-      "community": 7,
+      "community": 16,
       "norm_label": "jsonobject"
     },
     {
@@ -8056,7 +8056,7 @@
       "source_location": "L148",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_playeranimatorloader_swapthezyaxis",
-      "community": 7,
+      "community": 16,
       "norm_label": ".swapthezyaxis()"
     },
     {
@@ -8066,7 +8066,7 @@
       "source_location": "L156",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_playeranimatorloader_correcteasings",
-      "community": 7,
+      "community": 16,
       "norm_label": ".correcteasings()"
     },
     {
@@ -8076,7 +8076,7 @@
       "source_location": "L179",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_playeranimatorloader_movedeserializer",
-      "community": 7,
+      "community": 23,
       "norm_label": ".movedeserializer()"
     },
     {
@@ -8086,7 +8086,7 @@
       "source_location": "L224",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_playeranimatorloader_addbodypartifexists",
-      "community": 7,
+      "community": 23,
       "norm_label": ".addbodypartifexists()"
     },
     {
@@ -8106,7 +8106,7 @@
       "source_location": "L313",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_playeranimatorloader_addpartifexists",
-      "community": 7,
+      "community": 16,
       "norm_label": ".addpartifexists()"
     },
     {
@@ -8116,7 +8116,7 @@
       "source_location": "L339",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_playeranimatorloader_convertplayeranimvalue",
-      "community": 7,
+      "community": 16,
       "norm_label": ".convertplayeranimvalue()"
     },
     {
@@ -8126,7 +8126,7 @@
       "source_location": "L363",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_playeranimatorloader_playeranimatorloader_easingtypefromstring",
-      "community": 7,
+      "community": 16,
       "norm_label": ".easingtypefromstring()"
     },
     {
@@ -8266,7 +8266,7 @@
       "source_location": "L118",
       "_origin": "ast",
       "id": "src_main_java_com_skd_loading_universalanimloader_universalanimloader_restoreplayerbonename",
-      "community": 0,
+      "community": 12,
       "norm_label": ".restoreplayerbonename()"
     },
     {
@@ -8426,7 +8426,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin",
-      "community": 36,
+      "community": 19,
       "norm_label": "avatarmixin.java"
     },
     {
@@ -8436,7 +8436,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin_avatarmixin",
-      "community": 36,
+      "community": 19,
       "norm_label": "avatarmixin"
     },
     {
@@ -8446,7 +8446,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "livingentity",
-      "community": 36,
+      "community": 19,
       "norm_label": "livingentity"
     },
     {
@@ -8456,7 +8456,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin_java_mixin",
-      "community": 36,
+      "community": 19,
       "norm_label": "mixin"
     },
     {
@@ -8466,7 +8466,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin_java_identifier",
-      "community": 36,
+      "community": 19,
       "norm_label": "identifier"
     },
     {
@@ -8476,7 +8476,7 @@
       "source_location": "L25",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin_avatarmixin_avatarmixin",
-      "community": 36,
+      "community": 19,
       "norm_label": ".avatarmixin()"
     },
     {
@@ -8486,7 +8486,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "entitytype",
-      "community": 36,
+      "community": 19,
       "norm_label": "entitytype"
     },
     {
@@ -8496,7 +8496,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin_java_level",
-      "community": 36,
+      "community": 19,
       "norm_label": "level"
     },
     {
@@ -8506,7 +8506,7 @@
       "source_location": "L29",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin_avatarmixin_playeranimlib_createanimationstack",
-      "community": 36,
+      "community": 19,
       "norm_label": ".playeranimlib$createanimationstack()"
     },
     {
@@ -8516,7 +8516,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "unique",
-      "community": 36,
+      "community": 19,
       "norm_label": "unique"
     },
     {
@@ -8526,7 +8526,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "suppresswarnings",
-      "community": 36,
+      "community": 19,
       "norm_label": "suppresswarnings"
     },
     {
@@ -8536,7 +8536,7 @@
       "source_location": "L39",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin_avatarmixin_playeranimlib_getanimmanager",
-      "community": 36,
+      "community": 19,
       "norm_label": ".playeranimlib$getanimmanager()"
     },
     {
@@ -8546,7 +8546,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin_java_override",
-      "community": 36,
+      "community": 19,
       "norm_label": "override"
     },
     {
@@ -8556,7 +8556,7 @@
       "source_location": "L44",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_avatarmixin_avatarmixin_playeranimlib_getanimation",
-      "community": 36,
+      "community": 19,
       "norm_label": ".playeranimlib$getanimation()"
     },
     {
@@ -8826,7 +8826,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_elytralayermixin",
-      "community": 59,
+      "community": 4,
       "norm_label": "elytralayermixin.java"
     },
     {
@@ -8836,7 +8836,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_elytralayermixin_elytralayermixin",
-      "community": 59,
+      "community": 4,
       "norm_label": "elytralayermixin"
     },
     {
@@ -8846,7 +8846,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_elytralayermixin_java_mixin",
-      "community": 59,
+      "community": 4,
       "norm_label": "mixin"
     },
     {
@@ -8856,7 +8856,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_elytralayermixin_elytralayermixin_inject",
-      "community": 59,
+      "community": 4,
       "norm_label": ".inject()"
     },
     {
@@ -8866,7 +8866,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_elytralayermixin_java_posestack",
-      "community": 59,
+      "community": 4,
       "norm_label": "posestack"
     },
     {
@@ -8876,7 +8876,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_elytralayermixin_java_submitnodecollector",
-      "community": 59,
+      "community": 4,
       "norm_label": "submitnodecollector"
     },
     {
@@ -8886,7 +8886,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_elytralayermixin_java_humanoidrenderstate",
-      "community": 59,
+      "community": 4,
       "norm_label": "humanoidrenderstate"
     },
     {
@@ -8896,7 +8896,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_elytralayermixin_java_callbackinfo",
-      "community": 59,
+      "community": 4,
       "norm_label": "callbackinfo"
     },
     {
@@ -8906,7 +8906,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_elytralayermixin_java_inject",
-      "community": 59,
+      "community": 4,
       "norm_label": "inject"
     },
     {
@@ -9056,7 +9056,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_livingentityrenderermixin",
-      "community": 57,
+      "community": 4,
       "norm_label": "livingentityrenderermixin.java"
     },
     {
@@ -9066,7 +9066,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_livingentityrenderermixin_livingentityrenderermixin",
-      "community": 57,
+      "community": 4,
       "norm_label": "livingentityrenderermixin"
     },
     {
@@ -9076,7 +9076,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_livingentityrenderermixin_java_mixin",
-      "community": 57,
+      "community": 4,
       "norm_label": "mixin"
     },
     {
@@ -9086,7 +9086,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_livingentityrenderermixin_livingentityrenderermixin_dotranslations",
-      "community": 57,
+      "community": 4,
       "norm_label": ".dotranslations()"
     },
     {
@@ -9096,7 +9096,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_livingentityrenderermixin_java_posestack",
-      "community": 57,
+      "community": 4,
       "norm_label": "posestack"
     },
     {
@@ -9106,7 +9106,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_livingentityrenderermixin_java_submitnodecollector",
-      "community": 57,
+      "community": 4,
       "norm_label": "submitnodecollector"
     },
     {
@@ -9116,7 +9116,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "camerarenderstate",
-      "community": 57,
+      "community": 4,
       "norm_label": "camerarenderstate"
     },
     {
@@ -9126,7 +9126,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_livingentityrenderermixin_java_callbackinfo",
-      "community": 57,
+      "community": 4,
       "norm_label": "callbackinfo"
     },
     {
@@ -9136,7 +9136,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_livingentityrenderermixin_java_inject",
-      "community": 57,
+      "community": 4,
       "norm_label": "inject"
     },
     {
@@ -9206,7 +9206,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin",
-      "community": 23,
+      "community": 4,
       "norm_label": "playercapemodelmixin.java"
     },
     {
@@ -9216,7 +9216,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_playercapemodelmixin",
-      "community": 23,
+      "community": 4,
       "norm_label": "playercapemodelmixin"
     },
     {
@@ -9226,7 +9226,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_java_mixin",
-      "community": 23,
+      "community": 4,
       "norm_label": "mixin"
     },
     {
@@ -9236,7 +9236,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_java_modelpart",
-      "community": 23,
+      "community": 4,
       "norm_label": "modelpart"
     },
     {
@@ -9246,7 +9246,7 @@
       "source_location": "L28",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_playercapemodelmixin_setupanim",
-      "community": 23,
+      "community": 4,
       "norm_label": ".setupanim()"
     },
     {
@@ -9256,7 +9256,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_java_avatarrenderstate",
-      "community": 23,
+      "community": 4,
       "norm_label": "avatarrenderstate"
     },
     {
@@ -9266,7 +9266,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_java_callbackinfo",
-      "community": 23,
+      "community": 4,
       "norm_label": "callbackinfo"
     },
     {
@@ -9276,7 +9276,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_java_inject",
-      "community": 23,
+      "community": 4,
       "norm_label": "inject"
     },
     {
@@ -9286,7 +9286,7 @@
       "source_location": "L51",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_playercapemodelmixin_pal_updatepart",
-      "community": 23,
+      "community": 4,
       "norm_label": ".pal$updatepart()"
     },
     {
@@ -9296,7 +9296,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_java_override",
-      "community": 23,
+      "community": 4,
       "norm_label": "override"
     },
     {
@@ -9306,7 +9306,7 @@
       "source_location": "L56",
       "_origin": "ast",
       "id": "src_main_java_com_skd_mixin_playercapemodelmixin_playercapemodelmixin_pal_resetall",
-      "community": 23,
+      "community": 4,
       "norm_label": ".pal$resetall()"
     },
     {
@@ -10346,7 +10346,7 @@
       "source_location": "L112",
       "_origin": "ast",
       "id": "src_main_java_com_skd_molang_molangloader_molangloader_isconstant",
-      "community": 18,
+      "community": 6,
       "norm_label": ".isconstant()"
     },
     {
@@ -10530,116 +10530,6 @@
       "norm_label": ".flag()"
     },
     {
-      "label": "PlayerAnimCoreModNeo.java",
-      "file_type": "code",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L1",
-      "_origin": "ast",
-      "id": "src_main_java_com_skd_neoforge_playeranimcoremodneo",
-      "community": 45,
-      "norm_label": "playeranimcoremodneo.java"
-    },
-    {
-      "label": "PlayerAnimCoreModNeo",
-      "file_type": "code",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L19",
-      "_origin": "ast",
-      "id": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo",
-      "community": 45,
-      "norm_label": "playeranimcoremodneo"
-    },
-    {
-      "label": "Mod",
-      "file_type": "code",
-      "source_file": "",
-      "source_location": "",
-      "_origin": "ast",
-      "id": "mod",
-      "community": 45,
-      "norm_label": "mod"
-    },
-    {
-      "label": ".PlayerAnimCoreModNeo()",
-      "file_type": "code",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L21",
-      "_origin": "ast",
-      "id": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo_playeranimcoremodneo",
-      "community": 45,
-      "norm_label": ".playeranimcoremodneo()"
-    },
-    {
-      "label": "IEventBus",
-      "file_type": "code",
-      "source_file": "",
-      "source_location": "",
-      "_origin": "ast",
-      "id": "ieventbus",
-      "community": 45,
-      "norm_label": "ieventbus"
-    },
-    {
-      "label": ".onAddClientReloadListeners()",
-      "file_type": "code",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L30",
-      "_origin": "ast",
-      "id": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo_onaddclientreloadlisteners",
-      "community": 45,
-      "norm_label": ".onaddclientreloadlisteners()"
-    },
-    {
-      "label": "AddClientReloadListenersEvent",
-      "file_type": "code",
-      "source_file": "",
-      "source_location": "",
-      "_origin": "ast",
-      "id": "addclientreloadlistenersevent",
-      "community": 45,
-      "norm_label": "addclientreloadlistenersevent"
-    },
-    {
-      "label": ".onRegisterCommands()",
-      "file_type": "code",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L34",
-      "_origin": "ast",
-      "id": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo_onregistercommands",
-      "community": 45,
-      "norm_label": ".onregistercommands()"
-    },
-    {
-      "label": "RegisterClientCommandsEvent",
-      "file_type": "code",
-      "source_file": "",
-      "source_location": "",
-      "_origin": "ast",
-      "id": "registerclientcommandsevent",
-      "community": 45,
-      "norm_label": "registerclientcommandsevent"
-    },
-    {
-      "label": ".onClientInit()",
-      "file_type": "code",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L38",
-      "_origin": "ast",
-      "id": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo_onclientinit",
-      "community": 45,
-      "norm_label": ".onclientinit()"
-    },
-    {
-      "label": "FMLClientSetupEvent",
-      "file_type": "code",
-      "source_file": "",
-      "source_location": "",
-      "_origin": "ast",
-      "id": "fmlclientsetupevent",
-      "community": 45,
-      "norm_label": "fmlclientsetupevent"
-    },
-    {
       "label": "PlayerAnimCoreServiceImpl.java",
       "file_type": "code",
       "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreServiceImpl.java",
@@ -10688,6 +10578,116 @@
       "id": "src_main_java_com_skd_neoforge_playeranimcoreserviceimpl_java_override",
       "community": 53,
       "norm_label": "override"
+    },
+    {
+      "label": "PlayerAnimationCore.java",
+      "file_type": "code",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "src_main_java_com_skd_neoforge_playeranimationcore",
+      "community": 38,
+      "norm_label": "playeranimationcore.java"
+    },
+    {
+      "label": "PlayerAnimationCore",
+      "file_type": "code",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore",
+      "community": 38,
+      "norm_label": "playeranimationcore"
+    },
+    {
+      "label": "Mod",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "mod",
+      "community": 38,
+      "norm_label": "mod"
+    },
+    {
+      "label": ".PlayerAnimationCore()",
+      "file_type": "code",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L21",
+      "_origin": "ast",
+      "id": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore_playeranimationcore",
+      "community": 38,
+      "norm_label": ".playeranimationcore()"
+    },
+    {
+      "label": "IEventBus",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "ieventbus",
+      "community": 38,
+      "norm_label": "ieventbus"
+    },
+    {
+      "label": ".onAddClientReloadListeners()",
+      "file_type": "code",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L30",
+      "_origin": "ast",
+      "id": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore_onaddclientreloadlisteners",
+      "community": 38,
+      "norm_label": ".onaddclientreloadlisteners()"
+    },
+    {
+      "label": "AddClientReloadListenersEvent",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "addclientreloadlistenersevent",
+      "community": 38,
+      "norm_label": "addclientreloadlistenersevent"
+    },
+    {
+      "label": ".onRegisterCommands()",
+      "file_type": "code",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L34",
+      "_origin": "ast",
+      "id": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore_onregistercommands",
+      "community": 38,
+      "norm_label": ".onregistercommands()"
+    },
+    {
+      "label": "RegisterClientCommandsEvent",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "registerclientcommandsevent",
+      "community": 38,
+      "norm_label": "registerclientcommandsevent"
+    },
+    {
+      "label": ".onClientInit()",
+      "file_type": "code",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L38",
+      "_origin": "ast",
+      "id": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore_onclientinit",
+      "community": 38,
+      "norm_label": ".onclientinit()"
+    },
+    {
+      "label": "FMLClientSetupEvent",
+      "file_type": "code",
+      "source_file": "",
+      "source_location": "",
+      "_origin": "ast",
+      "id": "fmlclientsetupevent",
+      "community": 38,
+      "norm_label": "fmlclientsetupevent"
     },
     {
       "label": "MolangEvent.java",
@@ -10986,7 +10986,7 @@
       "source_location": "L279",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary_animationbinary_negatekeyframeexpressions",
-      "community": 64,
+      "community": 14,
       "norm_label": ".negatekeyframeexpressions()"
     },
     {
@@ -10996,7 +10996,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinary_java_expression",
-      "community": 64,
+      "community": 14,
       "norm_label": "expression"
     },
     {
@@ -11006,7 +11006,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_animationbinaryv6",
-      "community": 14,
+      "community": 22,
       "norm_label": "animationbinaryv6.java"
     },
     {
@@ -11126,7 +11126,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel",
-      "community": 14,
+      "community": 25,
       "norm_label": "bonechannel"
     },
     {
@@ -11136,7 +11136,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_rotation_x",
-      "community": 14,
+      "community": 25,
       "norm_label": "rotation_x"
     },
     {
@@ -11146,7 +11146,7 @@
       "source_location": "L12",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_rotation_y",
-      "community": 14,
+      "community": 25,
       "norm_label": "rotation_y"
     },
     {
@@ -11156,7 +11156,7 @@
       "source_location": "L13",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_rotation_z",
-      "community": 14,
+      "community": 25,
       "norm_label": "rotation_z"
     },
     {
@@ -11166,7 +11166,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_position_x",
-      "community": 14,
+      "community": 25,
       "norm_label": "position_x"
     },
     {
@@ -11176,7 +11176,7 @@
       "source_location": "L15",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_position_y",
-      "community": 14,
+      "community": 25,
       "norm_label": "position_y"
     },
     {
@@ -11186,7 +11186,7 @@
       "source_location": "L16",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_position_z",
-      "community": 14,
+      "community": 25,
       "norm_label": "position_z"
     },
     {
@@ -11196,7 +11196,7 @@
       "source_location": "L17",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_scale_x",
-      "community": 14,
+      "community": 25,
       "norm_label": "scale_x"
     },
     {
@@ -11206,7 +11206,7 @@
       "source_location": "L18",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_scale_y",
-      "community": 14,
+      "community": 25,
       "norm_label": "scale_y"
     },
     {
@@ -11216,7 +11216,7 @@
       "source_location": "L19",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_scale_z",
-      "community": 14,
+      "community": 25,
       "norm_label": "scale_z"
     },
     {
@@ -11226,7 +11226,7 @@
       "source_location": "L20",
       "_origin": "ast",
       "id": "src_main_java_com_skd_network_bonechannel_bonechannel_bend",
-      "community": 14,
+      "community": 25,
       "norm_label": "bend"
     },
     {
@@ -12146,7 +12146,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_particleeffectutils",
-      "community": 65,
+      "community": 38,
       "norm_label": "particleeffectutils.java"
     },
     {
@@ -12156,7 +12156,7 @@
       "source_location": "L6",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_particleeffectutils_particleeffectutils",
-      "community": 65,
+      "community": 38,
       "norm_label": "particleeffectutils"
     },
     {
@@ -12166,7 +12166,7 @@
       "source_location": "L7",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_particleeffectutils_particleeffectutils_parseidentifier",
-      "community": 65,
+      "community": 38,
       "norm_label": ".parseidentifier()"
     },
     {
@@ -12176,7 +12176,7 @@
       "source_location": "L11",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_particleeffectutils_particleeffectutils_getidentifier",
-      "community": 65,
+      "community": 38,
       "norm_label": ".getidentifier()"
     },
     {
@@ -12186,7 +12186,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_particleeffectutils_java_jsonobject",
-      "community": 65,
+      "community": 38,
       "norm_label": "jsonobject"
     },
     {
@@ -12196,7 +12196,7 @@
       "source_location": "L1",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil",
-      "community": 37,
+      "community": 4,
       "norm_label": "renderutil.java"
     },
     {
@@ -12206,7 +12206,7 @@
       "source_location": "L9",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil_renderutil",
-      "community": 37,
+      "community": 4,
       "norm_label": "renderutil"
     },
     {
@@ -12216,7 +12216,7 @@
       "source_location": "L10",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil_renderutil_rotatematrixaroundbone",
-      "community": 37,
+      "community": 4,
       "norm_label": ".rotatematrixaroundbone()"
     },
     {
@@ -12226,7 +12226,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil_java_posestack",
-      "community": 37,
+      "community": 4,
       "norm_label": "posestack"
     },
     {
@@ -12236,7 +12236,7 @@
       "source_location": "L14",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil_renderutil_translateparttocape",
-      "community": 37,
+      "community": 4,
       "norm_label": ".translateparttocape()"
     },
     {
@@ -12246,7 +12246,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil_java_modelpart",
-      "community": 37,
+      "community": 4,
       "norm_label": "modelpart"
     },
     {
@@ -12256,7 +12256,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "partpose",
-      "community": 37,
+      "community": 4,
       "norm_label": "partpose"
     },
     {
@@ -12266,7 +12266,7 @@
       "source_location": "L26",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil_renderutil_translateparttobone",
-      "community": 37,
+      "community": 4,
       "norm_label": ".translateparttobone()"
     },
     {
@@ -12276,7 +12276,7 @@
       "source_location": "L38",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil_renderutil_translatematrixtobone",
-      "community": 37,
+      "community": 4,
       "norm_label": ".translatematrixtobone()"
     },
     {
@@ -12286,7 +12286,7 @@
       "source_location": "L44",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil_renderutil_copyvanillapart",
-      "community": 37,
+      "community": 4,
       "norm_label": ".copyvanillapart()"
     },
     {
@@ -12296,7 +12296,7 @@
       "source_location": "L53",
       "_origin": "ast",
       "id": "src_main_java_com_skd_util_renderutil_renderutil_rotatezyx",
-      "community": 37,
+      "community": 4,
       "norm_label": ".rotatezyx()"
     },
     {
@@ -12306,7 +12306,7 @@
       "source_location": "",
       "_origin": "ast",
       "id": "pose",
-      "community": 37,
+      "community": 4,
       "norm_label": "pose"
     },
     {
@@ -12370,10 +12370,50 @@
       "norm_label": "player animation core - changelog"
     },
     {
+      "label": "[1.0.2] - 2026-08-05",
+      "file_type": "document",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L11",
+      "_origin": "ast",
+      "id": "changelog_1_0_2_2026_08_05",
+      "community": 66,
+      "norm_label": "[1.0.2] - 2026-08-05"
+    },
+    {
+      "label": "Change",
+      "file_type": "document",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L13",
+      "_origin": "ast",
+      "id": "changelog_change",
+      "community": 66,
+      "norm_label": "change"
+    },
+    {
+      "label": "[1.0.1] - 2026-08-02",
+      "file_type": "document",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L17",
+      "_origin": "ast",
+      "id": "changelog_1_0_1_2026_08_02",
+      "community": 66,
+      "norm_label": "[1.0.1] - 2026-08-02"
+    },
+    {
+      "label": "Refactor",
+      "file_type": "document",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L19",
+      "_origin": "ast",
+      "id": "changelog_refactor",
+      "community": 66,
+      "norm_label": "refactor"
+    },
+    {
       "label": "[1.0.0] - 2026-08-02",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L10",
+      "source_location": "L22",
       "_origin": "ast",
       "id": "changelog_1_0_0_2026_08_02",
       "community": 66,
@@ -12383,7 +12423,7 @@
       "label": "Added",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L12",
+      "source_location": "L24",
       "_origin": "ast",
       "id": "changelog_added",
       "community": 66,
@@ -12393,7 +12433,7 @@
       "label": "Fixed",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L15",
+      "source_location": "L27",
       "_origin": "ast",
       "id": "changelog_fixed",
       "community": 66,
@@ -12403,7 +12443,7 @@
       "label": "[0.0.0-beta.3] - 2026-08-02",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L18",
+      "source_location": "L30",
       "_origin": "ast",
       "id": "changelog_0_0_0_beta_3_2026_08_02",
       "community": 66,
@@ -12413,9 +12453,9 @@
       "label": "Fixed",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L20",
+      "source_location": "L32",
       "_origin": "ast",
-      "id": "changelog_fixed_20",
+      "id": "changelog_fixed_32",
       "community": 66,
       "norm_label": "fixed"
     },
@@ -12423,7 +12463,7 @@
       "label": "[0.0.0-beta.2] - 2026-08-02",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L23",
+      "source_location": "L35",
       "_origin": "ast",
       "id": "changelog_0_0_0_beta_2_2026_08_02",
       "community": 66,
@@ -12433,9 +12473,9 @@
       "label": "Fixed",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L25",
+      "source_location": "L37",
       "_origin": "ast",
-      "id": "changelog_fixed_25",
+      "id": "changelog_fixed_37",
       "community": 66,
       "norm_label": "fixed"
     },
@@ -12443,7 +12483,7 @@
       "label": "[0.0.0-beta.1] - 2026-08-02",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L28",
+      "source_location": "L40",
       "_origin": "ast",
       "id": "changelog_0_0_0_beta_1_2026_08_02",
       "community": 66,
@@ -12453,9 +12493,9 @@
       "label": "Added",
       "file_type": "document",
       "source_file": "CHANGELOG.md",
-      "source_location": "L30",
+      "source_location": "L42",
       "_origin": "ast",
-      "id": "changelog_added_30",
+      "id": "changelog_added_42",
       "community": 66,
       "norm_label": "added"
     },
@@ -12813,7 +12853,7 @@
       "label": "Convenciones de nomenclatura",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md",
-      "source_location": "L21",
+      "source_location": "L20",
       "_origin": "ast",
       "id": "docs_workflow_player_animation_core_26_2_convenciones_de_nomenclatura",
       "community": 39,
@@ -12823,7 +12863,7 @@
       "label": "Organizaci\u00f3n y ramas",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md",
-      "source_location": "L30",
+      "source_location": "L29",
       "_origin": "ast",
       "id": "docs_workflow_player_animation_core_26_2_organizaci\u00f3n_y_ramas",
       "community": 39,
@@ -12833,7 +12873,7 @@
       "label": "Estructura del proyecto",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md",
-      "source_location": "L36",
+      "source_location": "L35",
       "_origin": "ast",
       "id": "docs_workflow_player_animation_core_26_2_estructura_del_proyecto",
       "community": 39,
@@ -12843,7 +12883,7 @@
       "label": "Versionado",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md",
-      "source_location": "L40",
+      "source_location": "L39",
       "_origin": "ast",
       "id": "docs_workflow_player_animation_core_26_2_versionado",
       "community": 39,
@@ -12853,7 +12893,7 @@
       "label": "Commits (Conventional Commits)",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md",
-      "source_location": "L45",
+      "source_location": "L44",
       "_origin": "ast",
       "id": "docs_workflow_player_animation_core_26_2_commits_conventional_commits",
       "community": 39,
@@ -12863,7 +12903,7 @@
       "label": "Tags",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md",
-      "source_location": "L49",
+      "source_location": "L48",
       "_origin": "ast",
       "id": "docs_workflow_player_animation_core_26_2_tags",
       "community": 39,
@@ -12873,7 +12913,7 @@
       "label": "Flujo por tarea",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md",
-      "source_location": "L53",
+      "source_location": "L52",
       "_origin": "ast",
       "id": "docs_workflow_player_animation_core_26_2_flujo_por_tarea",
       "community": 39,
@@ -12883,7 +12923,7 @@
       "label": "Buenas pr\u00e1cticas",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md",
-      "source_location": "L88",
+      "source_location": "L87",
       "_origin": "ast",
       "id": "docs_workflow_player_animation_core_26_2_buenas_pr\u00e1cticas",
       "community": 39,
@@ -12893,7 +12933,7 @@
       "label": "Idioma",
       "file_type": "document",
       "source_file": "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md",
-      "source_location": "L95",
+      "source_location": "L94",
       "_origin": "ast",
       "id": "docs_workflow_player_animation_core_26_2_idioma",
       "community": 39,
@@ -13108,6 +13148,26 @@
       "id": "docs_curseforge_versions_1_0_0",
       "community": 78,
       "norm_label": "1.0.0.md"
+    },
+    {
+      "label": "1.0.1.md",
+      "file_type": "document",
+      "source_file": "docs/curseforge/versions/1.0.1.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_curseforge_versions_1_0_1",
+      "community": 40,
+      "norm_label": "1.0.1.md"
+    },
+    {
+      "label": "1.0.2.md",
+      "file_type": "document",
+      "source_file": "docs/curseforge/versions/1.0.2.md",
+      "source_location": "L1",
+      "_origin": "ast",
+      "id": "docs_curseforge_versions_1_0_2",
+      "community": 41,
+      "norm_label": "1.0.2.md"
     }
   ],
   "links": [
@@ -13527,20 +13587,20 @@
       "relation": "imports",
       "context": "import",
       "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
       "source_location": "L3",
       "weight": 1.0,
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo",
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore",
       "target": "src_main_java_com_skd_playeranimcoremod_playeranimcoremod",
       "confidence_score": 1.0
     },
     {
       "relation": "inherits",
       "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
       "source_location": "L19",
       "weight": 1.0,
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo",
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore",
       "target": "src_main_java_com_skd_playeranimcoremod_playeranimcoremod",
       "confidence_score": 1.0
     },
@@ -21561,10 +21621,10 @@
       "relation": "imports",
       "context": "import",
       "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
       "source_location": "L4",
       "weight": 1.0,
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo",
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore",
       "target": "src_main_java_com_skd_animation_playeranimresources",
       "confidence_score": 1.0
     },
@@ -21664,10 +21724,10 @@
       "context": "call",
       "confidence": "INFERRED",
       "confidence_score": 0.8,
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
       "source_location": "L31",
       "weight": 1.0,
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo_onaddclientreloadlisteners",
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore_onaddclientreloadlisteners",
       "target": "src_main_java_com_skd_animation_playeranimresources_playeranimresources"
     },
     {
@@ -28794,10 +28854,10 @@
       "relation": "imports",
       "context": "import",
       "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
       "source_location": "L5",
       "weight": 1.0,
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo",
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore",
       "target": "src_main_java_com_skd_api_playeranimationaccess",
       "confidence_score": 1.0
     },
@@ -30933,10 +30993,10 @@
       "relation": "imports",
       "context": "import",
       "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
       "source_location": "L6",
       "weight": 1.0,
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo",
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore",
       "target": "src_main_java_com_skd_commands_playeranimcommands",
       "confidence_score": 1.0
     },
@@ -31049,10 +31109,10 @@
       "context": "call",
       "confidence": "EXTRACTED",
       "confidence_score": 1.0,
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
       "source_location": "L35",
       "weight": 1.0,
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo_onregistercommands",
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore_onregistercommands",
       "target": "src_main_java_com_skd_commands_playeranimcommands_playeranimcommands_register"
     },
     {
@@ -40384,177 +40444,6 @@
       "confidence_score": 1.0
     },
     {
-      "relation": "imports",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L14",
-      "weight": 1.0,
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo",
-      "target": "addclientreloadlistenersevent",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L12",
-      "weight": 1.0,
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo",
-      "target": "fmlclientsetupevent",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L9",
-      "weight": 1.0,
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo",
-      "target": "ieventbus",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L11",
-      "weight": 1.0,
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo",
-      "target": "mod",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L7",
-      "weight": 1.0,
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo",
-      "target": "src_main_java_com_skd_neoforge_event_playeranimationregisterevent",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "imports",
-      "context": "import",
-      "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L15",
-      "weight": 1.0,
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo",
-      "target": "registerclientcommandsevent",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "contains",
-      "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L19",
-      "weight": 1.0,
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo",
-      "target": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L19",
-      "weight": 1.0,
-      "context": "attribute",
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo",
-      "target": "mod",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "method",
-      "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L30",
-      "weight": 1.0,
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo",
-      "target": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo_onaddclientreloadlisteners",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "method",
-      "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L38",
-      "weight": 1.0,
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo",
-      "target": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo_onclientinit",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "method",
-      "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L34",
-      "weight": 1.0,
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo",
-      "target": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo_onregistercommands",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "method",
-      "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L21",
-      "weight": 1.0,
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo",
-      "target": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo_playeranimcoremodneo",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L21",
-      "weight": 1.0,
-      "context": "parameter_type",
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo_playeranimcoremodneo",
-      "target": "ieventbus",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L30",
-      "weight": 1.0,
-      "context": "parameter_type",
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo_onaddclientreloadlisteners",
-      "target": "addclientreloadlistenersevent",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L34",
-      "weight": 1.0,
-      "context": "parameter_type",
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo_onregistercommands",
-      "target": "registerclientcommandsevent",
-      "confidence_score": 1.0
-    },
-    {
-      "relation": "references",
-      "confidence": "EXTRACTED",
-      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreModNeo.java",
-      "source_location": "L38",
-      "weight": 1.0,
-      "context": "parameter_type",
-      "source": "src_main_java_com_skd_neoforge_playeranimcoremodneo_playeranimcoremodneo_onclientinit",
-      "target": "fmlclientsetupevent",
-      "confidence_score": 1.0
-    },
-    {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "src/main/java/com/skd/neoforge/PlayerAnimCoreServiceImpl.java",
@@ -40593,6 +40482,177 @@
       "context": "attribute",
       "source": "src_main_java_com_skd_neoforge_playeranimcoreserviceimpl_playeranimcoreserviceimpl_ismodloaded",
       "target": "src_main_java_com_skd_neoforge_playeranimcoreserviceimpl_java_override",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L14",
+      "weight": 1.0,
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore",
+      "target": "addclientreloadlistenersevent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L12",
+      "weight": 1.0,
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore",
+      "target": "fmlclientsetupevent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L9",
+      "weight": 1.0,
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore",
+      "target": "ieventbus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore",
+      "target": "mod",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L7",
+      "weight": 1.0,
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore",
+      "target": "src_main_java_com_skd_neoforge_event_playeranimationregisterevent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "imports",
+      "context": "import",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L15",
+      "weight": 1.0,
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore",
+      "target": "registerclientcommandsevent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore",
+      "target": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L19",
+      "weight": 1.0,
+      "context": "attribute",
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore",
+      "target": "mod",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L30",
+      "weight": 1.0,
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore",
+      "target": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore_onaddclientreloadlisteners",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L38",
+      "weight": 1.0,
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore",
+      "target": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore_onclientinit",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L34",
+      "weight": 1.0,
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore",
+      "target": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore_onregistercommands",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "method",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L21",
+      "weight": 1.0,
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore",
+      "target": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore_playeranimationcore",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L21",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore_playeranimationcore",
+      "target": "ieventbus",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L30",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore_onaddclientreloadlisteners",
+      "target": "addclientreloadlistenersevent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L34",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore_onregistercommands",
+      "target": "registerclientcommandsevent",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "source_file": "src/main/java/com/skd/neoforge/PlayerAnimationCore.java",
+      "source_location": "L38",
+      "weight": 1.0,
+      "context": "parameter_type",
+      "source": "src_main_java_com_skd_neoforge_playeranimationcore_playeranimationcore_onclientinit",
+      "target": "fmlclientsetupevent",
       "confidence_score": 1.0
     },
     {
@@ -43869,7 +43929,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L28",
+      "source_location": "L40",
       "weight": 1.0,
       "source": "changelog_player_animation_core_changelog",
       "target": "changelog_0_0_0_beta_1_2026_08_02",
@@ -43879,7 +43939,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L23",
+      "source_location": "L35",
       "weight": 1.0,
       "source": "changelog_player_animation_core_changelog",
       "target": "changelog_0_0_0_beta_2_2026_08_02",
@@ -43889,7 +43949,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L18",
+      "source_location": "L30",
       "weight": 1.0,
       "source": "changelog_player_animation_core_changelog",
       "target": "changelog_0_0_0_beta_3_2026_08_02",
@@ -43899,7 +43959,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L10",
+      "source_location": "L22",
       "weight": 1.0,
       "source": "changelog_player_animation_core_changelog",
       "target": "changelog_1_0_0_2026_08_02",
@@ -43909,7 +43969,47 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L12",
+      "source_location": "L17",
+      "weight": 1.0,
+      "source": "changelog_player_animation_core_changelog",
+      "target": "changelog_1_0_1_2026_08_02",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L11",
+      "weight": 1.0,
+      "source": "changelog_player_animation_core_changelog",
+      "target": "changelog_1_0_2_2026_08_05",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L13",
+      "weight": 1.0,
+      "source": "changelog_1_0_2_2026_08_05",
+      "target": "changelog_change",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L19",
+      "weight": 1.0,
+      "source": "changelog_1_0_1_2026_08_02",
+      "target": "changelog_refactor",
+      "confidence_score": 1.0
+    },
+    {
+      "relation": "contains",
+      "confidence": "EXTRACTED",
+      "source_file": "CHANGELOG.md",
+      "source_location": "L24",
       "weight": 1.0,
       "source": "changelog_1_0_0_2026_08_02",
       "target": "changelog_added",
@@ -43919,7 +44019,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L15",
+      "source_location": "L27",
       "weight": 1.0,
       "source": "changelog_1_0_0_2026_08_02",
       "target": "changelog_fixed",
@@ -43929,30 +44029,30 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L20",
+      "source_location": "L32",
       "weight": 1.0,
       "source": "changelog_0_0_0_beta_3_2026_08_02",
-      "target": "changelog_fixed_20",
+      "target": "changelog_fixed_32",
       "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L25",
+      "source_location": "L37",
       "weight": 1.0,
       "source": "changelog_0_0_0_beta_2_2026_08_02",
-      "target": "changelog_fixed_25",
+      "target": "changelog_fixed_37",
       "confidence_score": 1.0
     },
     {
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "CHANGELOG.md",
-      "source_location": "L30",
+      "source_location": "L42",
       "weight": 1.0,
       "source": "changelog_0_0_0_beta_1_2026_08_02",
-      "target": "changelog_added_30",
+      "target": "changelog_added_42",
       "confidence_score": 1.0
     },
     {
@@ -44259,7 +44359,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md",
-      "source_location": "L88",
+      "source_location": "L87",
       "weight": 1.0,
       "source": "docs_workflow_player_animation_core_26_2_flujo_de_trabajo_player_animation_core_neoforge",
       "target": "docs_workflow_player_animation_core_26_2_buenas_pr\u00e1cticas",
@@ -44269,7 +44369,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md",
-      "source_location": "L45",
+      "source_location": "L44",
       "weight": 1.0,
       "source": "docs_workflow_player_animation_core_26_2_flujo_de_trabajo_player_animation_core_neoforge",
       "target": "docs_workflow_player_animation_core_26_2_commits_conventional_commits",
@@ -44279,7 +44379,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md",
-      "source_location": "L21",
+      "source_location": "L20",
       "weight": 1.0,
       "source": "docs_workflow_player_animation_core_26_2_flujo_de_trabajo_player_animation_core_neoforge",
       "target": "docs_workflow_player_animation_core_26_2_convenciones_de_nomenclatura",
@@ -44299,7 +44399,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md",
-      "source_location": "L36",
+      "source_location": "L35",
       "weight": 1.0,
       "source": "docs_workflow_player_animation_core_26_2_flujo_de_trabajo_player_animation_core_neoforge",
       "target": "docs_workflow_player_animation_core_26_2_estructura_del_proyecto",
@@ -44309,7 +44409,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md",
-      "source_location": "L53",
+      "source_location": "L52",
       "weight": 1.0,
       "source": "docs_workflow_player_animation_core_26_2_flujo_de_trabajo_player_animation_core_neoforge",
       "target": "docs_workflow_player_animation_core_26_2_flujo_por_tarea",
@@ -44319,7 +44419,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md",
-      "source_location": "L95",
+      "source_location": "L94",
       "weight": 1.0,
       "source": "docs_workflow_player_animation_core_26_2_flujo_de_trabajo_player_animation_core_neoforge",
       "target": "docs_workflow_player_animation_core_26_2_idioma",
@@ -44329,7 +44429,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md",
-      "source_location": "L30",
+      "source_location": "L29",
       "weight": 1.0,
       "source": "docs_workflow_player_animation_core_26_2_flujo_de_trabajo_player_animation_core_neoforge",
       "target": "docs_workflow_player_animation_core_26_2_organizaci\u00f3n_y_ramas",
@@ -44339,7 +44439,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md",
-      "source_location": "L49",
+      "source_location": "L48",
       "weight": 1.0,
       "source": "docs_workflow_player_animation_core_26_2_flujo_de_trabajo_player_animation_core_neoforge",
       "target": "docs_workflow_player_animation_core_26_2_tags",
@@ -44349,7 +44449,7 @@
       "relation": "contains",
       "confidence": "EXTRACTED",
       "source_file": "docs/WORKFLOW_PLAYER_ANIMATION_CORE_26-2.md",
-      "source_location": "L40",
+      "source_location": "L39",
       "weight": 1.0,
       "source": "docs_workflow_player_animation_core_26_2_flujo_de_trabajo_player_animation_core_neoforge",
       "target": "docs_workflow_player_animation_core_26_2_versionado",
@@ -44517,5 +44617,5 @@
     }
   ],
   "hyperedges": [],
-  "built_at_commit": "ab187fbf7e3c19e88dce54d97edb63933002e11c"
+  "built_at_commit": "c93146f2f98e3d08372972385f4397db326cf862"
 }
