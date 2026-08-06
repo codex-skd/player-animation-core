@@ -92,7 +92,7 @@ public FirstPersonConfiguration getFirstPersonConfiguration() {
 }
 </code></pre>
 
-<p>See the <a href="https://gitlab.com/stalking-dragons/minecraft/player-animation-core/-/blob/main/DOCS.md">full API reference</a> for details.</p>
+<p>See the <a href="https://gitlab.com/stalking-dragons/minecraft/player-animation-core/-/blob/production/docs/DEVELOPER.md">full API reference</a> for details.</p>
 
 <br>
 
