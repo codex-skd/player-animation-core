@@ -1,5 +1,12 @@
 # Player Animation Core - Changelog
 
+
+## [1.0.2] - 2026-08-12
+
+### Change
+
+- **Nombre de JAR con versión del cargador**: el artefacto ahora se compila como `player_animation_core-26.1.2-neoforge-26.1.2.78-1.0.2.jar` (se añade la versión de cargador/NeoForge al nombre del archivo). Empaquetado y documentación; sin cambios de funcionalidad.
+
 ## 1.0.1 (2026-08-02)
 - Clase principal `PlayerAnimCoreModNeo` → `PlayerAnimationCore` y `mod_group_id` corregido a `com.skd.playeranimationcore` (residuo del fork "Player Animation Library"). Sin cambios de funcionalidad.
 
