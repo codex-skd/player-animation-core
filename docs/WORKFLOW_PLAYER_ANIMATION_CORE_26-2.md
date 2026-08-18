@@ -14,7 +14,7 @@
 | Display name (Title Case) | `Player Animation Core` |
 | Versiones de Minecraft | `26.2` |
 | Rama | `minecraft/26.2/neoforge-26.2.0.45-beta/production` |
-| Última versión publicada | `1.0.4` (CurseForge file ID TBD) |
+| Última versión publicada | `1.0.4` (CurseForge file ID 8677243) |
 | Estado | ✅ Release estable 1.0.4 |
 
 ### Notas específicas de este mod
