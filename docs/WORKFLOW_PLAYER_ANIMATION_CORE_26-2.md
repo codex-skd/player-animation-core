@@ -13,7 +13,7 @@
 | Clase principal | `PlayerAnimationCore` |
 | Display name (Title Case) | `Player Animation Core` |
 | Versiones de Minecraft | `26.2` |
-| Rama | `minecraft/26.2/neoforge-26.2.0.45-beta/production` |
+| Rama | `minecraft/26.2/neoforge-26.2.0.57/production` |
 | Última versión publicada | `1.0.4` (CurseForge file ID 8677243) |
 | Estado | ✅ Release estable 1.0.4 |
 
@@ -58,7 +58,7 @@ Cada subida a CurseForge crea tag: beta `<mc>-neoforge-beta.X` · release `<mc>-
 **1. Desarrollo**
 
 ```bash
-git checkout minecraft/26.2/neoforge-26.2.0.45-beta/production
+git checkout minecraft/26.2/neoforge-26.2.0.57/production
 ./gradlew.bat build
 git add -A
 git commit -m "feat: <descripción>
